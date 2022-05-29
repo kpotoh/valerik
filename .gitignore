@@ -1,0 +1,13 @@
+data/raw
+
+*.db
+*.ipynb_checkpoints
+*__pycache__
+env*
+evn*
+*.Rhistory
+mutspec.egg-info
+*.tar*
+tests/data/states_sample.db
+.vscode
+.pytest_cache
