@@ -15,6 +15,31 @@ Raw
 1. trees
 2. **unneded** [pie](https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f) chart like in the [paper](./docs/Samylina2021_Article_OnThePossibilityOfAerobicMetha.pdf)
 3. **almost done** Relative abundance VS depth - [stackplot](https://stackoverflow.com/questions/50802556/how-to-plot-a-vertical-area-plot-with-pandas)
-4. Microbial community by 16S rRNA gene NMDS (non-metric multidimensional scaling ordination)
-5. Chemicals VS community composition
-6. GC content (genetics)
+4. Microbial community by 16S rRNA gene [NMDS](http://qiime.org/scripts/nmds.html) (non-metric multidimensional scaling ordination)
+5. quime [beta diversity](http://qiime.org/scripts/beta_diversity.html) analysis
+6. Chemicals VS community composition
+7. GC content (genetics)
+
+## NMDS
+
+The microbial community composition differed significantly by station (Figure
+24a; ANOSIM: R = 0.36, p = 0.006, 999 permutation) except between Stations H and I
+(ANOSIM: R < 0.01, p= 0.17). The community composition differed also between 0-10cm
+and 10-20 cm sediment depths (Figure 24b; ANOSIM: R = 0.35 p= 0.001). The surface
+samples from all stations were clustered relatively closely (ANOSIM: R = 0.35, p = 0.018),
+120compared to the deeper sediment samples (ANOSIM: R = 0.77, p = 0.001) (Figure 24b).
+**The deeper the sediment cores, the microbial communities are more different among the
+stations.** This reflects that geochemical gradients downcore shape specific niche
+differentiation for microbial community.
+
+Figure 24: Non-metric multidimensional scaling (NMDS) plot of microbial
+communities based on Bray-Curtis dissimilarity for 16S rRNA gene libraries. The
+community profiles from each sample; a) color represents sampling stations. Ellipses
+represent 95% intervals around centroids for each sampling station. b) color
+represents sediment depth.
+
+## References
+
+1. [Non-metric multidimensional scaling](https://mb3is.megx.net/gustame/dissimilarity-based-methods/nmds)
+2. sklearn [MDS](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html) with `metric=False`
+3. bla
