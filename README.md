@@ -14,7 +14,7 @@ Raw
 
 1. trees
 2. **unneded** [pie](https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f) chart like in the [paper](./docs/Samylina2021_Article_OnThePossibilityOfAerobicMetha.pdf)
-3. **almost done** Relative abundance VS depth - [stackplot](https://stackoverflow.com/questions/50802556/how-to-plot-a-vertical-area-plot-with-pandas)
+3. **done** Relative abundance VS depth - [stackplot](https://stackoverflow.com/questions/50802556/how-to-plot-a-vertical-area-plot-with-pandas)
 4. Microbial community by 16S rRNA gene [NMDS](http://qiime.org/scripts/nmds.html) (non-metric multidimensional scaling ordination)
 5. quime [beta diversity](http://qiime.org/scripts/beta_diversity.html) analysis
 6. Chemicals VS community composition
@@ -42,4 +42,4 @@ represents sediment depth.
 
 1. [Non-metric multidimensional scaling](https://mb3is.megx.net/gustame/dissimilarity-based-methods/nmds)
 2. sklearn [MDS](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html) with `metric=False`
-3. bla
+3. [Beta diversity](http://scikit-bio.org/docs/0.2.0/generated/skbio.diversity.beta.html) in python
