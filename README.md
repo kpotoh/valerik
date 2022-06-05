@@ -12,13 +12,13 @@ Raw
 нужен анализ главных компонент с той геологической штукой (в которых нет 4 моих образцов по глубине) и корреляции групп JS1 с глубиной. Константин Сенсей наш еще про ГЦ состав говорил но наверное его можно для глубины сделать( для каждой пробы отдельно всех в кучу , типа как отношение к кислороду…
 ```
 
-1. trees
+1. tree on OTUs
 2. **unneded** [pie](https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f) chart like in the [paper](./docs/Samylina2021_Article_OnThePossibilityOfAerobicMetha.pdf)
 3. **done** Relative abundance VS depth - [stackplot](https://stackoverflow.com/questions/50802556/how-to-plot-a-vertical-area-plot-with-pandas)
-4. Microbial community by 16S rRNA gene [NMDS](http://qiime.org/scripts/nmds.html) (non-metric multidimensional scaling ordination)
-5. quime [beta diversity](http://qiime.org/scripts/beta_diversity.html) analysis
+4. **almost done** [beta diversity](http://qiime.org/scripts/beta_diversity.html) analysis
+5. **almost done** Microbial community by 16S rRNA gene [NMDS](http://qiime.org/scripts/nmds.html) (non-metric multidimensional scaling ordination)
 6. Chemicals VS community composition
-7. GC content (genetics)
+7. Global correlation plot
 
 ## NMDS
 
