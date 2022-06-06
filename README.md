@@ -1,5 +1,25 @@
 # Microbial images
 
+## Environment
+
+Fight exceptions:
+
+1. [Step-by-step installation of qiime](https://www.metagenomics.wiki/tools/16s/qiime/install/packagesnotfounderror)
+2. [version of biom-format](https://github.com/biocore/biom-format/issues/839)
+
+```bash
+conda create -n qiime1 python=2.7  # create conda environment "qiime1"  
+conda activate qiime1    # open "qiime1" environment
+
+pip install numpy        # install numpy (python)
+pip install biom-format==2.1.7
+pip install qiime        # install qiime-1 (python)
+pip install h5py         # install h5py (python) for reading .biom files
+pip install matplotlib==1.4.3
+
+print_qiime_config.py -t # test qiime-1 configuration
+```
+
 ## Plan
 
 Raw
@@ -12,13 +32,48 @@ Raw
 нужен анализ главных компонент с той геологической штукой (в которых нет 4 моих образцов по глубине) и корреляции групп JS1 с глубиной. Константин Сенсей наш еще про ГЦ состав говорил но наверное его можно для глубины сделать( для каждой пробы отдельно всех в кучу , типа как отношение к кислороду…
 ```
 
-1. tree on OTUs
+1. **done** tree on OTUs
 2. **unneded** [pie](https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f) chart like in the [paper](./docs/Samylina2021_Article_OnThePossibilityOfAerobicMetha.pdf)
 3. **done** Relative abundance VS depth - [stackplot](https://stackoverflow.com/questions/50802556/how-to-plot-a-vertical-area-plot-with-pandas)
-4. **almost done** [beta diversity](http://qiime.org/scripts/beta_diversity.html) analysis
-5. **almost done** Microbial community by 16S rRNA gene [NMDS](http://qiime.org/scripts/nmds.html) (non-metric multidimensional scaling ordination)
+4. **done** [beta diversity](http://qiime.org/scripts/beta_diversity.html) analysis
+5. **done** Microbial community by 16S rRNA gene [NMDS](http://qiime.org/scripts/nmds.html) (non-metric multidimensional scaling ordination)
 6. Chemicals VS community composition
 7. Global correlation plot
+
+## Phylogenetic Tree
+
+T.R. Iasakov et al. 2022
+
+Sequences of the V4 hypervariable region of the 16S rRNA gene
+belonging to the ANME group and reference 16S rRNA gene sequences of
+the closest cultivated archaea were aligned using MUSCLE (Edgar,
+2004). Phylogenetic tree of archaeal 16S rRNA of V4 hypervariable re­
+gion gene sequences was inferred with RAxML software ver. 8.2.4
+(Stamatakis, 2014) using the Maximum Likelihood method with
+GAMMA + P-Invariant model and GTR substitution matrix. 100 boot­
+straps were produced to assess confidence of the phylogenetic tree. The
+phylogenetic tree was visualized using FigTree.
+
+```bash
+# Alignment
+muscle -in sequences_otu.fasta -out aln_otu.fasta
+
+# Building tree
+iqtree2 -s aln_otu.fasta -m GTR+G -nt 24 -B 1000 --prefix phylo
+
+# rooting
+nw_reroot phylo.treefile > phylo.treefile.rooted
+```
+
+## Beta diversity
+
+```bash
+beta_diversity.py -i otu_table.biom -m bray_curtis -o beta_div_bray_curtis
+beta_diversity.py -i otu_table.biom -m unweighted_unifrac -o beta_div_unweighted_unifrac -t phylo.treefile
+beta_diversity.py -i otu_table.biom -m weighted_unifrac -o beta_div_weighted_unifrac -t phylo.treefile
+
+weighted_unifrac
+```
 
 ## NMDS
 
