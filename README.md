@@ -37,7 +37,7 @@ Raw
 3. **done** Relative abundance VS depth - [stackplot](https://stackoverflow.com/questions/50802556/how-to-plot-a-vertical-area-plot-with-pandas)
 4. **done** [beta diversity](http://qiime.org/scripts/beta_diversity.html) analysis
 5. **done** Microbial community by 16S rRNA gene [NMDS](http://qiime.org/scripts/nmds.html) (non-metric multidimensional scaling ordination)
-6. Chemicals VS community composition
+6. Chemicals VS community composition. RDA should be chosen if the studied gradient is small, and CCA when it’s large, so that the contingency table is sparse.
 7. Global correlation plot
 
 ## Phylogenetic Tree
@@ -98,3 +98,5 @@ represents sediment depth.
 1. [Non-metric multidimensional scaling](https://mb3is.megx.net/gustame/dissimilarity-based-methods/nmds)
 2. sklearn [MDS](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html) with `metric=False`
 3. [Beta diversity](http://scikit-bio.org/docs/0.2.0/generated/skbio.diversity.beta.html) in python
+4. [QIIME tutorial](https://twbattaglia.gitbooks.io/introduction-to-qiime/content/beta_analysis.html); looks nice
+5. [biom table](https://biom-format.org/documentation/generated/biom.table.Table.html)
