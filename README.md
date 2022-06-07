@@ -38,7 +38,7 @@ Raw
 4. **done** [beta diversity](http://qiime.org/scripts/beta_diversity.html) analysis
 5. **done** Microbial community by 16S rRNA gene [NMDS](http://qiime.org/scripts/nmds.html) (non-metric multidimensional scaling ordination)
 6. Chemicals VS community composition. RDA should be chosen if the studied gradient is small, and CCA when it’s large, so that the contingency table is sparse.
-7. Global correlation plot
+7. **almost done** Global correlation plot
 
 ## Phylogenetic Tree
 
