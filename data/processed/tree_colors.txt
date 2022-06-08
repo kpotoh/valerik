@@ -1,1225 +1,1228 @@
-OTU_4	label	#3e51c5	Actinobacteriota
-OTU_16	label	#3e51c5	Actinobacteriota
-OTU_2	label	#4257c9	Chloroflexi
-OTU_26	label	#455cce	Desulfobacterota
-OTU_5	label	#3e51c5	Actinobacteriota
-OTU_13	label	#455cce	Desulfobacterota
-OTU_10	label	#4961d2	Cyanobacteria
-OTU_8	label	#3e51c5	Actinobacteriota
-OTU_15	label	#4c66d6	Planctomycetota
-OTU_38	label	#455cce	Desulfobacterota
-OTU_54	label	#3e51c5	Actinobacteriota
-OTU_45	label	#3e51c5	Actinobacteriota
-OTU_93	label	#506bda	Verrucomicrobiota
-OTU_127	label	#4c66d6	Planctomycetota
-OTU_6	label	#4961d2	Cyanobacteria
-OTU_70	label	#455cce	Desulfobacterota
-OTU_49	label	#3e51c5	Actinobacteriota
-OTU_57	label	#5470de	Proteobacteria
-OTU_74	label	#5875e1	Acidobacteriota
-OTU_132	label	#455cce	Desulfobacterota
-OTU_115	label	#455cce	Desulfobacterota
-OTU_12	label	#455cce	Desulfobacterota
-OTU_55	label	#455cce	Desulfobacterota
-OTU_60	label	#455cce	Desulfobacterota
-OTU_35	label	#4257c9	Chloroflexi
-OTU_82	label	#4961d2	Cyanobacteria
-OTU_62	label	#506bda	Verrucomicrobiota
-OTU_97	label	#4257c9	Chloroflexi
-OTU_56	label	#5b7ae5	Bacteroidota
-OTU_133	label	#5f7fe8	Sva0485
-OTU_69	label	#6384eb	Latescibacterota
-OTU_11	label	#5875e1	Acidobacteriota
-OTU_72	label	#5b7ae5	Bacteroidota
-OTU_106	label	#6788ee	Calditrichota
-OTU_79	label	#6b8df0	NB1-j
-OTU_24	label	#6f92f3	Campylobacterota
-OTU_169	label	#4257c9	Chloroflexi
-OTU_47	label	#4257c9	Chloroflexi
-OTU_111	label	#7396f5	Zixibacteria
-OTU_390	label	#779af7	Myxococcota
-OTU_77	label	#4c66d6	Planctomycetota
-OTU_114	label	#4257c9	Chloroflexi
-OTU_355	label	#4c66d6	Planctomycetota
-OTU_30	label	#5470de	Proteobacteria
-OTU_27	label	#5470de	Proteobacteria
-OTU_151	label	#7b9ff9	Nanoarchaeota
-OTU_87	label	#455cce	Desulfobacterota
-OTU_216	label	#6384eb	Latescibacterota
-OTU_18	label	#4c66d6	Planctomycetota
-OTU_83	label	#5470de	Proteobacteria
-OTU_113	label	#455cce	Desulfobacterota
-OTU_39	label	#5470de	Proteobacteria
-OTU_188	label	#4257c9	Chloroflexi
-OTU_268	label	#4961d2	Cyanobacteria
-OTU_190	label	#80a3fa	Dependentiae
-OTU_7	label	#5470de	Proteobacteria
-OTU_144	label	#5b7ae5	Bacteroidota
-OTU_138	label	#84a7fc	Firmicutes
-OTU_373	label	#84a7fc	Firmicutes
-OTU_40	label	#88abfd	Gemmatimonadota
-OTU_32	label	#779af7	Myxococcota
-OTU_22	label	#5470de	Proteobacteria
-OTU_200	label	#5470de	Proteobacteria
-OTU_187	label	#506bda	Verrucomicrobiota
-OTU_335	label	#455cce	Desulfobacterota
-OTU_14	label	#8db0fe	MBNT15
-OTU_415	label	#779af7	Myxococcota
-OTU_86	label	#5875e1	Acidobacteriota
-OTU_248	label	#455cce	Desulfobacterota
-OTU_265	label	#5875e1	Acidobacteriota
-OTU_66	label	#6788ee	Calditrichota
-OTU_143	label	#92b4fe	NKB15
-OTU_227	label	#5470de	Proteobacteria
-OTU_99	label	#96b7ff	SAR324 clade(Marine group B)
-OTU_150	label	#9abbff	Spirochaetota
-OTU_184	label	#9ebeff	WS2
-OTU_168	label	#5875e1	Acidobacteriota
-OTU_101	label	#3e51c5	Actinobacteriota
-OTU_61	label	#3e51c5	Actinobacteriota
-OTU_283	label	#80a3fa	Dependentiae
-OTU_193	label	#a2c1ff	Marinimicrobia (SAR406 clade)
-OTU_303	label	#4c66d6	Planctomycetota
-OTU_350	label	#4c66d6	Planctomycetota
-OTU_88	label	#4c66d6	Planctomycetota
-OTU_201	label	#5470de	Proteobacteria
-OTU_110	label	#3e51c5	Actinobacteriota
-OTU_247	label	#3e51c5	Actinobacteriota
-OTU_140	label	#5b7ae5	Bacteroidota
-OTU_173	label	#6f92f3	Campylobacterota
-OTU_120	label	#4257c9	Chloroflexi
-OTU_252	label	#4257c9	Chloroflexi
-OTU_53	label	#4257c9	Chloroflexi
-OTU_281	label	#455cce	Desulfobacterota
-OTU_270	label	#84a7fc	Firmicutes
-OTU_209	label	#5470de	Proteobacteria
-OTU_266	label	#5470de	Proteobacteria
-OTU_44	label	#5470de	Proteobacteria
-OTU_203	label	#506bda	Verrucomicrobiota
-OTU_42	label	#3e51c5	Actinobacteriota
-OTU_179	label	#5b7ae5	Bacteroidota
-OTU_284	label	#5b7ae5	Bacteroidota
-OTU_334	label	#455cce	Desulfobacterota
-OTU_149	label	#455cce	Desulfobacterota
-OTU_226	label	#455cce	Desulfobacterota
-OTU_273	label	#84a7fc	Firmicutes
-OTU_43	label	#88abfd	Gemmatimonadota
-OTU_344	label	#a6c4fe	Hydrogenedentes
-OTU_260	label	#aac7fd	Modulibacteria
-OTU_48	label	#aec9fc	Nitrospirota
-OTU_416	label	#b2ccfb	Patescibacteria
-OTU_483	label	#4c66d6	Planctomycetota
-OTU_80	label	#5470de	Proteobacteria
-OTU_282	label	#9abbff	Spirochaetota
-OTU_131	label	#7b9ff9	Nanoarchaeota
-OTU_649	label	#5875e1	Acidobacteriota
-OTU_297	label	#3e51c5	Actinobacteriota
-OTU_300	label	#3e51c5	Actinobacteriota
-OTU_212	label	#5b7ae5	Bacteroidota
-OTU_105	label	#5b7ae5	Bacteroidota
-OTU_642	label	#5b7ae5	Bacteroidota
-OTU_462	label	#5b7ae5	Bacteroidota
-OTU_481	label	#b6cefa	Bdellovibrionota
-OTU_302	label	#4257c9	Chloroflexi
-OTU_23	label	#4257c9	Chloroflexi
-OTU_221	label	#4257c9	Chloroflexi
-OTU_182	label	#4257c9	Chloroflexi
-OTU_210	label	#455cce	Desulfobacterota
-OTU_263	label	#455cce	Desulfobacterota
-OTU_75	label	#455cce	Desulfobacterota
-OTU_301	label	#455cce	Desulfobacterota
-OTU_366	label	#bad0f8	Elusimicrobiota
-OTU_130	label	#bed2f6	Fermentibacterota
-OTU_333	label	#84a7fc	Firmicutes
-OTU_177	label	#84a7fc	Firmicutes
-OTU_191	label	#c1d4f4	LCP-89
-OTU_674	label	#c5d6f2	Margulisbacteria
-OTU_95	label	#aec9fc	Nitrospirota
-OTU_428	label	#b2ccfb	Patescibacteria
-OTU_425	label	#4c66d6	Planctomycetota
-OTU_175	label	#4c66d6	Planctomycetota
-OTU_392	label	#4c66d6	Planctomycetota
-OTU_91	label	#4c66d6	Planctomycetota
-OTU_306	label	#5470de	Proteobacteria
-OTU_73	label	#5470de	Proteobacteria
-OTU_139	label	#5470de	Proteobacteria
-OTU_224	label	#5470de	Proteobacteria
-OTU_473	label	#5470de	Proteobacteria
-OTU_239	label	#5470de	Proteobacteria
-OTU_125	label	#c9d7f0	Sumerlaeota
-OTU_611	label	#506bda	Verrucomicrobiota
-OTU_391	label	#506bda	Verrucomicrobiota
-OTU_206	label	#506bda	Verrucomicrobiota
-OTU_364	label	#ccd9ed	Thermoplasmatota
-OTU_90	label	#5875e1	Acidobacteriota
-OTU_275	label	#5875e1	Acidobacteriota
-OTU_400	label	#5875e1	Acidobacteriota
-OTU_202	label	#5875e1	Acidobacteriota
-OTU_238	label	#5b7ae5	Bacteroidota
-OTU_142	label	#5b7ae5	Bacteroidota
-OTU_195	label	#5b7ae5	Bacteroidota
-OTU_542	label	#b6cefa	Bdellovibrionota
-OTU_158	label	#4257c9	Chloroflexi
-OTU_94	label	#455cce	Desulfobacterota
-OTU_478	label	#455cce	Desulfobacterota
-OTU_386	label	#455cce	Desulfobacterota
-OTU_269	label	#cfdaea	Fibrobacterota
-OTU_231	label	#84a7fc	Firmicutes
-OTU_128	label	#88abfd	Gemmatimonadota
-OTU_220	label	#6384eb	Latescibacterota
-OTU_495	label	#779af7	Myxococcota
-OTU_506	label	#779af7	Myxococcota
-OTU_163	label	#779af7	Myxococcota
-OTU_112	label	#4c66d6	Planctomycetota
-OTU_68	label	#4c66d6	Planctomycetota
-OTU_244	label	#4c66d6	Planctomycetota
-OTU_345	label	#4c66d6	Planctomycetota
-OTU_321	label	#4c66d6	Planctomycetota
-OTU_235	label	#4c66d6	Planctomycetota
-OTU_452	label	#5470de	Proteobacteria
-OTU_246	label	#5470de	Proteobacteria
-OTU_520	label	#5470de	Proteobacteria
-OTU_100	label	#5470de	Proteobacteria
-OTU_272	label	#5470de	Proteobacteria
-OTU_320	label	#5470de	Proteobacteria
-OTU_259	label	#c9d7f0	Sumerlaeota
-OTU_456	label	#506bda	Verrucomicrobiota
-OTU_324	label	#506bda	Verrucomicrobiota
-OTU_775	label	#d3dbe7	WPS-2
-OTU_198	label	#d6dce4	WS1
-OTU_58	label	#d9dce1	Crenarchaeota
-OTU_349	label	#7b9ff9	Nanoarchaeota
-OTU_404	label	#3e51c5	Actinobacteriota
-OTU_225	label	#3e51c5	Actinobacteriota
-OTU_500	label	#3e51c5	Actinobacteriota
-OTU_3	label	#3e51c5	Actinobacteriota
-OTU_256	label	#dddcdc	Armatimonadota
-OTU_204	label	#5b7ae5	Bacteroidota
-OTU_721	label	#5b7ae5	Bacteroidota
-OTU_672	label	#5b7ae5	Bacteroidota
-OTU_211	label	#5b7ae5	Bacteroidota
-OTU_638	label	#5b7ae5	Bacteroidota
-OTU_660	label	#5b7ae5	Bacteroidota
-OTU_37	label	#5b7ae5	Bacteroidota
-OTU_469	label	#5b7ae5	Bacteroidota
-OTU_549	label	#b6cefa	Bdellovibrionota
-OTU_1	label	#e0dbd8	Caldatribacteriota
-OTU_228	label	#4257c9	Chloroflexi
-OTU_372	label	#4257c9	Chloroflexi
-OTU_582	label	#4961d2	Cyanobacteria
-OTU_871	label	#455cce	Desulfobacterota
-OTU_589	label	#455cce	Desulfobacterota
-OTU_118	label	#455cce	Desulfobacterota
-OTU_1114	label	#455cce	Desulfobacterota
-OTU_835	label	#455cce	Desulfobacterota
-OTU_371	label	#455cce	Desulfobacterota
-OTU_136	label	#455cce	Desulfobacterota
-OTU_664	label	#455cce	Desulfobacterota
-OTU_153	label	#455cce	Desulfobacterota
-OTU_821	label	#e3d9d3	FW113
-OTU_389	label	#84a7fc	Firmicutes
-OTU_561	label	#84a7fc	Firmicutes
-OTU_258	label	#88abfd	Gemmatimonadota
-OTU_448	label	#779af7	Myxococcota
-OTU_476	label	#779af7	Myxococcota
-OTU_724	label	#779af7	Myxococcota
-OTU_137	label	#779af7	Myxococcota
-OTU_365	label	#4c66d6	Planctomycetota
-OTU_468	label	#5470de	Proteobacteria
-OTU_484	label	#5470de	Proteobacteria
-OTU_146	label	#5470de	Proteobacteria
-OTU_315	label	#5470de	Proteobacteria
-OTU_678	label	#5470de	Proteobacteria
-OTU_689	label	#5470de	Proteobacteria
-OTU_565	label	#5470de	Proteobacteria
-OTU_479	label	#5470de	Proteobacteria
-OTU_181	label	#5470de	Proteobacteria
-OTU_267	label	#5470de	Proteobacteria
-OTU_103	label	#5470de	Proteobacteria
-OTU_342	label	#5470de	Proteobacteria
-OTU_251	label	#5470de	Proteobacteria
-OTU_398	label	#5470de	Proteobacteria
-OTU_518	label	#5470de	Proteobacteria
-OTU_712	label	#5470de	Proteobacteria
-OTU_219	label	#9abbff	Spirochaetota
-OTU_28	label	#9abbff	Spirochaetota
-OTU_605	label	#506bda	Verrucomicrobiota
-OTU_236	label	#e6d7cf	WOR-1
-OTU_46	label	#e9d5cb	Asgardarchaeota
-OTU_33	label	#d9dce1	Crenarchaeota
-OTU_25	label	#d9dce1	Crenarchaeota
-OTU_232	label	#ebd3c6	Euryarchaeota
-OTU_71	label	#ccd9ed	Thermoplasmatota
-OTU_36	label	#edd1c2	Acetothermia
-OTU_442	label	#5875e1	Acidobacteriota
-OTU_199	label	#5875e1	Acidobacteriota
-OTU_493	label	#5875e1	Acidobacteriota
-OTU_902	label	#3e51c5	Actinobacteriota
-OTU_205	label	#3e51c5	Actinobacteriota
-OTU_644	label	#3e51c5	Actinobacteriota
-OTU_842	label	#3e51c5	Actinobacteriota
-OTU_1053	label	#3e51c5	Actinobacteriota
-OTU_738	label	#3e51c5	Actinobacteriota
-OTU_960	label	#3e51c5	Actinobacteriota
-OTU_67	label	#5b7ae5	Bacteroidota
-OTU_856	label	#5b7ae5	Bacteroidota
-OTU_358	label	#5b7ae5	Bacteroidota
-OTU_870	label	#5b7ae5	Bacteroidota
-OTU_482	label	#5b7ae5	Bacteroidota
-OTU_310	label	#5b7ae5	Bacteroidota
-OTU_92	label	#5b7ae5	Bacteroidota
-OTU_156	label	#5b7ae5	Bacteroidota
-OTU_467	label	#5b7ae5	Bacteroidota
-OTU_1048	label	#5b7ae5	Bacteroidota
-OTU_661	label	#5b7ae5	Bacteroidota
-OTU_1118	label	#b6cefa	Bdellovibrionota
-OTU_162	label	#b6cefa	Bdellovibrionota
-OTU_875	label	#6788ee	Calditrichota
-OTU_594	label	#6f92f3	Campylobacterota
-OTU_659	label	#6f92f3	Campylobacterota
-OTU_453	label	#4257c9	Chloroflexi
-OTU_288	label	#4257c9	Chloroflexi
-OTU_1031	label	#4257c9	Chloroflexi
-OTU_245	label	#4257c9	Chloroflexi
-OTU_17	label	#4257c9	Chloroflexi
-OTU_171	label	#4257c9	Chloroflexi
-OTU_107	label	#4257c9	Chloroflexi
-OTU_174	label	#efcebd	Cloacimonadota
-OTU_360	label	#efcebd	Cloacimonadota
-OTU_575	label	#4961d2	Cyanobacteria
-OTU_160	label	#80a3fa	Dependentiae
-OTU_96	label	#80a3fa	Dependentiae
-OTU_403	label	#80a3fa	Dependentiae
-OTU_388	label	#455cce	Desulfobacterota
-OTU_396	label	#455cce	Desulfobacterota
-OTU_108	label	#455cce	Desulfobacterota
-OTU_530	label	#455cce	Desulfobacterota
-OTU_718	label	#455cce	Desulfobacterota
-OTU_126	label	#455cce	Desulfobacterota
-OTU_378	label	#455cce	Desulfobacterota
-OTU_717	label	#bad0f8	Elusimicrobiota
-OTU_725	label	#cfdaea	Fibrobacterota
-OTU_65	label	#84a7fc	Firmicutes
-OTU_1146	label	#84a7fc	Firmicutes
-OTU_419	label	#84a7fc	Firmicutes
-OTU_463	label	#84a7fc	Firmicutes
-OTU_628	label	#84a7fc	Firmicutes
-OTU_213	label	#84a7fc	Firmicutes
-OTU_984	label	#84a7fc	Firmicutes
-OTU_295	label	#84a7fc	Firmicutes
-OTU_1210	label	#84a7fc	Firmicutes
-OTU_921	label	#779af7	Myxococcota
-OTU_410	label	#779af7	Myxococcota
-OTU_1214	label	#779af7	Myxococcota
-OTU_595	label	#f1ccb8	PAUC34f
-OTU_705	label	#b2ccfb	Patescibacteria
-OTU_648	label	#b2ccfb	Patescibacteria
-OTU_833	label	#b2ccfb	Patescibacteria
-OTU_529	label	#b2ccfb	Patescibacteria
-OTU_374	label	#b2ccfb	Patescibacteria
-OTU_980	label	#b2ccfb	Patescibacteria
-OTU_129	label	#b2ccfb	Patescibacteria
-OTU_176	label	#b2ccfb	Patescibacteria
-OTU_1226	label	#b2ccfb	Patescibacteria
-OTU_599	label	#4c66d6	Planctomycetota
-OTU_145	label	#4c66d6	Planctomycetota
-OTU_20	label	#4c66d6	Planctomycetota
-OTU_596	label	#4c66d6	Planctomycetota
-OTU_719	label	#4c66d6	Planctomycetota
-OTU_330	label	#4c66d6	Planctomycetota
-OTU_134	label	#4c66d6	Planctomycetota
-OTU_839	label	#4c66d6	Planctomycetota
-OTU_714	label	#4c66d6	Planctomycetota
-OTU_447	label	#4c66d6	Planctomycetota
-OTU_249	label	#4c66d6	Planctomycetota
-OTU_489	label	#4c66d6	Planctomycetota
-OTU_257	label	#4c66d6	Planctomycetota
-OTU_186	label	#4c66d6	Planctomycetota
-OTU_707	label	#5470de	Proteobacteria
-OTU_786	label	#5470de	Proteobacteria
-OTU_223	label	#5470de	Proteobacteria
-OTU_395	label	#5470de	Proteobacteria
-OTU_312	label	#5470de	Proteobacteria
-OTU_858	label	#5470de	Proteobacteria
-OTU_501	label	#5470de	Proteobacteria
-OTU_510	label	#5470de	Proteobacteria
-OTU_9	label	#5470de	Proteobacteria
-OTU_607	label	#5470de	Proteobacteria
-OTU_50	label	#5470de	Proteobacteria
-OTU_289	label	#5470de	Proteobacteria
-OTU_458	label	#5470de	Proteobacteria
-OTU_805	label	#5470de	Proteobacteria
-OTU_1004	label	#5470de	Proteobacteria
-OTU_517	label	#5470de	Proteobacteria
-OTU_465	label	#5470de	Proteobacteria
-OTU_475	label	#5470de	Proteobacteria
-OTU_939	label	#5470de	Proteobacteria
-OTU_412	label	#5470de	Proteobacteria
-OTU_995	label	#5470de	Proteobacteria
-OTU_250	label	#5470de	Proteobacteria
-OTU_116	label	#5470de	Proteobacteria
-OTU_807	label	#5470de	Proteobacteria
-OTU_253	label	#5470de	Proteobacteria
-OTU_752	label	#5470de	Proteobacteria
-OTU_262	label	#5470de	Proteobacteria
-OTU_347	label	#5470de	Proteobacteria
-OTU_857	label	#5470de	Proteobacteria
-OTU_19	label	#5470de	Proteobacteria
-OTU_164	label	#5470de	Proteobacteria
-OTU_562	label	#5470de	Proteobacteria
-OTU_528	label	#5470de	Proteobacteria
-OTU_788	label	#5470de	Proteobacteria
-OTU_449	label	#5470de	Proteobacteria
-OTU_346	label	#5470de	Proteobacteria
-OTU_577	label	#5470de	Proteobacteria
-OTU_387	label	#5470de	Proteobacteria
-OTU_332	label	#5470de	Proteobacteria
-OTU_507	label	#5470de	Proteobacteria
-OTU_867	label	#5470de	Proteobacteria
-OTU_877	label	#5470de	Proteobacteria
-OTU_122	label	#5470de	Proteobacteria
-OTU_828	label	#9abbff	Spirochaetota
-OTU_704	label	#9abbff	Spirochaetota
-OTU_978	label	#9abbff	Spirochaetota
-OTU_948	label	#9abbff	Spirochaetota
-OTU_526	label	#9abbff	Spirochaetota
-OTU_1148	label	#9abbff	Spirochaetota
-OTU_891	label	#506bda	Verrucomicrobiota
-OTU_406	label	#506bda	Verrucomicrobiota
-OTU_698	label	#506bda	Verrucomicrobiota
-OTU_466	label	#506bda	Verrucomicrobiota
-OTU_513	label	#506bda	Verrucomicrobiota
-OTU_277	label	#506bda	Verrucomicrobiota
-OTU_733	label	#506bda	Verrucomicrobiota
-OTU_912	label	#506bda	Verrucomicrobiota
-OTU_691	label	#f2c9b4	Aenigmarchaeota
-OTU_609	label	#f2c9b4	Aenigmarchaeota
-OTU_722	label	#f4c6af	Altiarchaeota
-OTU_155	label	#e9d5cb	Asgardarchaeota
-OTU_340	label	#e9d5cb	Asgardarchaeota
-OTU_1077	label	#d9dce1	Crenarchaeota
-OTU_29	label	#d9dce1	Crenarchaeota
-OTU_1032	label	#d9dce1	Crenarchaeota
-OTU_886	label	#d9dce1	Crenarchaeota
-OTU_665	label	#d9dce1	Crenarchaeota
-OTU_955	label	#ebd3c6	Euryarchaeota
-OTU_834	label	#ebd3c6	Euryarchaeota
-OTU_1132	label	#f5c2aa	Hadarchaeota
-OTU_183	label	#f6bfa6	Halobacterota
-OTU_592	label	#f6bfa6	Halobacterota
-OTU_1236	label	#f6bfa6	Halobacterota
-OTU_1024	label	#f6bfa6	Halobacterota
-OTU_414	label	#f6bfa6	Halobacterota
-OTU_633	label	#f6bfa6	Halobacterota
-OTU_503	label	#f6bfa6	Halobacterota
-OTU_1054	label	#f6bfa6	Halobacterota
-OTU_354	label	#f6bfa6	Halobacterota
-OTU_566	label	#f6bfa6	Halobacterota
-OTU_279	label	#f6bfa6	Halobacterota
-OTU_996	label	#f6bfa6	Halobacterota
-OTU_1212	label	#f7bca1	Iainarchaeota
-OTU_296	label	#f7bca1	Iainarchaeota
-OTU_646	label	#f7b89c	Micrarchaeota
-OTU_369	label	#f7b89c	Micrarchaeota
-OTU_751	label	#7b9ff9	Nanoarchaeota
-OTU_435	label	#7b9ff9	Nanoarchaeota
-OTU_1092	label	#7b9ff9	Nanoarchaeota
-OTU_1020	label	#7b9ff9	Nanoarchaeota
-OTU_1181	label	#ccd9ed	Thermoplasmatota
-OTU_585	label	#ccd9ed	Thermoplasmatota
-OTU_89	label	#ccd9ed	Thermoplasmatota
-OTU_359	label	#ccd9ed	Thermoplasmatota
-OTU_375	label	#f7b497	10bav-F6
-OTU_655	label	#f7b093	Abditibacteriota
-OTU_351	label	#5875e1	Acidobacteriota
-OTU_356	label	#5875e1	Acidobacteriota
-OTU_1177	label	#5875e1	Acidobacteriota
-OTU_666	label	#5875e1	Acidobacteriota
-OTU_1109	label	#5875e1	Acidobacteriota
-OTU_437	label	#5875e1	Acidobacteriota
-OTU_1220	label	#5875e1	Acidobacteriota
-OTU_409	label	#5875e1	Acidobacteriota
-OTU_1156	label	#5875e1	Acidobacteriota
-OTU_987	label	#5875e1	Acidobacteriota
-OTU_1137	label	#5875e1	Acidobacteriota
-OTU_818	label	#5875e1	Acidobacteriota
-OTU_1057	label	#5875e1	Acidobacteriota
-OTU_699	label	#5875e1	Acidobacteriota
-OTU_616	label	#5875e1	Acidobacteriota
-OTU_509	label	#5875e1	Acidobacteriota
-OTU_965	label	#5875e1	Acidobacteriota
-OTU_645	label	#5875e1	Acidobacteriota
-OTU_1098	label	#5875e1	Acidobacteriota
-OTU_1047	label	#5875e1	Acidobacteriota
-OTU_1255	label	#5875e1	Acidobacteriota
-OTU_550	label	#5875e1	Acidobacteriota
-OTU_1106	label	#5875e1	Acidobacteriota
-OTU_1108	label	#3e51c5	Actinobacteriota
-OTU_756	label	#3e51c5	Actinobacteriota
-OTU_512	label	#3e51c5	Actinobacteriota
-OTU_348	label	#3e51c5	Actinobacteriota
-OTU_1133	label	#3e51c5	Actinobacteriota
-OTU_1065	label	#3e51c5	Actinobacteriota
-OTU_1121	label	#3e51c5	Actinobacteriota
-OTU_841	label	#3e51c5	Actinobacteriota
-OTU_1240	label	#3e51c5	Actinobacteriota
-OTU_771	label	#3e51c5	Actinobacteriota
-OTU_823	label	#3e51c5	Actinobacteriota
-OTU_1135	label	#3e51c5	Actinobacteriota
-OTU_1090	label	#3e51c5	Actinobacteriota
-OTU_711	label	#3e51c5	Actinobacteriota
-OTU_635	label	#3e51c5	Actinobacteriota
-OTU_790	label	#3e51c5	Actinobacteriota
-OTU_1218	label	#3e51c5	Actinobacteriota
-OTU_1200	label	#3e51c5	Actinobacteriota
-OTU_917	label	#3e51c5	Actinobacteriota
-OTU_801	label	#3e51c5	Actinobacteriota
-OTU_855	label	#3e51c5	Actinobacteriota
-OTU_959	label	#3e51c5	Actinobacteriota
-OTU_937	label	#3e51c5	Actinobacteriota
-OTU_1245	label	#3e51c5	Actinobacteriota
-OTU_974	label	#3e51c5	Actinobacteriota
-OTU_271	label	#3e51c5	Actinobacteriota
-OTU_909	label	#3e51c5	Actinobacteriota
-OTU_988	label	#3e51c5	Actinobacteriota
-OTU_1158	label	#3e51c5	Actinobacteriota
-OTU_1083	label	#3e51c5	Actinobacteriota
-OTU_796	label	#3e51c5	Actinobacteriota
-OTU_1103	label	#3e51c5	Actinobacteriota
-OTU_662	label	#3e51c5	Actinobacteriota
-OTU_1050	label	#3e51c5	Actinobacteriota
-OTU_1059	label	#3e51c5	Actinobacteriota
-OTU_852	label	#3e51c5	Actinobacteriota
-OTU_1066	label	#3e51c5	Actinobacteriota
-OTU_629	label	#3e51c5	Actinobacteriota
-OTU_497	label	#3e51c5	Actinobacteriota
-OTU_748	label	#3e51c5	Actinobacteriota
-OTU_1064	label	#3e51c5	Actinobacteriota
-OTU_868	label	#3e51c5	Actinobacteriota
-OTU_873	label	#3e51c5	Actinobacteriota
-OTU_583	label	#3e51c5	Actinobacteriota
-OTU_997	label	#3e51c5	Actinobacteriota
-OTU_906	label	#3e51c5	Actinobacteriota
-OTU_338	label	#3e51c5	Actinobacteriota
-OTU_837	label	#3e51c5	Actinobacteriota
-OTU_1252	label	#3e51c5	Actinobacteriota
-OTU_1130	label	#3e51c5	Actinobacteriota
-OTU_602	label	#3e51c5	Actinobacteriota
-OTU_795	label	#3e51c5	Actinobacteriota
-OTU_1124	label	#3e51c5	Actinobacteriota
-OTU_727	label	#3e51c5	Actinobacteriota
-OTU_983	label	#3e51c5	Actinobacteriota
-OTU_1078	label	#3e51c5	Actinobacteriota
-OTU_457	label	#3e51c5	Actinobacteriota
-OTU_450	label	#3e51c5	Actinobacteriota
-OTU_178	label	#3e51c5	Actinobacteriota
-OTU_511	label	#3e51c5	Actinobacteriota
-OTU_1163	label	#3e51c5	Actinobacteriota
-OTU_848	label	#3e51c5	Actinobacteriota
-OTU_1044	label	#3e51c5	Actinobacteriota
-OTU_161	label	#3e51c5	Actinobacteriota
-OTU_85	label	#f7ac8e	Aerophobota
-OTU_524	label	#f7a889	AncK6
-OTU_274	label	#dddcdc	Armatimonadota
-OTU_34	label	#dddcdc	Armatimonadota
-OTU_440	label	#dddcdc	Armatimonadota
-OTU_757	label	#f6a385	BHI80-139
-OTU_1250	label	#5b7ae5	Bacteroidota
-OTU_1257	label	#5b7ae5	Bacteroidota
-OTU_470	label	#5b7ae5	Bacteroidota
-OTU_576	label	#5b7ae5	Bacteroidota
-OTU_1115	label	#5b7ae5	Bacteroidota
-OTU_865	label	#5b7ae5	Bacteroidota
-OTU_827	label	#5b7ae5	Bacteroidota
-OTU_903	label	#5b7ae5	Bacteroidota
-OTU_1033	label	#5b7ae5	Bacteroidota
-OTU_685	label	#5b7ae5	Bacteroidota
-OTU_443	label	#5b7ae5	Bacteroidota
-OTU_1105	label	#5b7ae5	Bacteroidota
-OTU_758	label	#5b7ae5	Bacteroidota
-OTU_992	label	#5b7ae5	Bacteroidota
-OTU_336	label	#5b7ae5	Bacteroidota
-OTU_1087	label	#5b7ae5	Bacteroidota
-OTU_946	label	#5b7ae5	Bacteroidota
-OTU_702	label	#5b7ae5	Bacteroidota
-OTU_973	label	#5b7ae5	Bacteroidota
-OTU_811	label	#5b7ae5	Bacteroidota
-OTU_778	label	#5b7ae5	Bacteroidota
-OTU_1160	label	#5b7ae5	Bacteroidota
-OTU_1244	label	#5b7ae5	Bacteroidota
-OTU_613	label	#5b7ae5	Bacteroidota
-OTU_1039	label	#5b7ae5	Bacteroidota
-OTU_918	label	#5b7ae5	Bacteroidota
-OTU_809	label	#5b7ae5	Bacteroidota
-OTU_1022	label	#5b7ae5	Bacteroidota
-OTU_544	label	#5b7ae5	Bacteroidota
-OTU_789	label	#5b7ae5	Bacteroidota
-OTU_367	label	#5b7ae5	Bacteroidota
-OTU_382	label	#5b7ae5	Bacteroidota
-OTU_573	label	#5b7ae5	Bacteroidota
-OTU_1138	label	#5b7ae5	Bacteroidota
-OTU_825	label	#5b7ae5	Bacteroidota
-OTU_329	label	#5b7ae5	Bacteroidota
-OTU_706	label	#5b7ae5	Bacteroidota
-OTU_935	label	#5b7ae5	Bacteroidota
-OTU_318	label	#5b7ae5	Bacteroidota
-OTU_990	label	#5b7ae5	Bacteroidota
-OTU_1232	label	#5b7ae5	Bacteroidota
-OTU_836	label	#5b7ae5	Bacteroidota
-OTU_686	label	#5b7ae5	Bacteroidota
-OTU_764	label	#5b7ae5	Bacteroidota
-OTU_715	label	#5b7ae5	Bacteroidota
-OTU_694	label	#5b7ae5	Bacteroidota
-OTU_298	label	#5b7ae5	Bacteroidota
-OTU_1006	label	#5b7ae5	Bacteroidota
-OTU_432	label	#5b7ae5	Bacteroidota
-OTU_570	label	#5b7ae5	Bacteroidota
-OTU_1016	label	#5b7ae5	Bacteroidota
-OTU_944	label	#5b7ae5	Bacteroidota
-OTU_445	label	#5b7ae5	Bacteroidota
-OTU_904	label	#5b7ae5	Bacteroidota
-OTU_1014	label	#5b7ae5	Bacteroidota
-OTU_728	label	#5b7ae5	Bacteroidota
-OTU_874	label	#5b7ae5	Bacteroidota
-OTU_383	label	#5b7ae5	Bacteroidota
-OTU_709	label	#5b7ae5	Bacteroidota
-OTU_167	label	#5b7ae5	Bacteroidota
-OTU_619	label	#5b7ae5	Bacteroidota
-OTU_1100	label	#b6cefa	Bdellovibrionota
-OTU_1107	label	#b6cefa	Bdellovibrionota
-OTU_491	label	#b6cefa	Bdellovibrionota
-OTU_504	label	#b6cefa	Bdellovibrionota
-OTU_967	label	#b6cefa	Bdellovibrionota
-OTU_745	label	#b6cefa	Bdellovibrionota
-OTU_1052	label	#b6cefa	Bdellovibrionota
-OTU_537	label	#b6cefa	Bdellovibrionota
-OTU_218	label	#f59f80	CK-2C2-2
-OTU_683	label	#f4987a	Caldisericota
-OTU_1202	label	#f4987a	Caldisericota
-OTU_606	label	#6788ee	Calditrichota
-OTU_384	label	#6788ee	Calditrichota
-OTU_769	label	#6f92f3	Campylobacterota
-OTU_1233	label	#4257c9	Chloroflexi
-OTU_535	label	#4257c9	Chloroflexi
-OTU_433	label	#4257c9	Chloroflexi
-OTU_1239	label	#4257c9	Chloroflexi
-OTU_569	label	#4257c9	Chloroflexi
-OTU_413	label	#4257c9	Chloroflexi
-OTU_237	label	#4257c9	Chloroflexi
-OTU_264	label	#4257c9	Chloroflexi
-OTU_791	label	#4257c9	Chloroflexi
-OTU_81	label	#4257c9	Chloroflexi
-OTU_571	label	#4257c9	Chloroflexi
-OTU_765	label	#4257c9	Chloroflexi
-OTU_362	label	#4257c9	Chloroflexi
-OTU_286	label	#4257c9	Chloroflexi
-OTU_792	label	#4257c9	Chloroflexi
-OTU_379	label	#4257c9	Chloroflexi
-OTU_1235	label	#4257c9	Chloroflexi
-OTU_429	label	#4257c9	Chloroflexi
-OTU_148	label	#4257c9	Chloroflexi
-OTU_172	label	#4257c9	Chloroflexi
-OTU_217	label	#4257c9	Chloroflexi
-OTU_1227	label	#4257c9	Chloroflexi
-OTU_63	label	#4257c9	Chloroflexi
-OTU_399	label	#4257c9	Chloroflexi
-OTU_687	label	#4257c9	Chloroflexi
-OTU_165	label	#4257c9	Chloroflexi
-OTU_52	label	#4257c9	Chloroflexi
-OTU_494	label	#4257c9	Chloroflexi
-OTU_368	label	#4257c9	Chloroflexi
-OTU_1161	label	#4257c9	Chloroflexi
-OTU_285	label	#4257c9	Chloroflexi
-OTU_929	label	#4257c9	Chloroflexi
-OTU_180	label	#4257c9	Chloroflexi
-OTU_124	label	#4257c9	Chloroflexi
-OTU_233	label	#4257c9	Chloroflexi
-OTU_1191	label	#4257c9	Chloroflexi
-OTU_1029	label	#4257c9	Chloroflexi
-OTU_1253	label	#4257c9	Chloroflexi
-OTU_631	label	#4257c9	Chloroflexi
-OTU_505	label	#4257c9	Chloroflexi
-OTU_829	label	#efcebd	Cloacimonadota
-OTU_1012	label	#4961d2	Cyanobacteria
-OTU_676	label	#4961d2	Cyanobacteria
-OTU_502	label	#4961d2	Cyanobacteria
-OTU_1157	label	#4961d2	Cyanobacteria
-OTU_1013	label	#4961d2	Cyanobacteria
-OTU_523	label	#4961d2	Cyanobacteria
-OTU_883	label	#4961d2	Cyanobacteria
-OTU_637	label	#f39475	DTB120
-OTU_98	label	#f18f71	Dadabacteria
-OTU_804	label	#f08a6c	Deferribacterota
-OTU_104	label	#ee8468	Deferrisomatota
-OTU_141	label	#ec7f63	Deinococcota
-OTU_1046	label	#ec7f63	Deinococcota
-OTU_1185	label	#455cce	Desulfobacterota
-OTU_427	label	#455cce	Desulfobacterota
-OTU_729	label	#455cce	Desulfobacterota
-OTU_1041	label	#455cce	Desulfobacterota
-OTU_1188	label	#455cce	Desulfobacterota
-OTU_1225	label	#455cce	Desulfobacterota
-OTU_76	label	#455cce	Desulfobacterota
-OTU_278	label	#455cce	Desulfobacterota
-OTU_207	label	#455cce	Desulfobacterota
-OTU_422	label	#455cce	Desulfobacterota
-OTU_819	label	#455cce	Desulfobacterota
-OTU_325	label	#455cce	Desulfobacterota
-OTU_670	label	#455cce	Desulfobacterota
-OTU_525	label	#455cce	Desulfobacterota
-OTU_1023	label	#455cce	Desulfobacterota
-OTU_261	label	#455cce	Desulfobacterota
-OTU_1213	label	#455cce	Desulfobacterota
-OTU_317	label	#455cce	Desulfobacterota
-OTU_741	label	#455cce	Desulfobacterota
-OTU_734	label	#455cce	Desulfobacterota
-OTU_78	label	#455cce	Desulfobacterota
-OTU_1249	label	#455cce	Desulfobacterota
-OTU_1136	label	#455cce	Desulfobacterota
-OTU_968	label	#455cce	Desulfobacterota
-OTU_455	label	#455cce	Desulfobacterota
-OTU_998	label	#455cce	Desulfobacterota
-OTU_454	label	#455cce	Desulfobacterota
-OTU_196	label	#455cce	Desulfobacterota
-OTU_314	label	#455cce	Desulfobacterota
-OTU_64	label	#455cce	Desulfobacterota
-OTU_593	label	#455cce	Desulfobacterota
-OTU_545	label	#e97a5f	Dictyoglomota
-OTU_560	label	#bad0f8	Elusimicrobiota
-OTU_746	label	#bad0f8	Elusimicrobiota
-OTU_753	label	#bad0f8	Elusimicrobiota
-OTU_539	label	#bad0f8	Elusimicrobiota
-OTU_446	label	#bad0f8	Elusimicrobiota
-OTU_845	label	#e7745b	Entotheonellaeota
-OTU_439	label	#e7745b	Entotheonellaeota
-OTU_632	label	#e46e56	FCPU426
-OTU_553	label	#cfdaea	Fibrobacterota
-OTU_436	label	#cfdaea	Fibrobacterota
-OTU_831	label	#cfdaea	Fibrobacterota
-OTU_872	label	#cfdaea	Fibrobacterota
-OTU_750	label	#cfdaea	Fibrobacterota
-OTU_901	label	#cfdaea	Fibrobacterota
-OTU_254	label	#cfdaea	Fibrobacterota
-OTU_958	label	#cfdaea	Fibrobacterota
-OTU_755	label	#84a7fc	Firmicutes
-OTU_370	label	#84a7fc	Firmicutes
-OTU_1080	label	#84a7fc	Firmicutes
-OTU_290	label	#84a7fc	Firmicutes
-OTU_679	label	#84a7fc	Firmicutes
-OTU_744	label	#84a7fc	Firmicutes
-OTU_826	label	#84a7fc	Firmicutes
-OTU_622	label	#84a7fc	Firmicutes
-OTU_806	label	#84a7fc	Firmicutes
-OTU_1206	label	#84a7fc	Firmicutes
-OTU_1139	label	#84a7fc	Firmicutes
-OTU_964	label	#84a7fc	Firmicutes
-OTU_1062	label	#84a7fc	Firmicutes
-OTU_567	label	#84a7fc	Firmicutes
-OTU_460	label	#84a7fc	Firmicutes
-OTU_326	label	#84a7fc	Firmicutes
-OTU_313	label	#84a7fc	Firmicutes
-OTU_882	label	#84a7fc	Firmicutes
-OTU_487	label	#84a7fc	Firmicutes
-OTU_328	label	#84a7fc	Firmicutes
-OTU_945	label	#84a7fc	Firmicutes
-OTU_424	label	#84a7fc	Firmicutes
-OTU_884	label	#84a7fc	Firmicutes
-OTU_519	label	#84a7fc	Firmicutes
-OTU_538	label	#84a7fc	Firmicutes
-OTU_610	label	#84a7fc	Firmicutes
-OTU_533	label	#84a7fc	Firmicutes
-OTU_920	label	#84a7fc	Firmicutes
-OTU_1144	label	#84a7fc	Firmicutes
-OTU_908	label	#84a7fc	Firmicutes
-OTU_684	label	#84a7fc	Firmicutes
-OTU_770	label	#84a7fc	Firmicutes
-OTU_215	label	#84a7fc	Firmicutes
-OTU_1009	label	#84a7fc	Firmicutes
-OTU_1094	label	#84a7fc	Firmicutes
-OTU_402	label	#84a7fc	Firmicutes
-OTU_568	label	#84a7fc	Firmicutes
-OTU_911	label	#84a7fc	Firmicutes
-OTU_896	label	#84a7fc	Firmicutes
-OTU_618	label	#84a7fc	Firmicutes
-OTU_1175	label	#84a7fc	Firmicutes
-OTU_1228	label	#84a7fc	Firmicutes
-OTU_890	label	#84a7fc	Firmicutes
-OTU_309	label	#84a7fc	Firmicutes
-OTU_488	label	#84a7fc	Firmicutes
-OTU_830	label	#84a7fc	Firmicutes
-OTU_1060	label	#84a7fc	Firmicutes
-OTU_1153	label	#84a7fc	Firmicutes
-OTU_546	label	#84a7fc	Firmicutes
-OTU_940	label	#84a7fc	Firmicutes
-OTU_621	label	#84a7fc	Firmicutes
-OTU_924	label	#84a7fc	Firmicutes
-OTU_531	label	#84a7fc	Firmicutes
-OTU_1084	label	#84a7fc	Firmicutes
-OTU_1127	label	#84a7fc	Firmicutes
-OTU_1176	label	#84a7fc	Firmicutes
-OTU_600	label	#84a7fc	Firmicutes
-OTU_604	label	#84a7fc	Firmicutes
-OTU_864	label	#84a7fc	Firmicutes
-OTU_838	label	#84a7fc	Firmicutes
-OTU_650	label	#84a7fc	Firmicutes
-OTU_1117	label	#84a7fc	Firmicutes
-OTU_895	label	#84a7fc	Firmicutes
-OTU_651	label	#84a7fc	Firmicutes
-OTU_754	label	#84a7fc	Firmicutes
-OTU_941	label	#84a7fc	Firmicutes
-OTU_1172	label	#84a7fc	Firmicutes
-OTU_762	label	#84a7fc	Firmicutes
-OTU_152	label	#84a7fc	Firmicutes
-OTU_255	label	#84a7fc	Firmicutes
-OTU_1150	label	#84a7fc	Firmicutes
-OTU_840	label	#84a7fc	Firmicutes
-OTU_580	label	#84a7fc	Firmicutes
-OTU_767	label	#84a7fc	Firmicutes
-OTU_802	label	#84a7fc	Firmicutes
-OTU_1167	label	#84a7fc	Firmicutes
-OTU_863	label	#84a7fc	Firmicutes
-OTU_861	label	#84a7fc	Firmicutes
-OTU_710	label	#84a7fc	Firmicutes
-OTU_963	label	#84a7fc	Firmicutes
-OTU_905	label	#84a7fc	Firmicutes
-OTU_508	label	#84a7fc	Firmicutes
-OTU_1070	label	#84a7fc	Firmicutes
-OTU_1162	label	#84a7fc	Firmicutes
-OTU_586	label	#84a7fc	Firmicutes
-OTU_943	label	#84a7fc	Firmicutes
-OTU_1205	label	#84a7fc	Firmicutes
-OTU_1165	label	#84a7fc	Firmicutes
-OTU_1089	label	#84a7fc	Firmicutes
-OTU_815	label	#84a7fc	Firmicutes
-OTU_1241	label	#84a7fc	Firmicutes
-OTU_897	label	#84a7fc	Firmicutes
-OTU_914	label	#84a7fc	Firmicutes
-OTU_949	label	#84a7fc	Firmicutes
-OTU_1230	label	#84a7fc	Firmicutes
-OTU_844	label	#84a7fc	Firmicutes
-OTU_1211	label	#84a7fc	Firmicutes
-OTU_1246	label	#84a7fc	Firmicutes
-OTU_1129	label	#84a7fc	Firmicutes
-OTU_726	label	#84a7fc	Firmicutes
-OTU_916	label	#84a7fc	Firmicutes
-OTU_305	label	#84a7fc	Firmicutes
-OTU_817	label	#84a7fc	Firmicutes
-OTU_417	label	#84a7fc	Firmicutes
-OTU_894	label	#84a7fc	Firmicutes
-OTU_541	label	#84a7fc	Firmicutes
-OTU_31	label	#84a7fc	Firmicutes
-OTU_1010	label	#84a7fc	Firmicutes
-OTU_170	label	#84a7fc	Firmicutes
-OTU_735	label	#84a7fc	Firmicutes
-OTU_1030	label	#84a7fc	Firmicutes
-OTU_612	label	#84a7fc	Firmicutes
-OTU_966	label	#84a7fc	Firmicutes
-OTU_514	label	#84a7fc	Firmicutes
-OTU_928	label	#84a7fc	Firmicutes
-OTU_1119	label	#84a7fc	Firmicutes
-OTU_1088	label	#84a7fc	Firmicutes
-OTU_1027	label	#84a7fc	Firmicutes
-OTU_1131	label	#84a7fc	Firmicutes
-OTU_930	label	#84a7fc	Firmicutes
-OTU_185	label	#84a7fc	Firmicutes
-OTU_989	label	#84a7fc	Firmicutes
-OTU_109	label	#84a7fc	Firmicutes
-OTU_322	label	#84a7fc	Firmicutes
-OTU_1081	label	#84a7fc	Firmicutes
-OTU_1026	label	#84a7fc	Firmicutes
-OTU_1003	label	#84a7fc	Firmicutes
-OTU_578	label	#84a7fc	Firmicutes
-OTU_574	label	#84a7fc	Firmicutes
-OTU_1017	label	#84a7fc	Firmicutes
-OTU_154	label	#84a7fc	Firmicutes
-OTU_675	label	#84a7fc	Firmicutes
-OTU_380	label	#84a7fc	Firmicutes
-OTU_849	label	#84a7fc	Firmicutes
-OTU_1086	label	#84a7fc	Firmicutes
-OTU_623	label	#84a7fc	Firmicutes
-OTU_1067	label	#84a7fc	Firmicutes
-OTU_942	label	#84a7fc	Firmicutes
-OTU_732	label	#84a7fc	Firmicutes
-OTU_405	label	#84a7fc	Firmicutes
-OTU_1071	label	#84a7fc	Firmicutes
-OTU_1069	label	#84a7fc	Firmicutes
-OTU_1128	label	#84a7fc	Firmicutes
-OTU_319	label	#84a7fc	Firmicutes
-OTU_1166	label	#84a7fc	Firmicutes
-OTU_731	label	#84a7fc	Firmicutes
-OTU_1145	label	#84a7fc	Firmicutes
-OTU_1034	label	#e26952	Fusobacteriota
-OTU_1170	label	#e26952	Fusobacteriota
-OTU_634	label	#e26952	Fusobacteriota
-OTU_477	label	#e26952	Fusobacteriota
-OTU_119	label	#df634e	GN01
-OTU_420	label	#88abfd	Gemmatimonadota
-OTU_121	label	#88abfd	Gemmatimonadota
-OTU_1140	label	#88abfd	Gemmatimonadota
-OTU_782	label	#dc5d4a	MAT-CR-M4-B07
-OTU_846	label	#d85646	Methylomirabilota
-OTU_192	label	#d85646	Methylomirabilota
-OTU_287	label	#d85646	Methylomirabilota
-OTU_1049	label	#779af7	Myxococcota
-OTU_1021	label	#779af7	Myxococcota
-OTU_294	label	#779af7	Myxococcota
-OTU_777	label	#779af7	Myxococcota
-OTU_922	label	#779af7	Myxococcota
-OTU_680	label	#779af7	Myxococcota
-OTU_1095	label	#779af7	Myxococcota
-OTU_656	label	#779af7	Myxococcota
-OTU_397	label	#779af7	Myxococcota
-OTU_876	label	#779af7	Myxococcota
-OTU_953	label	#779af7	Myxococcota
-OTU_1104	label	#d55042	Nitrospinota
-OTU_1036	label	#d55042	Nitrospinota
-OTU_1000	label	#d55042	Nitrospinota
-OTU_123	label	#d55042	Nitrospinota
-OTU_923	label	#aec9fc	Nitrospirota
-OTU_1197	label	#aec9fc	Nitrospirota
-OTU_554	label	#b2ccfb	Patescibacteria
-OTU_780	label	#b2ccfb	Patescibacteria
-OTU_859	label	#b2ccfb	Patescibacteria
-OTU_813	label	#b2ccfb	Patescibacteria
-OTU_381	label	#b2ccfb	Patescibacteria
-OTU_693	label	#b2ccfb	Patescibacteria
-OTU_1141	label	#b2ccfb	Patescibacteria
-OTU_971	label	#b2ccfb	Patescibacteria
-OTU_647	label	#b2ccfb	Patescibacteria
-OTU_352	label	#b2ccfb	Patescibacteria
-OTU_1223	label	#b2ccfb	Patescibacteria
-OTU_411	label	#b2ccfb	Patescibacteria
-OTU_559	label	#b2ccfb	Patescibacteria
-OTU_556	label	#b2ccfb	Patescibacteria
-OTU_1151	label	#b2ccfb	Patescibacteria
-OTU_434	label	#b2ccfb	Patescibacteria
-OTU_639	label	#b2ccfb	Patescibacteria
-OTU_832	label	#b2ccfb	Patescibacteria
-OTU_1073	label	#b2ccfb	Patescibacteria
-OTU_166	label	#b2ccfb	Patescibacteria
-OTU_451	label	#b2ccfb	Patescibacteria
-OTU_1195	label	#b2ccfb	Patescibacteria
-OTU_1005	label	#4c66d6	Planctomycetota
-OTU_898	label	#4c66d6	Planctomycetota
-OTU_471	label	#4c66d6	Planctomycetota
-OTU_1196	label	#4c66d6	Planctomycetota
-OTU_430	label	#4c66d6	Planctomycetota
-OTU_885	label	#4c66d6	Planctomycetota
-OTU_135	label	#4c66d6	Planctomycetota
-OTU_913	label	#4c66d6	Planctomycetota
-OTU_230	label	#4c66d6	Planctomycetota
-OTU_385	label	#4c66d6	Planctomycetota
-OTU_636	label	#4c66d6	Planctomycetota
-OTU_713	label	#4c66d6	Planctomycetota
-OTU_557	label	#4c66d6	Planctomycetota
-OTU_907	label	#4c66d6	Planctomycetota
-OTU_1110	label	#4c66d6	Planctomycetota
-OTU_357	label	#4c66d6	Planctomycetota
-OTU_667	label	#4c66d6	Planctomycetota
-OTU_954	label	#4c66d6	Planctomycetota
-OTU_862	label	#4c66d6	Planctomycetota
-OTU_1198	label	#4c66d6	Planctomycetota
-OTU_521	label	#4c66d6	Planctomycetota
-OTU_547	label	#4c66d6	Planctomycetota
-OTU_401	label	#d1493f	Poribacteria
-OTU_498	label	#5470de	Proteobacteria
-OTU_824	label	#5470de	Proteobacteria
-OTU_1102	label	#5470de	Proteobacteria
-OTU_936	label	#5470de	Proteobacteria
-OTU_587	label	#5470de	Proteobacteria
-OTU_931	label	#5470de	Proteobacteria
-OTU_797	label	#5470de	Proteobacteria
-OTU_341	label	#5470de	Proteobacteria
-OTU_850	label	#5470de	Proteobacteria
-OTU_749	label	#5470de	Proteobacteria
-OTU_316	label	#5470de	Proteobacteria
-OTU_652	label	#5470de	Proteobacteria
-OTU_1058	label	#5470de	Proteobacteria
-OTU_736	label	#5470de	Proteobacteria
-OTU_716	label	#5470de	Proteobacteria
-OTU_464	label	#5470de	Proteobacteria
-OTU_601	label	#5470de	Proteobacteria
-OTU_534	label	#5470de	Proteobacteria
-OTU_653	label	#5470de	Proteobacteria
-OTU_1219	label	#5470de	Proteobacteria
-OTU_1155	label	#5470de	Proteobacteria
-OTU_1171	label	#5470de	Proteobacteria
-OTU_1079	label	#5470de	Proteobacteria
-OTU_229	label	#5470de	Proteobacteria
-OTU_579	label	#5470de	Proteobacteria
-OTU_812	label	#5470de	Proteobacteria
-OTU_759	label	#5470de	Proteobacteria
-OTU_701	label	#5470de	Proteobacteria
-OTU_441	label	#5470de	Proteobacteria
-OTU_59	label	#5470de	Proteobacteria
-OTU_555	label	#5470de	Proteobacteria
-OTU_1242	label	#5470de	Proteobacteria
-OTU_669	label	#5470de	Proteobacteria
-OTU_893	label	#5470de	Proteobacteria
-OTU_323	label	#5470de	Proteobacteria
-OTU_1112	label	#5470de	Proteobacteria
-OTU_292	label	#5470de	Proteobacteria
-OTU_657	label	#5470de	Proteobacteria
-OTU_1184	label	#5470de	Proteobacteria
-OTU_393	label	#5470de	Proteobacteria
-OTU_979	label	#5470de	Proteobacteria
-OTU_1192	label	#5470de	Proteobacteria
-OTU_787	label	#5470de	Proteobacteria
-OTU_881	label	#5470de	Proteobacteria
-OTU_799	label	#5470de	Proteobacteria
-OTU_1229	label	#5470de	Proteobacteria
-OTU_615	label	#5470de	Proteobacteria
-OTU_241	label	#5470de	Proteobacteria
-OTU_543	label	#5470de	Proteobacteria
-OTU_673	label	#5470de	Proteobacteria
-OTU_952	label	#5470de	Proteobacteria
-OTU_932	label	#5470de	Proteobacteria
-OTU_1068	label	#5470de	Proteobacteria
-OTU_822	label	#5470de	Proteobacteria
-OTU_1182	label	#5470de	Proteobacteria
-OTU_766	label	#5470de	Proteobacteria
-OTU_1007	label	#5470de	Proteobacteria
-OTU_331	label	#5470de	Proteobacteria
-OTU_1018	label	#5470de	Proteobacteria
-OTU_927	label	#5470de	Proteobacteria
-OTU_423	label	#5470de	Proteobacteria
-OTU_785	label	#5470de	Proteobacteria
-OTU_1055	label	#5470de	Proteobacteria
-OTU_1134	label	#5470de	Proteobacteria
-OTU_327	label	#5470de	Proteobacteria
-OTU_1126	label	#5470de	Proteobacteria
-OTU_972	label	#5470de	Proteobacteria
-OTU_1243	label	#5470de	Proteobacteria
-OTU_925	label	#5470de	Proteobacteria
-OTU_1164	label	#5470de	Proteobacteria
-OTU_1076	label	#5470de	Proteobacteria
-OTU_1201	label	#5470de	Proteobacteria
-OTU_860	label	#5470de	Proteobacteria
-OTU_361	label	#5470de	Proteobacteria
-OTU_772	label	#5470de	Proteobacteria
-OTU_1190	label	#5470de	Proteobacteria
-OTU_1159	label	#5470de	Proteobacteria
-OTU_1216	label	#5470de	Proteobacteria
-OTU_1179	label	#5470de	Proteobacteria
-OTU_910	label	#5470de	Proteobacteria
-OTU_1038	label	#5470de	Proteobacteria
-OTU_496	label	#5470de	Proteobacteria
-OTU_1085	label	#5470de	Proteobacteria
-OTU_421	label	#5470de	Proteobacteria
-OTU_962	label	#5470de	Proteobacteria
-OTU_1113	label	#5470de	Proteobacteria
-OTU_760	label	#5470de	Proteobacteria
-OTU_307	label	#5470de	Proteobacteria
-OTU_697	label	#5470de	Proteobacteria
-OTU_337	label	#5470de	Proteobacteria
-OTU_926	label	#5470de	Proteobacteria
-OTU_394	label	#5470de	Proteobacteria
-OTU_851	label	#5470de	Proteobacteria
-OTU_1142	label	#5470de	Proteobacteria
-OTU_591	label	#5470de	Proteobacteria
-OTU_291	label	#5470de	Proteobacteria
-OTU_1051	label	#5470de	Proteobacteria
-OTU_869	label	#5470de	Proteobacteria
-OTU_1238	label	#5470de	Proteobacteria
-OTU_1045	label	#5470de	Proteobacteria
-OTU_480	label	#5470de	Proteobacteria
-OTU_783	label	#5470de	Proteobacteria
-OTU_1002	label	#5470de	Proteobacteria
-OTU_377	label	#5470de	Proteobacteria
-OTU_793	label	#5470de	Proteobacteria
-OTU_597	label	#5470de	Proteobacteria
-OTU_1147	label	#5470de	Proteobacteria
-OTU_527	label	#5470de	Proteobacteria
-OTU_431	label	#5470de	Proteobacteria
-OTU_1093	label	#5470de	Proteobacteria
-OTU_551	label	#5470de	Proteobacteria
-OTU_763	label	#5470de	Proteobacteria
-OTU_418	label	#5470de	Proteobacteria
-OTU_438	label	#5470de	Proteobacteria
-OTU_986	label	#5470de	Proteobacteria
-OTU_970	label	#5470de	Proteobacteria
-OTU_197	label	#5470de	Proteobacteria
-OTU_588	label	#5470de	Proteobacteria
-OTU_189	label	#5470de	Proteobacteria
-OTU_1247	label	#5470de	Proteobacteria
-OTU_654	label	#5470de	Proteobacteria
-OTU_1056	label	#5470de	Proteobacteria
-OTU_1125	label	#5470de	Proteobacteria
-OTU_1204	label	#5470de	Proteobacteria
-OTU_603	label	#5470de	Proteobacteria
-OTU_598	label	#5470de	Proteobacteria
-OTU_892	label	#5470de	Proteobacteria
-OTU_814	label	#5470de	Proteobacteria
-OTU_1011	label	#5470de	Proteobacteria
-OTU_847	label	#5470de	Proteobacteria
-OTU_1215	label	#5470de	Proteobacteria
-OTU_1234	label	#5470de	Proteobacteria
-OTU_293	label	#5470de	Proteobacteria
-OTU_299	label	#5470de	Proteobacteria
-OTU_84	label	#5470de	Proteobacteria
-OTU_280	label	#5470de	Proteobacteria
-OTU_516	label	#5470de	Proteobacteria
-OTU_1149	label	#5470de	Proteobacteria
-OTU_730	label	#5470de	Proteobacteria
-OTU_408	label	#5470de	Proteobacteria
-OTU_695	label	#5470de	Proteobacteria
-OTU_1122	label	#5470de	Proteobacteria
-OTU_311	label	#5470de	Proteobacteria
-OTU_640	label	#5470de	Proteobacteria
-OTU_157	label	#5470de	Proteobacteria
-OTU_798	label	#5470de	Proteobacteria
-OTU_242	label	#5470de	Proteobacteria
-OTU_956	label	#5470de	Proteobacteria
-OTU_1143	label	#5470de	Proteobacteria
-OTU_723	label	#5470de	Proteobacteria
-OTU_222	label	#5470de	Proteobacteria
-OTU_658	label	#5470de	Proteobacteria
-OTU_1222	label	#5470de	Proteobacteria
-OTU_993	label	#5470de	Proteobacteria
-OTU_747	label	#5470de	Proteobacteria
-OTU_776	label	#5470de	Proteobacteria
-OTU_552	label	#5470de	Proteobacteria
-OTU_540	label	#5470de	Proteobacteria
-OTU_522	label	#5470de	Proteobacteria
-OTU_816	label	#5470de	Proteobacteria
-OTU_1096	label	#5470de	Proteobacteria
-OTU_1116	label	#5470de	Proteobacteria
-OTU_982	label	#5470de	Proteobacteria
-OTU_739	label	#5470de	Proteobacteria
-OTU_444	label	#5470de	Proteobacteria
-OTU_630	label	#5470de	Proteobacteria
-OTU_363	label	#5470de	Proteobacteria
-OTU_887	label	#5470de	Proteobacteria
-OTU_878	label	#5470de	Proteobacteria
-OTU_474	label	#5470de	Proteobacteria
-OTU_1101	label	#5470de	Proteobacteria
-OTU_800	label	#5470de	Proteobacteria
-OTU_461	label	#5470de	Proteobacteria
-OTU_1173	label	#5470de	Proteobacteria
-OTU_1186	label	#5470de	Proteobacteria
-OTU_643	label	#5470de	Proteobacteria
-OTU_999	label	#5470de	Proteobacteria
-OTU_899	label	#5470de	Proteobacteria
-OTU_808	label	#5470de	Proteobacteria
-OTU_1178	label	#5470de	Proteobacteria
-OTU_668	label	#5470de	Proteobacteria
-OTU_677	label	#5470de	Proteobacteria
-OTU_742	label	#5470de	Proteobacteria
-OTU_1042	label	#5470de	Proteobacteria
-OTU_1075	label	#5470de	Proteobacteria
-OTU_1028	label	#5470de	Proteobacteria
-OTU_1168	label	#5470de	Proteobacteria
-OTU_682	label	#5470de	Proteobacteria
-OTU_1217	label	#5470de	Proteobacteria
-OTU_957	label	#5470de	Proteobacteria
-OTU_900	label	#5470de	Proteobacteria
-OTU_1174	label	#5470de	Proteobacteria
-OTU_951	label	#5470de	Proteobacteria
-OTU_1254	label	#5470de	Proteobacteria
-OTU_536	label	#5470de	Proteobacteria
-OTU_810	label	#5470de	Proteobacteria
-OTU_426	label	#5470de	Proteobacteria
-OTU_774	label	#5470de	Proteobacteria
-OTU_1043	label	#5470de	Proteobacteria
-OTU_1193	label	#5470de	Proteobacteria
-OTU_1189	label	#5470de	Proteobacteria
-OTU_240	label	#5470de	Proteobacteria
-OTU_1097	label	#5470de	Proteobacteria
-OTU_915	label	#5470de	Proteobacteria
-OTU_1008	label	#5470de	Proteobacteria
-OTU_1040	label	#5470de	Proteobacteria
-OTU_147	label	#5470de	Proteobacteria
-OTU_889	label	#5470de	Proteobacteria
-OTU_208	label	#5470de	Proteobacteria
-OTU_1237	label	#5470de	Proteobacteria
-OTU_994	label	#5470de	Proteobacteria
-OTU_768	label	#5470de	Proteobacteria
-OTU_950	label	#5470de	Proteobacteria
-OTU_214	label	#5470de	Proteobacteria
-OTU_1082	label	#5470de	Proteobacteria
-OTU_991	label	#5470de	Proteobacteria
-OTU_276	label	#5470de	Proteobacteria
-OTU_608	label	#5470de	Proteobacteria
-OTU_866	label	#5470de	Proteobacteria
-OTU_339	label	#5470de	Proteobacteria
-OTU_1074	label	#5470de	Proteobacteria
-OTU_1203	label	#5470de	Proteobacteria
-OTU_1169	label	#5470de	Proteobacteria
-OTU_969	label	#5470de	Proteobacteria
-OTU_563	label	#5470de	Proteobacteria
-OTU_572	label	#5470de	Proteobacteria
-OTU_1180	label	#5470de	Proteobacteria
-OTU_1152	label	#5470de	Proteobacteria
-OTU_708	label	#5470de	Proteobacteria
-OTU_779	label	#5470de	Proteobacteria
-OTU_304	label	#5470de	Proteobacteria
-OTU_947	label	#5470de	Proteobacteria
-OTU_740	label	#5470de	Proteobacteria
-OTU_1015	label	#5470de	Proteobacteria
-OTU_690	label	#5470de	Proteobacteria
-OTU_407	label	#5470de	Proteobacteria
-OTU_975	label	#5470de	Proteobacteria
-OTU_1221	label	#5470de	Proteobacteria
-OTU_700	label	#5470de	Proteobacteria
-OTU_781	label	#5470de	Proteobacteria
-OTU_1256	label	#5470de	Proteobacteria
-OTU_681	label	#5470de	Proteobacteria
-OTU_1091	label	#5470de	Proteobacteria
-OTU_564	label	#5470de	Proteobacteria
-OTU_1063	label	#5470de	Proteobacteria
-OTU_1120	label	#5470de	Proteobacteria
-OTU_614	label	#5470de	Proteobacteria
-OTU_343	label	#5470de	Proteobacteria
-OTU_888	label	#5470de	Proteobacteria
-OTU_938	label	#5470de	Proteobacteria
-OTU_353	label	#cd423b	RCP2-54
-OTU_102	label	#ca3b37	Schekmanbacteria
-OTU_459	label	#9abbff	Spirochaetota
-OTU_641	label	#9abbff	Spirochaetota
-OTU_117	label	#9abbff	Spirochaetota
-OTU_1207	label	#c53334	Synergistota
-OTU_243	label	#c53334	Synergistota
-OTU_1001	label	#c53334	Synergistota
-OTU_159	label	#c12b30	TA06
-OTU_486	label	#bd1f2d	Thermotogota
-OTU_879	label	#506bda	Verrucomicrobiota
-OTU_692	label	#506bda	Verrucomicrobiota
-OTU_492	label	#506bda	Verrucomicrobiota
-OTU_784	label	#506bda	Verrucomicrobiota
-OTU_803	label	#506bda	Verrucomicrobiota
-OTU_1251	label	#506bda	Verrucomicrobiota
-OTU_485	label	#506bda	Verrucomicrobiota
-OTU_688	label	#506bda	Verrucomicrobiota
-OTU_1025	label	#506bda	Verrucomicrobiota
-OTU_548	label	#506bda	Verrucomicrobiota
-OTU_627	label	#506bda	Verrucomicrobiota
-OTU_663	label	#506bda	Verrucomicrobiota
-OTU_308	label	#506bda	Verrucomicrobiota
-OTU_773	label	#506bda	Verrucomicrobiota
-OTU_853	label	#506bda	Verrucomicrobiota
-OTU_558	label	#506bda	Verrucomicrobiota
-OTU_696	label	#506bda	Verrucomicrobiota
-OTU_880	label	#506bda	Verrucomicrobiota
-OTU_21	label	#506bda	Verrucomicrobiota
-OTU_472	label	#506bda	Verrucomicrobiota
-OTU_1123	label	#506bda	Verrucomicrobiota
-OTU_1187	label	#506bda	Verrucomicrobiota
-OTU_1111	label	#506bda	Verrucomicrobiota
-OTU_617	label	#506bda	Verrucomicrobiota
-OTU_234	label	#506bda	Verrucomicrobiota
-OTU_854	label	#506bda	Verrucomicrobiota
-OTU_590	label	#506bda	Verrucomicrobiota
-OTU_624	label	#506bda	Verrucomicrobiota
-OTU_1194	label	#506bda	Verrucomicrobiota
-OTU_919	label	#506bda	Verrucomicrobiota
-OTU_1099	label	#506bda	Verrucomicrobiota
-OTU_499	label	#506bda	Verrucomicrobiota
-OTU_625	label	#506bda	Verrucomicrobiota
-OTU_490	label	#506bda	Verrucomicrobiota
-OTU_1248	label	#506bda	Verrucomicrobiota
-OTU_532	label	#506bda	Verrucomicrobiota
-OTU_737	label	#506bda	Verrucomicrobiota
-OTU_794	label	#506bda	Verrucomicrobiota
-OTU_620	label	#506bda	Verrucomicrobiota
-OTU_671	label	#b8122a	WS4
-OTU_581	label	#b40426	uncultured
+TREE_COLORS
+SEPARATOR TAB
+DATA
+OTU_4_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_16_Actinobacteriota_Thermoleophilia	label	#ff1200
+OTU_2_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_26_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_5_Actinobacteriota_Thermoleophilia	label	#ff1200
+OTU_13_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_10_Cyanobacteria_Cyanobacteriia	label	#ff4700
+OTU_8_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_15_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_38_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_54_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_45_Actinobacteriota_Thermoleophilia	label	#ff1200
+OTU_93_Verrucomicrobiota_Kiritimatiellae	label	#ff6a00
+OTU_127_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_6_Cyanobacteria_Cyanobacteriia	label	#ff4700
+OTU_70_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_49_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_57_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_74_Acidobacteriota_Thermoanaerobaculia	label	#ff8e00
+OTU_132_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_115_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_12_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_55_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_60_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_35_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_82_Cyanobacteria_Cyanobacteriia	label	#ff4700
+OTU_62_Verrucomicrobiota_Omnitrophia	label	#ff6a00
+OTU_97_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_56_Bacteroidota_Ignavibacteria	label	#ff9f00
+	label	#ffb100
+OTU_69_Latescibacterota_Latescibacteria	label	#ffc300
+OTU_11_Acidobacteriota_Aminicenantia	label	#ff8e00
+OTU_72_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_106_Calditrichota_Calditrichia	label	#ffd500
+	label	#ffe600
+OTU_24_Campylobacterota_Campylobacteria	label	#fcf500
+OTU_169_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_47_Chloroflexi_KD4_96	label	#ff2300
+	label	#f4ff00
+OTU_390_Myxococcota_Polyangia	label	#e2ff00
+OTU_77_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_114_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_355_Planctomycetota_OM190	label	#ff5900
+OTU_30_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_27_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_151_Nanoarchaeota_Nanoarchaeia	label	#d1ff00
+OTU_87_Desulfobacterota_Desulfobulbia	label	#ff3500
+	label	#ffc300
+OTU_18_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_83_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_113_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_39_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_188_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_268_Cyanobacteria_Cyanobacteriia	label	#ff4700
+OTU_190_Dependentiae_Babeliae	label	#bfff00
+OTU_7_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_144_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_138_Firmicutes_Clostridia	label	#adff00
+OTU_373_Firmicutes_Clostridia	label	#adff00
+OTU_40_Gemmatimonadota_PAUC43f_marine_benthic_group	label	#9cff00
+OTU_32_Myxococcota_Polyangia	label	#e2ff00
+OTU_22_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_200_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_187_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_335_Desulfobacterota_Desulfobacteria	label	#ff3500
+	label	#84ff00
+OTU_415_Myxococcota_Polyangia	label	#e2ff00
+OTU_86_Acidobacteriota_Subgroup_22	label	#ff8e00
+OTU_248_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_265_Acidobacteriota_Vicinamibacteria	label	#ff8e00
+OTU_66_Calditrichota_Calditrichia	label	#ffd500
+	label	#72ff00
+OTU_227_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+	label	#61ff00
+OTU_150_Spirochaetota_Spirochaetia	label	#4fff00
+	label	#3dff00
+OTU_168_Acidobacteriota_Subgroup_21	label	#ff8e00
+OTU_101_Actinobacteriota_Coriobacteriia	label	#ff1200
+OTU_61_Actinobacteriota_WCHB1_81	label	#ff1200
+OTU_283_Dependentiae_Babeliae	label	#bfff00
+	label	#2bff00
+OTU_303_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_350_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_88_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_201_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_110_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_247_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_140_Bacteroidota_Kryptonia	label	#ff9f00
+OTU_173_Campylobacterota_Campylobacteria	label	#fcf500
+OTU_120_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_252_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_53_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_281_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_270_Firmicutes_Clostridia	label	#adff00
+OTU_209_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_266_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_44_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_203_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_42_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_179_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_284_Bacteroidota_Ignavibacteria	label	#ff9f00
+OTU_334_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_149_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_226_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_273_Firmicutes_Clostridia	label	#adff00
+OTU_43_Gemmatimonadota_Gemmatimonadetes	label	#9cff00
+OTU_344_Hydrogenedentes_Hydrogenedentia	label	#1aff00
+OTU_260_Modulibacteria_Moduliflexia	label	#08ff00
+OTU_48_Nitrospirota_Thermodesulfovibrionia	label	#02ff0c
+OTU_416_Patescibacteria_Gracilibacteria	label	#00ff1b
+OTU_483_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_80_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_282_Spirochaetota_Spirochaetia	label	#4fff00
+OTU_131_Nanoarchaeota_Nanoarchaeia	label	#d1ff00
+OTU_649_Acidobacteriota_Holophagae	label	#ff8e00
+OTU_297_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_300_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_212_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_105_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_642_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_462_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_481_Bdellovibrionota_Oligoflexia	label	#00ff2d
+OTU_302_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_23_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_221_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_182_Chloroflexi_Chloroflexia	label	#ff2300
+OTU_210_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_263_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_75_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_301_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_366_Elusimicrobiota_Elusimicrobia	label	#00ff3f
+OTU_130_Fermentibacterota_Fermentibacteria	label	#00ff51
+OTU_333_Firmicutes_Clostridia	label	#adff00
+OTU_177_Firmicutes_Clostridia	label	#adff00
+	label	#00ff62
+	label	#00ff74
+OTU_95_Nitrospirota_Nitrospiria	label	#02ff0c
+OTU_428_Patescibacteria_Berkelbacteria	label	#00ff1b
+OTU_425_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_175_Planctomycetota_Pla3_lineage	label	#ff5900
+OTU_392_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_91_Planctomycetota_vadinHA49	label	#ff5900
+OTU_306_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_73_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_139_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_224_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_473_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_239_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_125_Sumerlaeota_Sumerlaeia	label	#00ff86
+OTU_611_Verrucomicrobiota_Kiritimatiellae	label	#ff6a00
+OTU_391_Verrucomicrobiota_Lentisphaeria	label	#ff6a00
+OTU_206_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_364_Thermoplasmatota_Thermoplasmata	label	#00ff97
+OTU_90_Acidobacteriota_Thermoanaerobaculia	label	#ff8e00
+OTU_275_Acidobacteriota_Vicinamibacteria	label	#ff8e00
+OTU_400_Acidobacteriota_Vicinamibacteria	label	#ff8e00
+OTU_202_Acidobacteriota_d142	label	#ff8e00
+OTU_238_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_142_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_195_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_542_Bdellovibrionota_Bdellovibrionia	label	#00ff2d
+OTU_158_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_94_Desulfobacterota_Desulfobaccia	label	#ff3500
+OTU_478_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_386_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_269_Fibrobacterota_Fibrobacteria	label	#00ffa9
+OTU_231_Firmicutes_Bacilli	label	#adff00
+OTU_128_Gemmatimonadota_BD2_11_terrestrial_group	label	#9cff00
+OTU_220_Latescibacterota_Latescibacteria	label	#ffc300
+OTU_495_Myxococcota_Polyangia	label	#e2ff00
+OTU_506_Myxococcota_Polyangia	label	#e2ff00
+OTU_163_Myxococcota_Polyangia	label	#e2ff00
+OTU_112_Planctomycetota_ODP123	label	#ff5900
+OTU_68_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_244_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_345_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_321_Planctomycetota_Pla4_lineage	label	#ff5900
+OTU_235_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_452_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_246_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_520_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_100_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_272_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_320_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_259_Sumerlaeota_Sumerlaeia	label	#00ff86
+OTU_456_Verrucomicrobiota_Kiritimatiellae	label	#ff6a00
+OTU_324_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+	label	#00ffbb
+	label	#00ffcd
+OTU_58_Crenarchaeota_Bathyarchaeia	label	#00ffde
+OTU_349_Nanoarchaeota_Nanoarchaeia	label	#d1ff00
+OTU_404_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_225_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_500_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_3_Actinobacteriota_Thermoleophilia	label	#ff1200
+OTU_256_Armatimonadota_uncultured	label	#00fff6
+OTU_204_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_721_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_672_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_211_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_638_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_660_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_37_Bacteroidota_Ignavibacteria	label	#ff9f00
+OTU_469_Bacteroidota_Rhodothermia	label	#ff9f00
+OTU_549_Bdellovibrionota_Oligoflexia	label	#00ff2d
+OTU_1_Caldatribacteriota_JS1	label	#00f6ff
+OTU_228_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_372_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_582_Cyanobacteria_Cyanobacteriia	label	#ff4700
+OTU_871_Desulfobacterota_Desulfarculia	label	#ff3500
+OTU_589_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_118_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_1114_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_835_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_371_Desulfobacterota_Desulfomonilia	label	#ff3500
+OTU_136_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_664_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_153_Desulfobacterota_uncultured	label	#ff3500
+	label	#00e5ff
+OTU_389_Firmicutes_Clostridia	label	#adff00
+OTU_561_Firmicutes_Clostridia	label	#adff00
+OTU_258_Gemmatimonadota_Gemmatimonadetes	label	#9cff00
+OTU_448_Myxococcota_Myxococcia	label	#e2ff00
+OTU_476_Myxococcota_Polyangia	label	#e2ff00
+OTU_724_Myxococcota_Polyangia	label	#e2ff00
+OTU_137_Myxococcota_bacteriap25	label	#e2ff00
+OTU_365_Planctomycetota_SPG12_343_353_B69	label	#ff5900
+OTU_468_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_484_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_146_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_315_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_678_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_689_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_565_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_479_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_181_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_267_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_103_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_342_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_251_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_398_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_518_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_712_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_219_Spirochaetota_Leptospirae	label	#4fff00
+OTU_28_Spirochaetota_Spirochaetia	label	#4fff00
+OTU_605_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+	label	#00d3ff
+OTU_46_Asgardarchaeota_Lokiarchaeia	label	#00c1ff
+OTU_33_Crenarchaeota_Nitrososphaeria	label	#00ffde
+OTU_25_Crenarchaeota_Nitrososphaeria	label	#00ffde
+OTU_232_Euryarchaeota_Thermococci	label	#00afff
+OTU_71_Thermoplasmatota_Thermoplasmata	label	#00ff97
+OTU_36_Acetothermia_Acetothermiia	label	#009eff
+OTU_442_Acidobacteriota_Holophagae	label	#ff8e00
+OTU_199_Acidobacteriota_Holophagae	label	#ff8e00
+OTU_493_Acidobacteriota_Subgroup_26	label	#ff8e00
+OTU_902_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_205_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_644_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_842_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1053_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_738_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_960_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_67_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_856_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_358_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_870_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_482_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_310_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_92_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_156_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_467_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1048_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_661_Bacteroidota_Kapabacteria	label	#ff9f00
+OTU_1118_Bdellovibrionota_Bdellovibrionia	label	#00ff2d
+OTU_162_Bdellovibrionota_Oligoflexia	label	#00ff2d
+OTU_875_Calditrichota_Calditrichia	label	#ffd500
+OTU_594_Campylobacterota_Campylobacteria	label	#fcf500
+OTU_659_Campylobacterota_Campylobacteria	label	#fcf500
+OTU_453_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_288_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_1031_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_245_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_17_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_171_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_107_Chloroflexi_JG30_KF_CM66	label	#ff2300
+OTU_174_Cloacimonadota_Cloacimonadia	label	#008cff
+OTU_360_Cloacimonadota_Cloacimonadia	label	#008cff
+OTU_575_Cyanobacteria_Vampirivibrionia	label	#ff4700
+OTU_160_Dependentiae_Babeliae	label	#bfff00
+OTU_96_Dependentiae_Babeliae	label	#bfff00
+OTU_403_Dependentiae_Babeliae	label	#bfff00
+OTU_388_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_396_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_108_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_530_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_718_Desulfobacterota_Desulfovibrionia	label	#ff3500
+OTU_126_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_378_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_717_Elusimicrobiota_Endomicrobia	label	#00ff3f
+OTU_725_Fibrobacterota_Chitinivibrionia	label	#00ffa9
+OTU_65_Firmicutes_Bacilli	label	#adff00
+OTU_1146_Firmicutes_Bacilli	label	#adff00
+OTU_419_Firmicutes_Clostridia	label	#adff00
+OTU_463_Firmicutes_Clostridia	label	#adff00
+OTU_628_Firmicutes_Clostridia	label	#adff00
+OTU_213_Firmicutes_Clostridia	label	#adff00
+OTU_984_Firmicutes_Clostridia	label	#adff00
+OTU_295_Firmicutes_Clostridia	label	#adff00
+OTU_1210_Firmicutes_Incertae_Sedis	label	#adff00
+OTU_921_Myxococcota_Polyangia	label	#e2ff00
+OTU_410_Myxococcota_Polyangia	label	#e2ff00
+OTU_1214_Myxococcota_Polyangia	label	#e2ff00
+	label	#007aff
+OTU_705_Patescibacteria_ABY1	label	#00ff1b
+OTU_648_Patescibacteria_Gracilibacteria	label	#00ff1b
+OTU_833_Patescibacteria_Gracilibacteria	label	#00ff1b
+OTU_529_Patescibacteria_Kazania	label	#00ff1b
+OTU_374_Patescibacteria_Microgenomatia	label	#00ff1b
+OTU_980_Patescibacteria_Microgenomatia	label	#00ff1b
+OTU_129_Patescibacteria_Microgenomatia	label	#00ff1b
+OTU_176_Patescibacteria_Parcubacteria	label	#00ff1b
+OTU_1226_Patescibacteria_Parcubacteria	label	#00ff1b
+OTU_599_Planctomycetota_BD7_11	label	#ff5900
+OTU_145_Planctomycetota_Brocadiae	label	#ff5900
+OTU_20_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_596_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_719_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_330_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_134_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_839_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_714_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_447_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_249_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_489_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_257_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_186_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_707_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_786_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_223_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_395_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_312_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_858_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_501_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_510_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_9_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_607_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_50_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_289_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_458_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_805_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1004_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_517_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_465_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_475_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_939_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_412_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_995_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_250_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_116_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_807_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_253_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_752_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_262_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_347_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_857_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_19_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_164_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_562_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_528_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_788_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_449_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_346_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_577_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_387_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_332_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_507_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_867_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_877_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_122_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+	label	#4fff00
+OTU_704_Spirochaetota_Brevinematia	label	#4fff00
+OTU_978_Spirochaetota_Leptospirae	label	#4fff00
+OTU_948_Spirochaetota_Leptospirae	label	#4fff00
+OTU_526_Spirochaetota_MVP_15	label	#4fff00
+OTU_1148_Spirochaetota_V2072_189E03	label	#4fff00
+OTU_891_Verrucomicrobiota_Lentisphaeria	label	#ff6a00
+OTU_406_Verrucomicrobiota_Lentisphaeria	label	#ff6a00
+OTU_698_Verrucomicrobiota_Lentisphaeria	label	#ff6a00
+OTU_466_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_513_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_277_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_733_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_912_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_691_Aenigmarchaeota_Aenigmarchaeia	label	#0069ff
+OTU_609_Aenigmarchaeota_Deep_Sea_Euryarchaeotic_Group_DSEG_	label	#0069ff
+OTU_722_Altiarchaeota_Altiarchaeia	label	#0057ff
+OTU_155_Asgardarchaeota_Heimdallarchaeia	label	#00c1ff
+OTU_340_Asgardarchaeota_Odinarchaeia	label	#00c1ff
+OTU_1077_Crenarchaeota_Nitrososphaeria	label	#00ffde
+OTU_29_Crenarchaeota_Nitrososphaeria	label	#00ffde
+OTU_1032_Crenarchaeota_Nitrososphaeria	label	#00ffde
+OTU_886_Crenarchaeota_Nitrososphaeria	label	#00ffde
+OTU_665_Crenarchaeota_Thermoprotei	label	#00ffde
+OTU_955_Euryarchaeota_Methanobacteria	label	#00afff
+OTU_834_Euryarchaeota_Methanobacteria	label	#00afff
+OTU_1132_Hadarchaeota_Hadarchaeia	label	#0045ff
+OTU_183_Halobacterota_ANME_1	label	#0033ff
+OTU_592_Halobacterota_Halobacteria	label	#0033ff
+OTU_1236_Halobacterota_Methanomicrobia	label	#0033ff
+OTU_1024_Halobacterota_Methanomicrobia	label	#0033ff
+OTU_414_Halobacterota_Methanomicrobia	label	#0033ff
+OTU_633_Halobacterota_Methanomicrobia	label	#0033ff
+OTU_503_Halobacterota_Methanomicrobia	label	#0033ff
+OTU_1054_Halobacterota_Methanomicrobia	label	#0033ff
+OTU_354_Halobacterota_Methanosarcinia	label	#0033ff
+OTU_566_Halobacterota_Methanosarcinia	label	#0033ff
+OTU_279_Halobacterota_Methanosarcinia	label	#0033ff
+OTU_996_Halobacterota_Methanosarcinia	label	#0033ff
+OTU_1212_Iainarchaeota_Iainarchaeia	label	#0022ff
+OTU_296_Iainarchaeota_Iainarchaeia	label	#0022ff
+OTU_646_Micrarchaeota_Micrarchaeia	label	#0010ff
+OTU_369_Micrarchaeota_Micrarchaeia	label	#0010ff
+OTU_751_Nanoarchaeota_Nanoarchaeia	label	#d1ff00
+OTU_435_Nanoarchaeota_Nanoarchaeia	label	#d1ff00
+OTU_1092_Nanoarchaeota_Nanoarchaeia	label	#d1ff00
+OTU_1020_Nanoarchaeota_Nanoarchaeia	label	#d1ff00
+OTU_1181_Thermoplasmatota_Thermoplasmata	label	#00ff97
+OTU_585_Thermoplasmatota_Thermoplasmata	label	#00ff97
+OTU_89_Thermoplasmatota_Thermoplasmata	label	#00ff97
+OTU_359_Thermoplasmatota_Thermoplasmata	label	#00ff97
+	label	#0604ff
+OTU_655_Abditibacteriota_Abditibacteria	label	#1300ff
+OTU_351_Acidobacteriota_AT_s3_28	label	#ff8e00
+OTU_356_Acidobacteriota_Acidobacteriae	label	#ff8e00
+OTU_1177_Acidobacteriota_Acidobacteriae	label	#ff8e00
+OTU_666_Acidobacteriota_Acidobacteriae	label	#ff8e00
+OTU_1109_Acidobacteriota_Acidobacteriae	label	#ff8e00
+OTU_437_Acidobacteriota_Acidobacteriae	label	#ff8e00
+OTU_1220_Acidobacteriota_Acidobacteriae	label	#ff8e00
+OTU_409_Acidobacteriota_Acidobacteriae	label	#ff8e00
+OTU_1156_Acidobacteriota_Acidobacteriae	label	#ff8e00
+OTU_987_Acidobacteriota_Acidobacteriae	label	#ff8e00
+OTU_1137_Acidobacteriota_Acidobacteriae	label	#ff8e00
+OTU_818_Acidobacteriota_Blastocatellia	label	#ff8e00
+OTU_1057_Acidobacteriota_Holophagae	label	#ff8e00
+OTU_699_Acidobacteriota_ODP1230B23_02	label	#ff8e00
+OTU_616_Acidobacteriota_Subgroup_11	label	#ff8e00
+OTU_509_Acidobacteriota_Subgroup_18	label	#ff8e00
+OTU_965_Acidobacteriota_Subgroup_5	label	#ff8e00
+OTU_645_Acidobacteriota_Thermoanaerobaculia	label	#ff8e00
+OTU_1098_Acidobacteriota_Thermoanaerobaculia	label	#ff8e00
+OTU_1047_Acidobacteriota_Vicinamibacteria	label	#ff8e00
+OTU_1255_Acidobacteriota_Vicinamibacteria	label	#ff8e00
+OTU_550_Acidobacteriota_Vicinamibacteria	label	#ff8e00
+OTU_1106_Acidobacteriota_Vicinamibacteria	label	#ff8e00
+OTU_1108_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_756_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_512_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_348_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_1133_Actinobacteriota_Acidimicrobiia	label	#ff1200
+OTU_1065_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1121_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_841_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1240_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_771_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_823_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1135_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1090_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_711_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_635_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_790_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1218_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1200_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_917_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_801_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_855_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_959_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_937_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1245_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_974_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_271_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_909_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_988_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1158_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1083_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_796_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1103_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_662_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1050_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1059_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_852_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1066_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_629_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_497_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_748_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1064_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_868_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_873_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_583_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_997_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_906_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_338_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_837_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1252_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1130_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_602_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_795_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1124_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_727_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_983_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_1078_Actinobacteriota_Actinobacteria	label	#ff1200
+OTU_457_Actinobacteriota_Coriobacteriia	label	#ff1200
+OTU_450_Actinobacteriota_Coriobacteriia	label	#ff1200
+OTU_178_Actinobacteriota_MB_A2_108	label	#ff1200
+OTU_511_Actinobacteriota_RBG_16_55_12	label	#ff1200
+OTU_1163_Actinobacteriota_Thermoleophilia	label	#ff1200
+OTU_848_Actinobacteriota_Thermoleophilia	label	#ff1200
+OTU_1044_Actinobacteriota_Thermoleophilia	label	#ff1200
+OTU_161_Actinobacteriota_Thermoleophilia	label	#ff1200
+OTU_85_Aerophobota_Aerophobia	label	#2500ff
+	label	#3700ff
+OTU_274_Armatimonadota_Chthonomonadetes	label	#00fff6
+OTU_34_Armatimonadota_DG_56	label	#00fff6
+OTU_440_Armatimonadota_Fimbriimonadia	label	#00fff6
+	label	#4900ff
+OTU_1250_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1257_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_470_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_576_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1115_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_865_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_827_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_903_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1033_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_685_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_443_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1105_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_758_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_992_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_336_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1087_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_946_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_702_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_973_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_811_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_778_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1160_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1244_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_613_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1039_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_918_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_809_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1022_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_544_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_789_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_367_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_382_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_573_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1138_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_825_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_329_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_706_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_935_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_318_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_990_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1232_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_836_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_686_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_764_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_715_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_694_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_298_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1006_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_432_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_570_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1016_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_944_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_445_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_904_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_1014_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_728_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_874_Bacteroidota_Bacteroidia	label	#ff9f00
+OTU_383_Bacteroidota_Ignavibacteria	label	#ff9f00
+OTU_709_Bacteroidota_Ignavibacteria	label	#ff9f00
+OTU_167_Bacteroidota_Ignavibacteria	label	#ff9f00
+OTU_619_Bacteroidota_Kryptonia	label	#ff9f00
+OTU_1100_Bdellovibrionota_Bdellovibrionia	label	#00ff2d
+OTU_1107_Bdellovibrionota_Bdellovibrionia	label	#00ff2d
+OTU_491_Bdellovibrionota_Bdellovibrionia	label	#00ff2d
+OTU_504_Bdellovibrionota_Bdellovibrionia	label	#00ff2d
+OTU_967_Bdellovibrionota_Bdellovibrionia	label	#00ff2d
+OTU_745_Bdellovibrionota_Oligoflexia	label	#00ff2d
+OTU_1052_Bdellovibrionota_Oligoflexia	label	#00ff2d
+OTU_537_Bdellovibrionota_Oligoflexia	label	#00ff2d
+	label	#5a00ff
+OTU_683_Caldisericota_Caldisericia	label	#7200ff
+OTU_1202_Caldisericota_Caldisericia	label	#7200ff
+OTU_606_Calditrichota_Calditrichia	label	#ffd500
+OTU_384_Calditrichota_Calditrichia	label	#ffd500
+OTU_769_Campylobacterota_Campylobacteria	label	#fcf500
+OTU_1233_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_535_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_433_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_1239_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_569_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_413_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_237_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_264_Chloroflexi_Anaerolineae	label	#ff2300
+OTU_791_Chloroflexi_Chloroflexia	label	#ff2300
+OTU_81_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_571_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_765_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_362_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_286_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_792_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_379_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_1235_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_429_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_148_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_172_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_217_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_1227_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_63_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_399_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_687_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_165_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_52_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_494_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_368_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_1161_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_285_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_929_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_180_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_124_Chloroflexi_Dehalococcoidia	label	#ff2300
+OTU_233_Chloroflexi_Gitt_GS_136	label	#ff2300
+OTU_1191_Chloroflexi_Ktedonobacteria	label	#ff2300
+OTU_1029_Chloroflexi_Ktedonobacteria	label	#ff2300
+OTU_1253_Chloroflexi_Ktedonobacteria	label	#ff2300
+OTU_631_Chloroflexi_OLB14	label	#ff2300
+OTU_505_Chloroflexi_TK10	label	#ff2300
+OTU_829_Cloacimonadota_Cloacimonadia	label	#008cff
+OTU_1012_Cyanobacteria_Cyanobacteriia	label	#ff4700
+OTU_676_Cyanobacteria_Cyanobacteriia	label	#ff4700
+OTU_502_Cyanobacteria_Cyanobacteriia	label	#ff4700
+OTU_1157_Cyanobacteria_Cyanobacteriia	label	#ff4700
+OTU_1013_Cyanobacteria_Sericytochromatia	label	#ff4700
+OTU_523_Cyanobacteria_Vampirivibrionia	label	#ff4700
+OTU_883_Cyanobacteria_Vampirivibrionia	label	#ff4700
+	label	#8400ff
+OTU_98_Dadabacteria_Dadabacteriia	label	#9500ff
+OTU_804_Deferribacterota_Deferribacteres	label	#a700ff
+OTU_104_Deferrisomatota_Defferrisomatia	label	#b900ff
+OTU_141_Deinococcota_Deinococci	label	#cb00ff
+OTU_1046_Deinococcota_Deinococci	label	#cb00ff
+OTU_1185_Desulfobacterota_Desulfarculia	label	#ff3500
+OTU_427_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_729_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_1041_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_1188_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_1225_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_76_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_278_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_207_Desulfobacterota_Desulfobacteria	label	#ff3500
+OTU_422_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_819_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_325_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_670_Desulfobacterota_Desulfobulbia	label	#ff3500
+OTU_525_Desulfobacterota_Desulfovibrionia	label	#ff3500
+OTU_1023_Desulfobacterota_Desulfovibrionia	label	#ff3500
+OTU_261_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_1213_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_317_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_741_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_734_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_78_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_1249_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_1136_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_968_Desulfobacterota_Desulfuromonadia	label	#ff3500
+OTU_455_Desulfobacterota_Dissulfuribacteria	label	#ff3500
+OTU_998_Desulfobacterota_Dissulfuribacteria	label	#ff3500
+OTU_454_Desulfobacterota_Syntrophia	label	#ff3500
+OTU_196_Desulfobacterota_Syntrophia	label	#ff3500
+OTU_314_Desulfobacterota_Syntrophia	label	#ff3500
+OTU_64_Desulfobacterota_Syntrophia	label	#ff3500
+OTU_593_Desulfobacterota_Syntrophobacteria	label	#ff3500
+OTU_545_Dictyoglomota_Dictyoglomia	label	#dc00ff
+OTU_560_Elusimicrobiota_Elusimicrobia	label	#00ff3f
+OTU_746_Elusimicrobiota_Elusimicrobia	label	#00ff3f
+OTU_753_Elusimicrobiota_Lineage_IIb	label	#00ff3f
+OTU_539_Elusimicrobiota_Lineage_IIc	label	#00ff3f
+OTU_446_Elusimicrobiota_Rs_M47	label	#00ff3f
+OTU_845_Entotheonellaeota_Entotheonellia	label	#ee00ff
+OTU_439_Entotheonellaeota_Entotheonellia	label	#ee00ff
+	label	#fa00f9
+OTU_553_Fibrobacterota_Chitinivibrionia	label	#00ffa9
+OTU_436_Fibrobacterota_Fibrobacteria	label	#00ffa9
+OTU_831_Fibrobacterota_Fibrobacteria	label	#00ffa9
+OTU_872_Fibrobacterota_Fibrobacteria	label	#00ffa9
+OTU_750_Fibrobacterota_Fibrobacteria	label	#00ffa9
+OTU_901_Fibrobacterota_Fibrobacteria	label	#00ffa9
+OTU_254_Fibrobacterota_Fibrobacteria	label	#00ffa9
+OTU_958_Fibrobacterota_Fibrobacteria	label	#00ffa9
+OTU_755_Firmicutes_BRH_c20a	label	#adff00
+OTU_370_Firmicutes_Bacilli	label	#adff00
+OTU_1080_Firmicutes_Bacilli	label	#adff00
+OTU_290_Firmicutes_Bacilli	label	#adff00
+OTU_679_Firmicutes_Bacilli	label	#adff00
+OTU_744_Firmicutes_Bacilli	label	#adff00
+OTU_826_Firmicutes_Bacilli	label	#adff00
+OTU_622_Firmicutes_Bacilli	label	#adff00
+OTU_806_Firmicutes_Bacilli	label	#adff00
+OTU_1206_Firmicutes_Bacilli	label	#adff00
+OTU_1139_Firmicutes_Bacilli	label	#adff00
+OTU_964_Firmicutes_Bacilli	label	#adff00
+OTU_1062_Firmicutes_Bacilli	label	#adff00
+OTU_567_Firmicutes_Bacilli	label	#adff00
+OTU_460_Firmicutes_Bacilli	label	#adff00
+OTU_326_Firmicutes_Bacilli	label	#adff00
+OTU_313_Firmicutes_Bacilli	label	#adff00
+OTU_882_Firmicutes_Bacilli	label	#adff00
+OTU_487_Firmicutes_Bacilli	label	#adff00
+OTU_328_Firmicutes_Bacilli	label	#adff00
+OTU_945_Firmicutes_Bacilli	label	#adff00
+OTU_424_Firmicutes_Bacilli	label	#adff00
+OTU_884_Firmicutes_Bacilli	label	#adff00
+OTU_519_Firmicutes_Bacilli	label	#adff00
+OTU_538_Firmicutes_Bacilli	label	#adff00
+OTU_610_Firmicutes_Bacilli	label	#adff00
+OTU_533_Firmicutes_Bacilli	label	#adff00
+OTU_920_Firmicutes_Bacilli	label	#adff00
+OTU_1144_Firmicutes_Bacilli	label	#adff00
+OTU_908_Firmicutes_Bacilli	label	#adff00
+OTU_684_Firmicutes_Bacilli	label	#adff00
+OTU_770_Firmicutes_Bacilli	label	#adff00
+OTU_215_Firmicutes_Bacilli	label	#adff00
+OTU_1009_Firmicutes_Bacilli	label	#adff00
+OTU_1094_Firmicutes_Bacilli	label	#adff00
+OTU_402_Firmicutes_Bacilli	label	#adff00
+OTU_568_Firmicutes_Bacilli	label	#adff00
+OTU_911_Firmicutes_Bacilli	label	#adff00
+OTU_896_Firmicutes_Bacilli	label	#adff00
+OTU_618_Firmicutes_Bacilli	label	#adff00
+OTU_1175_Firmicutes_Bacilli	label	#adff00
+OTU_1228_Firmicutes_Bacilli	label	#adff00
+OTU_890_Firmicutes_Bacilli	label	#adff00
+OTU_309_Firmicutes_Bacilli	label	#adff00
+OTU_488_Firmicutes_Bacilli	label	#adff00
+OTU_830_Firmicutes_Bacilli	label	#adff00
+OTU_1060_Firmicutes_Bacilli	label	#adff00
+OTU_1153_Firmicutes_Bacilli	label	#adff00
+OTU_546_Firmicutes_Bacilli	label	#adff00
+OTU_940_Firmicutes_Bacilli	label	#adff00
+OTU_621_Firmicutes_Bacilli	label	#adff00
+OTU_924_Firmicutes_Bacilli	label	#adff00
+OTU_531_Firmicutes_Bacilli	label	#adff00
+OTU_1084_Firmicutes_Bacilli	label	#adff00
+OTU_1127_Firmicutes_Bacilli	label	#adff00
+OTU_1176_Firmicutes_Bacilli	label	#adff00
+OTU_600_Firmicutes_Bacilli	label	#adff00
+OTU_604_Firmicutes_Bacilli	label	#adff00
+OTU_864_Firmicutes_Bacilli	label	#adff00
+OTU_838_Firmicutes_Bacilli	label	#adff00
+OTU_650_Firmicutes_Clostridia	label	#adff00
+OTU_1117_Firmicutes_Clostridia	label	#adff00
+OTU_895_Firmicutes_Clostridia	label	#adff00
+OTU_651_Firmicutes_Clostridia	label	#adff00
+OTU_754_Firmicutes_Clostridia	label	#adff00
+OTU_941_Firmicutes_Clostridia	label	#adff00
+OTU_1172_Firmicutes_Clostridia	label	#adff00
+OTU_762_Firmicutes_Clostridia	label	#adff00
+OTU_152_Firmicutes_Clostridia	label	#adff00
+OTU_255_Firmicutes_Clostridia	label	#adff00
+OTU_1150_Firmicutes_Clostridia	label	#adff00
+OTU_840_Firmicutes_Clostridia	label	#adff00
+OTU_580_Firmicutes_Clostridia	label	#adff00
+OTU_767_Firmicutes_Clostridia	label	#adff00
+OTU_802_Firmicutes_Clostridia	label	#adff00
+OTU_1167_Firmicutes_Clostridia	label	#adff00
+OTU_863_Firmicutes_Clostridia	label	#adff00
+OTU_861_Firmicutes_Clostridia	label	#adff00
+OTU_710_Firmicutes_Clostridia	label	#adff00
+OTU_963_Firmicutes_Clostridia	label	#adff00
+OTU_905_Firmicutes_Clostridia	label	#adff00
+OTU_508_Firmicutes_Clostridia	label	#adff00
+OTU_1070_Firmicutes_Clostridia	label	#adff00
+OTU_1162_Firmicutes_Clostridia	label	#adff00
+OTU_586_Firmicutes_Clostridia	label	#adff00
+OTU_943_Firmicutes_Clostridia	label	#adff00
+OTU_1205_Firmicutes_Clostridia	label	#adff00
+OTU_1165_Firmicutes_Clostridia	label	#adff00
+OTU_1089_Firmicutes_Clostridia	label	#adff00
+OTU_815_Firmicutes_Clostridia	label	#adff00
+OTU_1241_Firmicutes_Clostridia	label	#adff00
+OTU_897_Firmicutes_Clostridia	label	#adff00
+OTU_914_Firmicutes_Clostridia	label	#adff00
+OTU_949_Firmicutes_Clostridia	label	#adff00
+OTU_1230_Firmicutes_Clostridia	label	#adff00
+OTU_844_Firmicutes_Clostridia	label	#adff00
+OTU_1211_Firmicutes_Clostridia	label	#adff00
+OTU_1246_Firmicutes_Clostridia	label	#adff00
+OTU_1129_Firmicutes_Clostridia	label	#adff00
+OTU_726_Firmicutes_Clostridia	label	#adff00
+OTU_916_Firmicutes_Clostridia	label	#adff00
+OTU_305_Firmicutes_Clostridia	label	#adff00
+OTU_817_Firmicutes_Clostridia	label	#adff00
+OTU_417_Firmicutes_Clostridia	label	#adff00
+OTU_894_Firmicutes_Clostridia	label	#adff00
+OTU_541_Firmicutes_Clostridia	label	#adff00
+OTU_31_Firmicutes_Clostridia	label	#adff00
+OTU_1010_Firmicutes_Clostridia	label	#adff00
+OTU_170_Firmicutes_Clostridia	label	#adff00
+OTU_735_Firmicutes_Clostridia	label	#adff00
+OTU_1030_Firmicutes_Clostridia	label	#adff00
+OTU_612_Firmicutes_Clostridia	label	#adff00
+OTU_966_Firmicutes_Clostridia	label	#adff00
+OTU_514_Firmicutes_Clostridia	label	#adff00
+OTU_928_Firmicutes_Clostridia	label	#adff00
+OTU_1119_Firmicutes_Clostridia	label	#adff00
+OTU_1088_Firmicutes_Clostridia	label	#adff00
+OTU_1027_Firmicutes_Clostridia	label	#adff00
+OTU_1131_Firmicutes_Clostridia	label	#adff00
+OTU_930_Firmicutes_Clostridia	label	#adff00
+OTU_185_Firmicutes_Clostridia	label	#adff00
+OTU_989_Firmicutes_Clostridia	label	#adff00
+OTU_109_Firmicutes_D8A_2	label	#adff00
+OTU_322_Firmicutes_Desulfitobacteriia	label	#adff00
+OTU_1081_Firmicutes_Desulfitobacteriia	label	#adff00
+OTU_1026_Firmicutes_Desulfitobacteriia	label	#adff00
+OTU_1003_Firmicutes_Desulfotomaculia	label	#adff00
+OTU_578_Firmicutes_Desulfotomaculia	label	#adff00
+OTU_574_Firmicutes_Desulfotomaculia	label	#adff00
+OTU_1017_Firmicutes_Dethiobacteria	label	#adff00
+OTU_154_Firmicutes_Dethiobacteria	label	#adff00
+OTU_675_Firmicutes_Limnochordia	label	#adff00
+OTU_380_Firmicutes_Limnochordia	label	#adff00
+OTU_849_Firmicutes_Limnochordia	label	#adff00
+OTU_1086_Firmicutes_Limnochordia	label	#adff00
+OTU_623_Firmicutes_Negativicutes	label	#adff00
+OTU_1067_Firmicutes_Negativicutes	label	#adff00
+OTU_942_Firmicutes_Negativicutes	label	#adff00
+OTU_732_Firmicutes_Syntrophomonadia	label	#adff00
+OTU_405_Firmicutes_TSAC18	label	#adff00
+OTU_1071_Firmicutes_Thermacetogenia	label	#adff00
+OTU_1069_Firmicutes_Thermacetogenia	label	#adff00
+OTU_1128_Firmicutes_Thermaerobacteria	label	#adff00
+OTU_319_Firmicutes_Thermoanaerobacteria	label	#adff00
+OTU_1166_Firmicutes_Thermoanaerobacteria	label	#adff00
+OTU_731_Firmicutes_Thermoanaerobacteria	label	#adff00
+OTU_1145_Firmicutes_Thermovenabulia	label	#adff00
+OTU_1034_Fusobacteriota_Fusobacteriia	label	#ff00ed
+OTU_1170_Fusobacteriota_Fusobacteriia	label	#ff00ed
+OTU_634_Fusobacteriota_Fusobacteriia	label	#ff00ed
+OTU_477_Fusobacteriota_Fusobacteriia	label	#ff00ed
+	label	#ff00db
+OTU_420_Gemmatimonadota_AKAU4049	label	#9cff00
+OTU_121_Gemmatimonadota_MD2902_B12	label	#9cff00
+OTU_1140_Gemmatimonadota_S0134_terrestrial_group	label	#9cff00
+	label	#ff00c9
+OTU_846_Methylomirabilota_Methylomirabilia	label	#ff00b7
+OTU_192_Methylomirabilota_Methylomirabilia	label	#ff00b7
+OTU_287_Methylomirabilota_Methylomirabilia	label	#ff00b7
+OTU_1049_Myxococcota_Myxococcia	label	#e2ff00
+OTU_1021_Myxococcota_Polyangia	label	#e2ff00
+OTU_294_Myxococcota_Polyangia	label	#e2ff00
+OTU_777_Myxococcota_Polyangia	label	#e2ff00
+OTU_922_Myxococcota_Polyangia	label	#e2ff00
+OTU_680_Myxococcota_Polyangia	label	#e2ff00
+OTU_1095_Myxococcota_Polyangia	label	#e2ff00
+OTU_656_Myxococcota_Polyangia	label	#e2ff00
+OTU_397_Myxococcota_Polyangia	label	#e2ff00
+OTU_876_Myxococcota_Polyangia	label	#e2ff00
+OTU_953_Myxococcota_Polyangia	label	#e2ff00
+	label	#ff00a6
+OTU_1036_Nitrospinota_MT5B39	label	#ff00a6
+OTU_1000_Nitrospinota_Nitrospinia	label	#ff00a6
+OTU_123_Nitrospinota_P9X2b3D02	label	#ff00a6
+OTU_923_Nitrospirota_BMS9AB35	label	#02ff0c
+OTU_1197_Nitrospirota_Leptospirillia	label	#02ff0c
+OTU_554_Patescibacteria_ABY1	label	#00ff1b
+OTU_780_Patescibacteria_ABY1	label	#00ff1b
+OTU_859_Patescibacteria_ABY1	label	#00ff1b
+OTU_813_Patescibacteria_ABY1	label	#00ff1b
+OTU_381_Patescibacteria_CPR2	label	#00ff1b
+OTU_693_Patescibacteria_Gracilibacteria	label	#00ff1b
+OTU_1141_Patescibacteria_Gracilibacteria	label	#00ff1b
+OTU_971_Patescibacteria_Gracilibacteria	label	#00ff1b
+OTU_647_Patescibacteria_MD2896_B216	label	#00ff1b
+OTU_352_Patescibacteria_Microgenomatia	label	#00ff1b
+OTU_1223_Patescibacteria_Microgenomatia	label	#00ff1b
+OTU_411_Patescibacteria_Microgenomatia	label	#00ff1b
+OTU_559_Patescibacteria_Microgenomatia	label	#00ff1b
+OTU_556_Patescibacteria_Parcubacteria	label	#00ff1b
+OTU_1151_Patescibacteria_Parcubacteria	label	#00ff1b
+OTU_434_Patescibacteria_Parcubacteria	label	#00ff1b
+OTU_639_Patescibacteria_Parcubacteria	label	#00ff1b
+OTU_832_Patescibacteria_Parcubacteria	label	#00ff1b
+OTU_1073_Patescibacteria_Parcubacteria	label	#00ff1b
+OTU_166_Patescibacteria_Parcubacteria	label	#00ff1b
+OTU_451_Patescibacteria_Saccharimonadia	label	#00ff1b
+OTU_1195_Patescibacteria_WWE3	label	#00ff1b
+OTU_1005_Planctomycetota_028H05_P_BN_P5	label	#ff5900
+OTU_898_Planctomycetota_Brocadiae	label	#ff5900
+OTU_471_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_1196_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_430_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_885_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_135_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_913_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_230_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_385_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_636_Planctomycetota_Phycisphaerae	label	#ff5900
+OTU_713_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_557_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_907_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_1110_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_357_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_667_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_954_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_862_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_1198_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_521_Planctomycetota_Planctomycetes	label	#ff5900
+OTU_547_Planctomycetota_SGST604	label	#ff5900
+	label	#ff0094
+OTU_498_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_824_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1102_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_936_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_587_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_931_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_797_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_341_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_850_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_749_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_316_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_652_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1058_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_736_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_716_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_464_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_601_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_534_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_653_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1219_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1155_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1171_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1079_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_229_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_579_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_812_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_759_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_701_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_441_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_59_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_555_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1242_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_669_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_893_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_323_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1112_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_292_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_657_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1184_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_393_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_979_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1192_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_787_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_881_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_799_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1229_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_615_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_241_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_543_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_673_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_952_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_932_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1068_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_822_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1182_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_766_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1007_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_331_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1018_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_927_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_423_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_785_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1055_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1134_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_327_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1126_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_972_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1243_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_925_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1164_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1076_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1201_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_860_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_361_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_772_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1190_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1159_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1216_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1179_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_910_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1038_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_496_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1085_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_421_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_962_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_1113_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_760_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_307_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_697_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_337_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_926_Proteobacteria_Alphaproteobacteria	label	#ff7c00
+OTU_394_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_851_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1142_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_591_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_291_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1051_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_869_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1238_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1045_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_480_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_783_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1002_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_377_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_793_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_597_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1147_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_527_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_431_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1093_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_551_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_763_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_418_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_438_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_986_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_970_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_197_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_588_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_189_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1247_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_654_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1056_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1125_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1204_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_603_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_598_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_892_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_814_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1011_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_847_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1215_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1234_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_293_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_299_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_84_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_280_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_516_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1149_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_730_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_408_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_695_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1122_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_311_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_640_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_157_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_798_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_242_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_956_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1143_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_723_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_222_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_658_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1222_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_993_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_747_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_776_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_552_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_540_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_522_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_816_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1096_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1116_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_982_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_739_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_444_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_630_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_363_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_887_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_878_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_474_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1101_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_800_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_461_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1173_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1186_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_643_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_999_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_899_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_808_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1178_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_668_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_677_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_742_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1042_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1075_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1028_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1168_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_682_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1217_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_957_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_900_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1174_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_951_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1254_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_536_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_810_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_426_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_774_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1043_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1193_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1189_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_240_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1097_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_915_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1008_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1040_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_147_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_889_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_208_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1237_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_994_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_768_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_950_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_214_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1082_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_991_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_276_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_608_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_866_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_339_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1074_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1203_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1169_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_969_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_563_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_572_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1180_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1152_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_708_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_779_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_304_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_947_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_740_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1015_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_690_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_407_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_975_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1221_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_700_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_781_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1256_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_681_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1091_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_564_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1063_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_1120_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_614_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_343_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_888_Proteobacteria_Gammaproteobacteria	label	#ff7c00
+OTU_938_Proteobacteria_Magnetococcia	label	#ff7c00
+	label	#ff0082
+	label	#ff0071
+OTU_459_Spirochaetota_Spirochaetia	label	#4fff00
+OTU_641_Spirochaetota_Spirochaetia	label	#4fff00
+OTU_117_Spirochaetota_Spirochaetia	label	#4fff00
+OTU_1207_Synergistota_Synergistia	label	#ff005f
+OTU_243_Synergistota_Synergistia	label	#ff005f
+OTU_1001_Synergistota_Synergistia	label	#ff005f
+	label	#ff004d
+OTU_486_Thermotogota_Thermotogae	label	#ff003b
+OTU_879_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_692_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_492_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_784_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_803_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_1251_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_485_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_688_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_1025_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_548_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_627_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_663_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_308_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_773_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_853_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_558_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_696_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_880_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_21_Verrucomicrobiota_Chlamydiae	label	#ff6a00
+OTU_472_Verrucomicrobiota_Lentisphaeria	label	#ff6a00
+OTU_1123_Verrucomicrobiota_Lentisphaeria	label	#ff6a00
+OTU_1187_Verrucomicrobiota_Lentisphaeria	label	#ff6a00
+OTU_1111_Verrucomicrobiota_Lentisphaeria	label	#ff6a00
+OTU_617_Verrucomicrobiota_Omnitrophia	label	#ff6a00
+OTU_234_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_854_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_590_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_624_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_1194_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_919_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_1099_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_499_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_625_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_490_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_1248_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_532_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_737_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_794_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+OTU_620_Verrucomicrobiota_Verrucomicrobiae	label	#ff6a00
+	label	#ff002a
+	label	#ff0018
