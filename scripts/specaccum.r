@@ -29,20 +29,41 @@ boxplot(sp2, col="yellow", add=TRUE, pch="+")
 # sapply(mods$models, AIC)
 
 
-otus <- read.csv("processed/otu_table_for_cca1.csv")
+otus <- read.csv("processed/otu_table.csv")
 X <-  otus[2:ncol(otus)]
 rownames(X) <- otus$Samples
+X1 <- X[1:9, ]
+X2 <- X[10:nrow(X), ]
+
 
 sp1 <- specaccum(X)
 sp2 <- specaccum(X, "random")
-sp2
 summary(sp2)
 
-png(file="../figures/specaccum.png", width=700, height=500, pointsize = 13)
+png(file="../figures/specaccum_all.png", width=700, height=500, pointsize = 13)
 plot(sp1, ci.type="poly", col="blue", lwd=2, ci.lty=0, ci.col="lightblue", xlab="Количество образцов", ylab="Количество OTUs")
 boxplot(sp2, col="yellow", add=TRUE, pch="+")
 dev.off()
 
+
+sp1 <- specaccum(X1)
+sp2 <- specaccum(X1, "random")
+summary(sp2)
+
+png(file="../figures/specaccum_gotland.png", width=700, height=500, pointsize = 13)
+plot(sp1, ci.type="poly", col="blue", lwd=2, ci.lty=0, ci.col="lightblue", xlab="Количество образцов", ylab="Количество OTUs")
+boxplot(sp2, col="yellow", add=TRUE, pch="+")
+dev.off()
+
+
+sp1 <- specaccum(X2)
+sp2 <- specaccum(X2, "random")
+summary(sp2)
+
+png(file="../figures/specaccum_fin.png", width=700, height=500, pointsize = 13)
+plot(sp1, ci.type="poly", col="blue", lwd=2, ci.lty=0, ci.col="lightblue", xlab="Количество образцов", ylab="Количество OTUs")
+boxplot(sp2, col="yellow", add=TRUE, pch="+")
+dev.off()
 
 
 
