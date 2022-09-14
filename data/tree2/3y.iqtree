@@ -1,0 +1,848 @@
+IQ-TREE 2.1.3 COVID-edition built Apr 21 2021
+
+Input file name: data/3y_aln.fasta
+Type of analysis: tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 903072
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 206 sequences with 251 nucleotide sites
+Number of constant sites: 110 (= 43.8247% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 110 (= 43.8247% of all sites)
+Number of parsimony informative sites: 92
+Number of distinct site patterns: 133
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+G4
+
+Rate parameter R:
+
+  A-C: 1.0490
+  A-G: 4.1928
+  A-T: 1.7574
+  C-G: 0.4920
+  C-T: 7.3607
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2268
+  pi(C) = 0.195
+  pi(G) = 0.3748
+  pi(T) = 0.2033
+
+Rate matrix Q:
+
+  A    -1.201    0.1152    0.8849    0.2012
+  C     0.134    -1.081    0.1038    0.8428
+  G    0.5355   0.05402    -0.704    0.1145
+  T    0.2245    0.8082    0.2111    -1.244
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.3145
+
+ Category  Relative_rate  Proportion
+  1         0.006544       0.25
+  2         0.1158         0.25
+  3         0.6194         0.25
+  4         3.258          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -3440.6679 (s.e. 269.1716)
+Unconstrained log-likelihood (without tree): -1000.3858
+Number of free parameters (#branches + #model parameters): 294
+Akaike information criterion (AIC) score: 7469.3357
+Corrected Akaike information criterion (AICc) score: 180929.3357
+Bayesian information criterion (BIC) score: 8505.8189
+
+**************************** WARNING ****************************
+Number of parameters (K, model parameters and branch lengths): 294
+Sample size (n, alignment length): 251
+
+Given that K>=n, the parameter estimates might be inaccurate.
+Thus, phylogenetic estimates should be interpreted with caution.
+
+Ideally, it is desirable that n >> K. When selecting optimal models,
+1. use AIC or BIC if n > 40K;
+2. use AICc or BIC if 40K >= n > K;
+3. be extremely cautious if n <= K
+
+To improve the situation (3), consider the following options:
+  1. Increase the sample size (n)
+  2. Decrease the number of parameters (K) to be estimated. If
+     possible:
+     a. Remove the least important sequences from the alignment
+     b. Specify some of the parameter values for the substitution
+        model (e.g., the nucleotide or amino acid frequencies)
+     c. Specify some of the parameter values for the rates-across-
+        sites model (e.g., the shape parameter for the discrete
+        Gamma distribution, the proportion of invariable sites, or
+        the rates of change for different rate categories under
+        the FreeRate model)
+
+Reference:
+Burnham KR, Anderson DR (2002). Model Selection and Multimodel
+Inference: A Practical Information-Theoretic Approach. Springer,
+New York.
+************************ END OF WARNING ***********************
+
+Total tree length (sum of branch lengths): 3.9841
+Sum of internal branch lengths: 1.2727 (31.9430% of tree length)
+
+WARNING: 45 near-zero internal branches (<0.0040) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'NR_121712.2_Mycobacterium_kansasii_ATCC_12478_16S_ribosomal_RNA_complete_sequence' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++**NR_121712.2_Mycobacterium_kansasii_ATCC_12478_16S_ribosomal_RNA_complete_sequence
+|
+|                                +**NR_117885.1_Mycolicibacterium_tusciae_strain_CIP_106367_16S_ribosomal_RNA_partial_sequence
+|                             +**| (87)
+|                             |  +**NR_025529.1_Mycolicibacterium_rhodesiae_strain_DSM_44223_16S_ribosomal_RNA_partial_sequence
+|                          +--| (98)
+|                          |  +**NR_024903.1_Mycolicibacterium_tusciae_strain_FI-25796_16S_ribosomal_RNA_partial_sequence
+|                       +**| (19)
+|                       |  |                    +**NR_026284.1_Mycolicibacterium_austroafricanum_strain_ATCC_33464_16S_ribosomal_RNA_partial_sequence
+|                       |  |                 +**| (76)
+|                       |  |                 |  +**NR_026086.1_Mycolicibacterium_komossense_strain_Ko2_16S_ribosomal_RNA_partial_sequence
+|                       |  |              +**| (90)
+|                       |  |              |  +**NR_074572.1_Mycolicibacterium_vanbaalenii_PYR-1_16S_ribosomal_RNA_partial_sequence
+|                       |  |           +--| (74)
+|                       |  |           |  |  +**NR_115311.1_Mycolicibacterium_flavescens_strain_ATCC_14474_16S_ribosomal_RNA_partial_sequence
+|                       |  |           |  +--| (98)
+|                       |  |           |     +**NR_044815.1_Mycolicibacterium_flavescens_strain_ATCC_14474_16S_ribosomal_RNA_partial_sequence
+|                       |  |        +--| (43)
+|                       |  |        |  |  +**NR_109734.2_Mycolicibacterium_arabiense_strain_YIM_121001_16S_ribosomal_RNA_complete_sequence
+|                       |  |        |  +**| (96)
+|                       |  |        |     +**NR_026286.1_Mycobacterium_hodleri_strain_DSM_44183_16S_ribosomal_RNA_partial_sequence
+|                       |  |     +**| (36)
+|                       |  |     |  |  +**145cm_Gotland
+|                       |  |     |  +--| (100)
+|                       |  |     |     +**80cm_Fin_11_
+|                       |  |  +**| (36)
+|                       |  |  |  |  +**NR_151953.1_Mycolicibacterium_lutetiense_strain_071_16S_ribosomal_RNA_partial_sequence
+|                       |  |  |  +**| (90)
+|                       |  |  |     +**NR_151954.1_Mycobacterium_arcueilense_strain_269_16S_ribosomal_RNA_partial_sequence
+|                       |  +--| (20)
+|                       |     |  +**NR_134094.1_Mycolicibacterium_hippocampi_strain_BFLP-6_16S_ribosomal_RNA_partial_sequence
+|                       |     +--| (96)
+|                       |        +**NR_042265.1_Mycolicibacterium_mageritense_DSM_44476___CIP_104973_strain_938_16S_ribosomal_RNA_partial_sequence
+|                    +--| (41)
+|                    |  |  +**NR_152646.1_Mycolicibacterium_sarraceniae_strain_JCM_30395_16S_ribosomal_RNA_partial_sequence
+|                    |  +**| (96)
+|                    |     +**NR_109733.1_Mycolicibacterium_sediminis_strain_YIM_M13028_16S_ribosomal_RNA_partial_sequence
+|                 +--| (28)
+|                 |  +**NR_028970.1_Mycobacterium_pyrenivorans_strain_17A317A3_16S_ribosomal_RNA_partial_sequence
+|              +--| (61)
+|              |  |  +**NR_042280.1_Mycolicibacterium_llatzerense_strain_MG13_16S_ribosomal_RNA_partial_sequence
+|              |  +**| (96)
+|              |     +**NR_125525.1_Mycolicibacterium_insubricum_strain_FI-06250_16S_ribosomal_RNA_partial_sequence
+|           +--| (56)
+|           |  |        +--NR_043901.1_Mycobacterium_crocinum_strain_czh-42_16S_ribosomal_RNA_partial_sequence
+|           |  |     +**| (1)
+|           |  |     |  |           +**NR_117529.1_Mycolicibacter_algericus_DSM_45454_strain_Bejaia_16S_ribosomal_RNA_partial_sequence
+|           |  |     |  |        +--| (99)
+|           |  |     |  |        |  +**NR_041346.1_Mycolicibacter_kumamotonensis_strain_CST_7274_16S_ribosomal_RNA_partial_sequence
+|           |  |     |  |     +--| (70)
+|           |  |     |  |     |  +--NR_028945.2_Mycobacterium_holsaticum_strain_1406_16S_ribosomal_RNA_complete_sequence
+|           |  |     |  |  +--| (60)
+|           |  |     |  |  |  |  +**NR_025233.1_Mycolicibacterium_brumae_strain_ATCC_51384_16S_ribosomal_RNA_partial_sequence
+|           |  |     |  |  |  +**| (95)
+|           |  |     |  |  |     +**NR_156819.1_Mycolicibacterium_malmesburyense_strain_WCM_7299_16S_ribosomal_RNA_partial_sequence
+|           |  |     |  +**| (7)
+|           |  |     |     +--NR_026173.1_Mycolicibacterium_chlorophenolicum_strain_DSM_43826_16S_ribosomal_RNA_partial_sequence
+|           |  |  +**| (1)
+|           |  |  |  |                 +**40cm_Fin_2_
+|           |  |  |  |              +**| (95)
+|           |  |  |  |              |  +**80cm_Fin_8_
+|           |  |  |  |           +--| (89)
+|           |  |  |  |           |  +---------------80cm_Gotland
+|           |  |  |  |     +-----| (90)
+|           |  |  |  |     |     +--20cm_Fin_2_
+|           |  |  |  |  +**| (31)
+|           |  |  |  |  |  +--NR_104690.1_Mycolicibacterium_madagascariense_strain_P2_16S_ribosomal_RNA_partial_sequence
+|           |  |  |  +**| (3)
+|           |  |  |     |  +**NR_118288.1_Mycolicibacter_longobardus_strain_DSM_45394_16S_ribosomal_RNA_partial_sequence
+|           |  |  |     +--| (99)
+|           |  |  |        +**NR_157699.1_Mycobacterium_talmoniae_strain_NE-TNMC-100812_16S_ribosomal_RNA_complete_sequence
+|           |  +**| (8)
+|           |     |  +**NR_118914.1_Mycolicibacterium_chubuense_strain_ATCC_27278_16S_ribosomal_RNA_partial_sequence
+|           |     +**| (61)
+|           |        +**NR_028998.1_Mycolicibacterium_psychrotolerans_strain_WA101_16S_ribosomal_RNA_partial_sequence
+|        +--| (78)
+|        |  |                                                                       +**185cm_Gotland_2_
+|        |  |                                                                    +--| (92)
+|        |  |                                                                    |  |  +---80cm_Fin_2_
+|        |  |                                                                    |  +**| (64)
+|        |  |                                                                    |     |  +**110cm_Fin_6_
+|        |  |                                                                    |     +--| (98)
+|        |  |                                                                    |        +--190cm_Fin_5_
+|        |  |                                                                 +--| (75)
+|        |  |                                                                 |  +-------150cm_Fin_2_
+|        |  |                                                              +--| (74)
+|        |  |                                                              |  +--110cm_Fin_5_
+|        |  |                                                           +--| (57)
+|        |  |                                                           |  +--80cm_Fin_10_
+|        |  |                                                        +--| (58)
+|        |  |                                                        |  +--80cm_Fin_3_
+|        |  |                                                     +**| (74)
+|        |  |                                                     |  |     +--20cm_Gotland_2_
+|        |  |                                                     |  |  +**| (65)
+|        |  |                                                     |  |  |  +--80cm_Fin_6_
+|        |  |                                                     |  +--| (29)
+|        |  |                                                     |     +--150cm_Fin_7_
+|        |  |                                                  +--| (95)
+|        |  |                                                  |  +**145cm_Gotland_3_
+|        |  |                                               +--| (83)
+|        |  |                                               |  +-----40cm_Gotland_2_
+|        |  |                                          +----| (92)
+|        |  |                                          |    |                    +--2cm_Gotland_7_
+|        |  |                                          |    |                 +--| (98)
+|        |  |                                          |    |                 |  +--20cm_Gotland_3_
+|        |  |                                          |    |              +**| (66)
+|        |  |                                          |    |              |  |    +------------190cm_Fin
+|        |  |                                          |    |              |  +----| (90)
+|        |  |                                          |    |              |       +**190cm_Fin_4_
+|        |  |                                          |    |           +--| (83)
+|        |  |                                          |    |           |  +--220cm_Gotland_6_
+|        |  |                                          |    |        +--| (87)
+|        |  |                                          |    |        |  +----145cm_Gotland_4_
+|        |  |                                          |    |     +--| (83)
+|        |  |                                          |    |     |  +**220cm_Gotland_2_
+|        |  |                                          |    |  +--| (88)
+|        |  |                                          |    |  |  +-------2cm_Gotland_5_
+|        |  |                                          |    +--| (85)
+|        |  |                                          |       |     +---185cm_Gotland
+|        |  |                                          |       |  +--| (97)
+|        |  |                                          |       |  |  |  +**80cm_Fin_5_
+|        |  |                                          |       |  |  +**| (79)
+|        |  |                                          |       |  |     +--190cm_Fin_2_
+|        |  |                                          |       +--| (98)
+|        |  |                                          |          +---80cm_Fin
+|        |  |                                       +--| (43)
+|        |  |                                       |  |     +--20cm_Fin_6_
+|        |  |                                       |  |  +--| (76)
+|        |  |                                       |  |  |  |     +---10cm_Fin_2_
+|        |  |                                       |  |  |  |  +--| (77)
+|        |  |                                       |  |  |  |  |  +--------10cm_Fin_3_
+|        |  |                                       |  |  |  +--| (74)
+|        |  |                                       |  |  |     |  +**150cm_Fin_3_
+|        |  |                                       |  |  |     +**| (90)
+|        |  |                                       |  |  |        +**80cm_Fin_12_
+|        |  |                                       |  +--| (71)
+|        |  |                                       |     +-----2cm_Gotland_2_
+|        |  |                                    +**| (26)
+|        |  |                                    |  |  +-------220cm_Gotland_3_
+|        |  |                                    |  +--| (74)
+|        |  |                                    |     +-------2cm_Gotland_3_
+|        |  |                                 +--| (43)
+|        |  |                                 |  |           +--220cm_Gotland_4_
+|        |  |                                 |  |        +--| (89)
+|        |  |                                 |  |        |  +----2cm_Fin_5_
+|        |  |                                 |  |     +--| (89)
+|        |  |                                 |  |     |  +---2cm_Fin_3_
+|        |  |                                 |  |  +--| (83)
+|        |  |                                 |  |  |  +-----110cm_Fin_3_
+|        |  |                                 |  +--| (69)
+|        |  |                                 |     |  +--20cm_Fin_3_
+|        |  |                                 |     +--| (86)
+|        |  |                                 |        +--40cm_Gotland
+|        |  |                              +--| (30)
+|        |  |                              |  |     +----20cm_Fin_4_
+|        |  |                              |  |  +--| (84)
+|        |  |                              |  |  |  +---10cm_Fin
+|        |  |                              |  +--| (75)
+|        |  |                              |     +--2cm_Fin_15_
+|        |  |                           +--| (75)
+|        |  |                           |  |           +--150cm_Fin_5_
+|        |  |                           |  |        +--| (95)
+|        |  |                           |  |        |  +**2cm_Gotland_12_
+|        |  |                           |  |     +--| (65)
+|        |  |                           |  |     |  |            +-----------80cm_Fin_7_
+|        |  |                           |  |     |  |        +---| (78)
+|        |  |                           |  |     |  |        |   +---2cm_Fin
+|        |  |                           |  |     |  |     +**| (48)
+|        |  |                           |  |     |  |     |  +------2cm_Fin_7_
+|        |  |                           |  |     |  |  +--| (75)
+|        |  |                           |  |     |  |  |  +--120cm_Gotland_2_
+|        |  |                           |  |     |  +--| (75)
+|        |  |                           |  |     |     +**2cm_Fin_9_
+|        |  |                           |  |  +--| (68)
+|        |  |                           |  |  |  |           +--2cm_Gotland_6_
+|        |  |                           |  |  |  |        +--| (100)
+|        |  |                           |  |  |  |        |  +--2cm_Fin_10_
+|        |  |                           |  |  |  |     +--| (93)
+|        |  |                           |  |  |  |     |  +----220cm_Gotland_5_
+|        |  |                           |  |  |  |  +--| (74)
+|        |  |                           |  |  |  |  |  +**2cm_Fin_8_
+|        |  |                           |  |  |  +**| (63)
+|        |  |                           |  |  |     +**190cm_Fin_9_
+|        |  |                           |  +--| (76)
+|        |  |                           |     |       +--190cm_Fin_6_
+|        |  |                           |     |  +----| (100)
+|        |  |                           |     |  |    +--150cm_Fin_6_
+|        |  |                           |     +**| (61)
+|        |  |                           |        +--2cm_Gotland_8_
+|        |  |                        +--| (41)
+|        |  |                        |  |        +--20cm_Fin
+|        |  |                        |  |     +**| (80)
+|        |  |                        |  |     |  |  +--120cm_Gotland_3_
+|        |  |                        |  |     |  +--| (97)
+|        |  |                        |  |     |     |  +**270cm_Gotland_2_
+|        |  |                        |  |     |     +**| (97)
+|        |  |                        |  |     |        +**190cm_Fin_3_
+|        |  |                        |  |  +--| (95)
+|        |  |                        |  |  |  +--150cm_Fin_8_
+|        |  |                        |  +--| (61)
+|        |  |                        |     |     +---------------------------------80cm_Fin_9_
+|        |  |                        |     |  +--| (97)
+|        |  |                        |     |  |  +**220cm_Gotland
+|        |  |                        |     +--| (89)
+|        |  |                        |        +--2cm_Fin_13_
+|        |  |                     +--| (51)
+|        |  |                     |  |  +--20cm_Fin_5_
+|        |  |                     |  +--| (97)
+|        |  |                     |     |           +**2cm_Fin_14_
+|        |  |                     |     |        +**| (86)
+|        |  |                     |     |        |  +**150cm_Fin_4_
+|        |  |                     |     |     +--| (99)
+|        |  |                     |     |     |  |  +**110cm_Fin_2_
+|        |  |                     |     |     |  +--| (100)
+|        |  |                     |     |     |     +**20cm_Gotland
+|        |  |                     |     |  +--| (77)
+|        |  |                     |     |  |  |         +**270cm_Gotland
+|        |  |                     |     |  |  |     +---| (100)
+|        |  |                     |     |  |  |     |   +--80cm_Fin_4_
+|        |  |                     |     |  |  |  +--| (97)
+|        |  |                     |     |  |  |  |  |     +--80cm_Fin_13_
+|        |  |                     |     |  |  |  |  |  +--| (97)
+|        |  |                     |     |  |  |  |  |  |  +--150cm_Fin
+|        |  |                     |     |  |  |  |  +**| (65)
+|        |  |                     |     |  |  |  |     +--2cm_Fin_2_
+|        |  |                     |     |  |  +--| (95)
+|        |  |                     |     |  |     +**40cm_Gotland_3_
+|        |  |                     |     +**| (78)
+|        |  |                     |        |  +--145cm_Gotland_2_
+|        |  |                     |        +--| (78)
+|        |  |                     |           +--185cm_Gotland_4_
+|        |  |                  +--| (79)
+|        |  |                  |  |  +**2cm_Gotland
+|        |  |                  |  +--| (75)
+|        |  |                  |     |    +--2cm_Fin_4_
+|        |  |                  |     +----| (99)
+|        |  |                  |          +--------2cm_Fin_11_
+|        |  |               +**| (32)
+|        |  |               |  |  +**2cm_Gotland_14_
+|        |  |               |  +**| (84)
+|        |  |               |     +**2cm_Gotland_13_
+|        |  |           +---| (55)
+|        |  |           |   |        +----------------------2cm_Gotland_9_
+|        |  |           |   |     +--| (80)
+|        |  |           |   |     |  +**2cm_Gotland_4_
+|        |  |           |   |  +--| (62)
+|        |  |           |   |  |  +---------185cm_Gotland_3_
+|        |  |           |   +--| (53)
+|        |  |           |      +---2cm_Gotland_11_
+|        |  |        +--| (83)
+|        |  |        |  +--2cm_Fin_12_
+|        |  |     +**| (55)
+|        |  |     |  +---------190cm_Fin_7_
+|        |  |  +--| (50)
+|        |  |  |  |           +--20cm_Fin_7_
+|        |  |  |  |        +**| (69)
+|        |  |  |  |        |  +-----------110cm_Fin
+|        |  |  |  |     +--| (96)
+|        |  |  |  |     |  +--190cm_Fin_10_
+|        |  |  |  |  +--| (77)
+|        |  |  |  |  |  |        +**2cm_Gotland_10_
+|        |  |  |  |  |  |     +**| (97)
+|        |  |  |  |  |  |     |  +**20cm_Gotland_4_
+|        |  |  |  |  |  |  +--| (100)
+|        |  |  |  |  |  |  |  +--40cm_Fin
+|        |  |  |  |  |  +--| (92)
+|        |  |  |  |  |     |  +--2cm_Gotland_15_
+|        |  |  |  |  |     +--| (97)
+|        |  |  |  |  |        +----------110cm_Fin_4_
+|        |  |  |  +**| (63)
+|        |  |  |     +----190cm_Fin_8_
+|        |  +**| (34)
+|        |     |  +--120cm_Gotland
+|        |     +--| (99)
+|        |        +--NR_041945.1_Mycobacterium_shimoidei_strain_ATCC_27962_16S_ribosomal_RNA_partial_sequence
+|     +**| (57)
+|     |  |     +**NR_044449.1_Mycobacterium_riyadhense_strain_NLA000201958_16S_ribosomal_RNA_partial_sequence
+|     |  |  +**| (89)
+|     |  |  |  +**NR_104888.1_Mycobacterium_haemophilum_DSM_44634_16S_ribosomal_RNA_partial_sequence
+|     |  +**| (91)
+|     |     +**NR_044814.1_Mycobacterium_malmoense_strain_ATCC_29571_16S_ribosomal_RNA_partial_sequence
+|  +--| (96)
+|  |  +-----2cm_Fin_6_
++**| (96)
+|  +--NR_118331.1_Mycobacterium_gordonae_strain_ATCC_14470_16S_ribosomal_RNA_partial_sequence
+|
++**NR_044840.1_Mycobacterium_intermedium_strain_1669/91_16S_ribosomal_RNA_partial_sequence
+
+Tree in newick format:
+
+(NR_121712.2_Mycobacterium_kansasii_ATCC_12478_16S_ribosomal_RNA_complete_sequence:0.0000010000,(((((((((((NR_117885.1_Mycolicibacterium_tusciae_strain_CIP_106367_16S_ribosomal_RNA_partial_sequence:0.0000010000,NR_025529.1_Mycolicibacterium_rhodesiae_strain_DSM_44223_16S_ribosomal_RNA_partial_sequence:0.0000010000)87:0.0000024645,NR_024903.1_Mycolicibacterium_tusciae_strain_FI-25796_16S_ribosomal_RNA_partial_sequence:0.0000010000)98:0.0058853674,(((((((NR_026284.1_Mycolicibacterium_austroafricanum_strain_ATCC_33464_16S_ribosomal_RNA_partial_sequence:0.0000010000,NR_026086.1_Mycolicibacterium_komossense_strain_Ko2_16S_ribosomal_RNA_partial_sequence:0.0000010000)76:0.0000023707,NR_074572.1_Mycolicibacterium_vanbaalenii_PYR-1_16S_ribosomal_RNA_partial_sequence:0.0000021699)90:0.0000024333,(NR_115311.1_Mycolicibacterium_flavescens_strain_ATCC_14474_16S_ribosomal_RNA_partial_sequence:0.0000022325,NR_044815.1_Mycolicibacterium_flavescens_strain_ATCC_14474_16S_ribosomal_RNA_partial_sequence:0.0000022649)98:0.0059570627)74:0.0059287680,(NR_109734.2_Mycolicibacterium_arabiense_strain_YIM_121001_16S_ribosomal_RNA_complete_sequence:0.0000024240,NR_026286.1_Mycobacterium_hodleri_strain_DSM_44183_16S_ribosomal_RNA_partial_sequence:0.0000010000)96:0.0000028490)43:0.0058896539,(145cm_Gotland:0.0000010000,80cm_Fin_11_:0.0000010000)100:0.0180529833)36:0.0000020630,(NR_151953.1_Mycolicibacterium_lutetiense_strain_071_16S_ribosomal_RNA_partial_sequence:0.0000010000,NR_151954.1_Mycobacterium_arcueilense_strain_269_16S_ribosomal_RNA_partial_sequence:0.0000010000)90:0.0000028635)36:0.0000024527,(NR_134094.1_Mycolicibacterium_hippocampi_strain_BFLP-6_16S_ribosomal_RNA_partial_sequence:0.0000020036,NR_042265.1_Mycolicibacterium_mageritense_DSM_44476___CIP_104973_strain_938_16S_ribosomal_RNA_partial_sequence:0.0000024371)96:0.0059087007)20:0.0059320290)19:0.0000025117,(NR_152646.1_Mycolicibacterium_sarraceniae_strain_JCM_30395_16S_ribosomal_RNA_partial_sequence:0.0000010000,NR_109733.1_Mycolicibacterium_sediminis_strain_YIM_M13028_16S_ribosomal_RNA_partial_sequence:0.0000010000)96:0.0000020655)41:0.0060575215,NR_028970.1_Mycobacterium_pyrenivorans_strain_17A317A3_16S_ribosomal_RNA_partial_sequence:0.0000024317)28:0.0059750797,(NR_042280.1_Mycolicibacterium_llatzerense_strain_MG13_16S_ribosomal_RNA_partial_sequence:0.0000010000,NR_125525.1_Mycolicibacterium_insubricum_strain_FI-06250_16S_ribosomal_RNA_partial_sequence:0.0000010000)96:0.0000025534)61:0.0059514052,(((NR_043901.1_Mycobacterium_crocinum_strain_czh-42_16S_ribosomal_RNA_partial_sequence:0.0060034357,((((NR_117529.1_Mycolicibacter_algericus_DSM_45454_strain_Bejaia_16S_ribosomal_RNA_partial_sequence:0.0000010000,NR_041346.1_Mycolicibacter_kumamotonensis_strain_CST_7274_16S_ribosomal_RNA_partial_sequence:0.0000010000)99:0.0061966280,NR_028945.2_Mycobacterium_holsaticum_strain_1406_16S_ribosomal_RNA_complete_sequence:0.0122929879)70:0.0058684240,(NR_025233.1_Mycolicibacterium_brumae_strain_ATCC_51384_16S_ribosomal_RNA_partial_sequence:0.0000010000,NR_156819.1_Mycolicibacterium_malmesburyense_strain_WCM_7299_16S_ribosomal_RNA_partial_sequence:0.0000010000)95:0.0000024087)60:0.0059813605,NR_026173.1_Mycolicibacterium_chlorophenolicum_strain_DSM_43826_16S_ribosomal_RNA_partial_sequence:0.0060252121)7:0.0000023765)1:0.0000020287,(((((40cm_Fin_2_:0.0000010000,80cm_Fin_8_:0.0000028951)95:0.0000027579,80cm_Gotland:0.1124015441)89:0.0060693497,20cm_Fin_2_:0.0122773492)90:0.0457694207,NR_104690.1_Mycolicibacterium_madagascariense_strain_P2_16S_ribosomal_RNA_partial_sequence:0.0059899055)31:0.0000023807,(NR_118288.1_Mycolicibacter_longobardus_strain_DSM_45394_16S_ribosomal_RNA_partial_sequence:0.0000024932,NR_157699.1_Mycobacterium_talmoniae_strain_NE-TNMC-100812_16S_ribosomal_RNA_complete_sequence:0.0000024933)99:0.0059775234)3:0.0000024385)1:0.0000023637,(NR_118914.1_Mycolicibacterium_chubuense_strain_ATCC_27278_16S_ribosomal_RNA_partial_sequence:0.0000010000,NR_028998.1_Mycolicibacterium_psychrotolerans_strain_WA101_16S_ribosomal_RNA_partial_sequence:0.0000010000)61:0.0000021260)8:0.0000010000)56:0.0059967150,(((((((((((((((((((((((185cm_Gotland_2_:0.0000023400,(80cm_Fin_2_:0.0293527070,(110cm_Fin_6_:0.0000029040,190cm_Fin_5_:0.0228952094)98:0.0171373723)64:0.0000020806)92:0.0058266081,150cm_Fin_2_:0.0565478990)75:0.0058832115,110cm_Fin_5_:0.0054719812)74:0.0057542093,80cm_Fin_10_:0.0254207732)57:0.0060264144,80cm_Fin_3_:0.0059193908)58:0.0057110681,((20cm_Gotland_2_:0.0056912010,80cm_Fin_6_:0.0172557876)65:0.0000024032,150cm_Fin_7_:0.0175605238)29:0.0056997010)74:0.0000021594,145cm_Gotland_3_:0.0000029660)95:0.0077660898,40cm_Gotland_2_:0.0419509521)83:0.0041187624,(((((((2cm_Gotland_7_:0.0177190090,20cm_Gotland_3_:0.0060469833)98:0.0066581026,(190cm_Fin:0.0887693777,190cm_Fin_4_:0.0000025126)90:0.0370621737)66:0.0000027978,220cm_Gotland_6_:0.0234175606)83:0.0228016060,145cm_Gotland_4_:0.0400020823)87:0.0204425108,220cm_Gotland_2_:0.0000027783)83:0.0060559600,2cm_Gotland_5_:0.0565060314)88:0.0124631468,((185cm_Gotland:0.0289383690,(80cm_Fin_5_:0.0000010000,190cm_Fin_2_:0.0168728636)79:0.0000029660)97:0.0223693796,80cm_Fin:0.0332983766)98:0.0249348911)85:0.0075686406)92:0.0362227797,((20cm_Fin_6_:0.0259011102,((10cm_Fin_2_:0.0335337019,10cm_Fin_3_:0.0652131690)77:0.0247131951,(150cm_Fin_3_:0.0000010000,80cm_Fin_12_:0.0000010000)90:0.0000029689)74:0.0252209628)76:0.0052129313,2cm_Gotland_2_:0.0427311056)71:0.0118976857)43:0.0163340899,(220cm_Gotland_3_:0.0602774537,2cm_Gotland_3_:0.0555028718)74:0.0262356758)26:0.0034703583,((((220cm_Gotland_4_:0.0234932156,2cm_Fin_5_:0.0343795068)89:0.0128425261,2cm_Fin_3_:0.0313269026)89:0.0056219295,110cm_Fin_3_:0.0462757925)83:0.0144151753,(20cm_Fin_3_:0.0182137832,40cm_Gotland:0.0182848352)86:0.0074381100)69:0.0127623564)43:0.0159889322,((20cm_Fin_4_:0.0381034479,10cm_Fin:0.0308094228)84:0.0087138064,2cm_Fin_15_:0.0244865902)75:0.0102458482)30:0.0124609093,((((150cm_Fin_5_:0.0055874405,2cm_Gotland_12_:0.0000026014)95:0.0052002075,((((80cm_Fin_7_:0.0819740492,2cm_Fin:0.0312668141)78:0.0336360936,2cm_Fin_7_:0.0487655092)48:0.0000023810,120cm_Gotland_2_:0.0053474761)75:0.0239696254,2cm_Fin_9_:0.0000021946)75:0.0247494059)65:0.0120879944,((((2cm_Gotland_6_:0.0060924552,2cm_Fin_10_:0.0053356690)100:0.0197368289,220cm_Gotland_5_:0.0365913096)93:0.0241017057,2cm_Fin_8_:0.0000024154)74:0.0057148347,190cm_Fin_9_:0.0000020179)63:0.0000022546)68:0.0120769346,((190cm_Fin_6_:0.0103406586,150cm_Fin_6_:0.0254512948)100:0.0394833594,2cm_Gotland_8_:0.0247110053)61:0.0000025078)76:0.0207173367)75:0.0110600153,(((20cm_Fin:0.0180008105,(120cm_Gotland_3_:0.0178025773,(270cm_Gotland_2_:0.0000010000,190cm_Fin_3_:0.0000010000)97:0.0000028999)97:0.0121038794)80:0.0000026216,150cm_Fin_8_:0.0055678102)95:0.0083190109,((80cm_Fin_9_:0.2370174516,220cm_Gotland:0.0000027419)97:0.0052420799,2cm_Fin_13_:0.0250596444)89:0.0189343621)61:0.0099816951)41:0.0124286641,(20cm_Fin_5_:0.0117546530,((((2cm_Fin_14_:0.0000010000,150cm_Fin_4_:0.0000010000)86:0.0000028932,(110cm_Fin_2_:0.0000024321,20cm_Gotland:0.0000024257)100:0.0056986061)99:0.0120314810,(((270cm_Gotland:0.0000027642,80cm_Fin_4_:0.0056834635)100:0.0297138215,((80cm_Fin_13_:0.0115034244,150cm_Fin:0.0058290139)97:0.0175601782,2cm_Fin_2_:0.0240691764)65:0.0000029629)97:0.0246062787,40cm_Gotland_3_:0.0000029250)95:0.0057243181)77:0.0060147966,(145cm_Gotland_2_:0.0118898725,185cm_Gotland_4_:0.0117931410)78:0.0060627329)78:0.0000024239)97:0.0130395904)51:0.0101874161,(2cm_Gotland:0.0000026778,(2cm_Fin_4_:0.0105573927,2cm_Fin_11_:0.0633335380)99:0.0387258387)75:0.0145364446)79:0.0251830991,(2cm_Gotland_14_:0.0000010000,2cm_Gotland_13_:0.0000010000)84:0.0000021846)32:0.0000021859,(((2cm_Gotland_9_:0.1611035581,2cm_Gotland_4_:0.0000024080)80:0.0156482005,185cm_Gotland_3_:0.0732443196)62:0.0152784218,2cm_Gotland_11_:0.0301439068)53:0.0052361381)55:0.0325327229,2cm_Fin_12_:0.0267866748)83:0.0113296280,190cm_Fin_7_:0.0713045778)55:0.0000025078,((((20cm_Fin_7_:0.0117757433,110cm_Fin:0.0829697700)69:0.0000020748,190cm_Fin_10_:0.0059115203)96:0.0180922776,(((2cm_Gotland_10_:0.0000010000,20cm_Gotland_4_:0.0000010000)97:0.0000023221,40cm_Fin:0.0119574781)100:0.0245571114,(2cm_Gotland_15_:0.0057166085,110cm_Fin_4_:0.0769949401)97:0.0188076523)92:0.0062877440)77:0.0062210465,190cm_Fin_8_:0.0388279651)63:0.0000025500)50:0.0059979772,(120cm_Gotland:0.0183776842,NR_041945.1_Mycobacterium_shimoidei_strain_ATCC_27962_16S_ribosomal_RNA_partial_sequence:0.0060100341)99:0.0121441597)34:0.0000023796)78:0.0120803757,((NR_044449.1_Mycobacterium_riyadhense_strain_NLA000201958_16S_ribosomal_RNA_partial_sequence:0.0000010000,NR_104888.1_Mycobacterium_haemophilum_DSM_44634_16S_ribosomal_RNA_partial_sequence:0.0000010000)89:0.0000021505,NR_044814.1_Mycobacterium_malmoense_strain_ATCC_29571_16S_ribosomal_RNA_partial_sequence:0.0000010000)91:0.0000024953)57:0.0000026466,2cm_Fin_6_:0.0460857987)96:0.0059504390,NR_118331.1_Mycobacterium_gordonae_strain_ATCC_14470_16S_ribosomal_RNA_partial_sequence:0.0059735412)96:0.0000023825,NR_044840.1_Mycobacterium_intermedium_strain_1669/91_16S_ribosomal_RNA_partial_sequence:0.0000010000);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -3440.816016
+Robinson-Foulds distance between ML tree and consensus tree: 16
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++**NR_121712.2_Mycobacterium_kansasii_ATCC_12478_16S_ribosomal_RNA_complete_sequence
+|
+|                                                                                   +**NR_117885.1_Mycolicibacterium_tusciae_strain_CIP_106367_16S_ribosomal_RNA_partial_sequence
+|                                                                                +**|
+|                                                                                |  +**NR_029219.1_Mycolicibacterium_aichiense_strain_49005_16S_ribosomal_RNA_partial_sequence
+|                                                                             +**|
+|                                                                             |  +**NR_115805.1_Mycolicibacterium_gadium_strain_CIP_105388_16S_ribosomal_RNA_partial_sequence
+|                                                                          +--|
+|                                                                          |  +**NR_026087.1_Mycolicibacterium_gadium_strain_1066_16S_ribosomal_RNA_partial_sequence
+|                                                                       +--| (87)
+|                                                                       |  +--NR_025529.1_Mycolicibacterium_rhodesiae_strain_DSM_44223_16S_ribosomal_RNA_partial_sequence
+|                                                                    +--| (98)
+|                                                                    |  +--NR_024903.1_Mycolicibacterium_tusciae_strain_FI-25796_16S_ribosomal_RNA_partial_sequence
+|                                                                 +--| (29)
+|                                                                 |  |  +--NR_152646.1_Mycolicibacterium_sarraceniae_strain_JCM_30395_16S_ribosomal_RNA_partial_sequence
+|                                                                 |  +--| (96)
+|                                                                 |     +--NR_109733.1_Mycolicibacterium_sediminis_strain_YIM_M13028_16S_ribosomal_RNA_partial_sequence
+|                                                              +--| (41)
+|                                                              |  |                             +**NR_026284.1_Mycolicibacterium_austroafricanum_strain_ATCC_33464_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |                          +**|
+|                                                              |  |                          |  +**NR_116555.1_Mycolicibacterium_aurum_strain_ATCC_23366_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |                       +**|
+|                                                              |  |                       |  +**NR_029293.1_Mycolicibacterium_vanbaalenii_PYR-1_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |                    +--|
+|                                                              |  |                    |  +**NR_029217.1_Mycolicibacterium_aurum_strain_358_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |                 +--| (76)
+|                                                              |  |                 |  +--NR_026086.1_Mycolicibacterium_komossense_strain_Ko2_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |              +--| (90)
+|                                                              |  |              |  +--NR_074572.1_Mycolicibacterium_vanbaalenii_PYR-1_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |           +--| (74)
+|                                                              |  |           |  |     +**NR_115311.1_Mycolicibacterium_flavescens_strain_ATCC_14474_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |           |  |  +--|
+|                                                              |  |           |  |  |  +**NR_043761.1_Mycolicibacterium_rutilum_strain_czh-117_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |           |  +--| (98)
+|                                                              |  |           |     +--NR_044815.1_Mycolicibacterium_flavescens_strain_ATCC_14474_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |        +--| (43)
+|                                                              |  |        |  |  +--NR_109734.2_Mycolicibacterium_arabiense_strain_YIM_121001_16S_ribosomal_RNA_complete_sequence
+|                                                              |  |        |  +--| (96)
+|                                                              |  |        |     +--NR_026286.1_Mycobacterium_hodleri_strain_DSM_44183_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |     +--| (36)
+|                                                              |  |     |  |  +--145cm_Gotland
+|                                                              |  |     |  +--| (100)
+|                                                              |  |     |     +--80cm_Fin_11_
+|                                                              |  |  +--| (36)
+|                                                              |  |  |  |        +**NR_151953.1_Mycolicibacterium_lutetiense_strain_071_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |  |  |     +**|
+|                                                              |  |  |  |     |  +**NR_118612.1_Mycolicibacterium_smegmatis_strain_DSM_43756_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |  |  |  +--|
+|                                                              |  |  |  |  |  +**NR_151955.1_Mycolicibacterium_montmartrense_strain_196_16S_ribosomal_RNA_partial_sequence
+|                                                              |  |  |  +--| (90)
+|                                                              |  |  |     +--NR_151954.1_Mycobacterium_arcueilense_strain_269_16S_ribosomal_RNA_partial_sequence
+|                                                              |  +--| (20)
+|                                                              |     |                                            +**NR_134094.1_Mycolicibacterium_hippocampi_strain_BFLP-6_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |                                         +**|
+|                                                              |     |                                         |  +**NR_114447.1_Mycolicibacterium_peregrinum_strain_ATCC_14467_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |                                      +**|
+|                                                              |     |                                      |  +**NR_042922.1_Mycolicibacterium_wolinskyi_strain_ATCC_700010_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |                                   +**|
+|                                                              |     |                                   |  +**NR_116557.1_Mycolicibacterium_bacteremicum_strain_ATCC_25791_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |                                +**|
+|                                                              |     |                                |  +**NR_115232.1_Mycolicibacterium_mageritense_strain_CIP_104973_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |                             +**|
+|                                                              |     |                             |  +**NR_104691.1_Mycolicibacterium_murale_strain_MA112/96_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |                          +**|
+|                                                              |     |                          |  +**NR_025737.1_Mycolicibacterium_canariasense_strain_502329_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |                       +**|
+|                                                              |     |                       |  +**NR_136492.1_Mycolicibacterium_anyangense_strain_QIA-38_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |                    +**|
+|                                                              |     |                    |  +**NR_025236.1_Mycolicibacterium_tokaiense_strain_ATCC_27282_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |                 +**|
+|                                                              |     |                 |  +**NR_025787.1_Mycolicibacterium_cosmeticum_strain_LTA-388_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |              +**|
+|                                                              |     |              |  +**NR_119253.1_Mycolicibacterium_wolinskyi_strain_700010_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |           +**|
+|                                                              |     |           |  +**NR_158076.1_Mycobacterium_aquiterrae_strain_S-I-6_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |        +**|
+|                                                              |     |        |  +**NR_026073.1_Mycolicibacterium_duvalii_strain_ATCC_43910_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |     +**|
+|                                                              |     |     |  +**NR_117884.1_Mycolicibacterium_murale_strain_CCUG_39728_16S_ribosomal_RNA_partial_sequence
+|                                                              |     |  +--|
+|                                                              |     |  |  +**NR_117909.1_Mycolicibacterium_iranicum_strain_M05_16S_ribosomal_RNA_partial_sequence
+|                                                              |     +--| (96)
+|                                                              |        +--NR_042265.1_Mycolicibacterium_mageritense_DSM_44476___CIP_104973_strain_938_16S_ribosomal_RNA_partial_sequence
+|                                                           +--| (61)
+|                                                           |  |                 +**NR_042280.1_Mycolicibacterium_llatzerense_strain_MG13_16S_ribosomal_RNA_partial_sequence
+|                                                           |  |              +**|
+|                                                           |  |              |  +**NR_114656.1_Mycolicibacterium_mucogenicum_strain_ATCC_49650_16S_ribosomal_RNA_partial_sequence
+|                                                           |  |           +**|
+|                                                           |  |           |  +**NR_042919.1_Mycolicibacterium_mucogenicum_strain_ATCC_49650_16S_ribosomal_RNA_partial_sequence
+|                                                           |  |        +**|
+|                                                           |  |        |  +**NR_043237.1_Mycolicibacterium_phocaicum_strain_N4_16S_ribosomal_RNA_partial_sequence
+|                                                           |  |     +--|
+|                                                           |  |     |  +**NR_041906.1_Mycolicibacterium_phlei_strain_DSM_43239_16S_ribosomal_RNA_partial_sequence
+|                                                           |  |  +--| (96)
+|                                                           |  |  |  +--NR_125525.1_Mycolicibacterium_insubricum_strain_FI-06250_16S_ribosomal_RNA_partial_sequence
+|                                                           |  +--| (31)
+|                                                           |     +--NR_028970.1_Mycobacterium_pyrenivorans_strain_17A317A3_16S_ribosomal_RNA_partial_sequence
+|                                                        +--| (14)
+|                                                        |  |        +--NR_117529.1_Mycolicibacter_algericus_DSM_45454_strain_Bejaia_16S_ribosomal_RNA_partial_sequence
+|                                                        |  |     +--| (99)
+|                                                        |  |     |  +--NR_041346.1_Mycolicibacter_kumamotonensis_strain_CST_7274_16S_ribosomal_RNA_partial_sequence
+|                                                        |  |  +--| (70)
+|                                                        |  |  |  +--NR_028945.2_Mycobacterium_holsaticum_strain_1406_16S_ribosomal_RNA_complete_sequence
+|                                                        |  +--| (60)
+|                                                        |     |  +--NR_025233.1_Mycolicibacterium_brumae_strain_ATCC_51384_16S_ribosomal_RNA_partial_sequence
+|                                                        |     +--| (95)
+|                                                        |        +--NR_156819.1_Mycolicibacterium_malmesburyense_strain_WCM_7299_16S_ribosomal_RNA_partial_sequence
+|                                                     +--| (6)
+|                                                     |  +--NR_043901.1_Mycobacterium_crocinum_strain_czh-42_16S_ribosomal_RNA_partial_sequence
+|                                                  +--| (4)
+|                                                  |  |                                               +**NR_118914.1_Mycolicibacterium_chubuense_strain_ATCC_27278_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |                                            +**|
+|                                                  |  |                                            |  +**NR_043283.1_Mycobacterium_rufum_strain_JS14_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |                                         +**|
+|                                                  |  |                                         |  +**NR_041902.1_Mycolicibacterium_chubuense_strain_ATCC_27278_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |                                      +**|
+|                                                  |  |                                      |  +**NR_025296.1_Mycolicibacterium_elephantis_strain_DSM_44368_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |                                   +**|
+|                                                  |  |                                   |  +**NR_025528.1_Mycolicibacterium_pulveris_strain_DSM_44222_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |                                +**|
+|                                                  |  |                                |  +**NR_104774.1_Mycolicibacterium_sphagni_strain_Sph_38_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |                             +**|
+|                                                  |  |                             |  +**NR_025526.1_Mycolicibacterium_moriokaense_strain_DSM_44221_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |                          +**|
+|                                                  |  |                          |  +**NR_043760.1_Mycobacterium_pallens_strain_czh-8_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |                       +**|
+|                                                  |  |                       |  +**NR_158005.1_Mycobacterium_aquaticum_strain_RW6_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |                    +**|
+|                                                  |  |                    |  +**NR_029037.1_Mycolicibacterium_brisbanense_strain_W6743_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |                 +**|
+|                                                  |  |                 |  +**NR_115331.1_Mycolicibacterium_moriokaense_strain_CIP_105393_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |              +**|
+|                                                  |  |              |  +**NR_169341.1_Mycobacterium_palauense_strain_CECT_8779_16S_ribosomal_RNA_complete_sequence
+|                                                  |  |           +**|
+|                                                  |  |           |  +**NR_025235.1_Mycolicibacterium_poriferae_strain_ATCC_35087_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |        +**|
+|                                                  |  |        |  +**NR_115330.1_Mycobacterium_barrassiae_strain_CIP_108545_16S_ribosomal_RNA_partial_sequence
+|                                                  |  |     +**|
+|                                                  |  |     |  +**NR_119093.2_Mycolicibacterium_chlorophenolicum_strain_PCP-I_16S_ribosomal_RNA_complete_sequence
+|                                                  |  |  +--|
+|                                                  |  |  |  +**NR_159107.1_Mycobacterium_grossiae_strain_PB739_16S_ribosomal_RNA_partial_sequence
+|                                                  |  +--| (61)
+|                                                  |     +--NR_028998.1_Mycolicibacterium_psychrotolerans_strain_WA101_16S_ribosomal_RNA_partial_sequence
+|                                               +--| (15)
+|                                               |  |        +**NR_118288.1_Mycolicibacter_longobardus_strain_DSM_45394_16S_ribosomal_RNA_partial_sequence
+|                                               |  |     +--|
+|                                               |  |     |  +**NR_157985.1_Mycobacterium_eburneum_strain_DSM_44358_16S_ribosomal_RNA_partial_sequence
+|                                               |  |  +--| (99)
+|                                               |  |  |  +--NR_157699.1_Mycobacterium_talmoniae_strain_NE-TNMC-100812_16S_ribosomal_RNA_complete_sequence
+|                                               |  +--| (21)
+|                                               |     +--NR_026173.1_Mycolicibacterium_chlorophenolicum_strain_DSM_43826_16S_ribosomal_RNA_partial_sequence
+|                                            +--| (56)
+|                                            |  |              +--40cm_Fin_2_
+|                                            |  |           +--| (95)
+|                                            |  |           |  +--80cm_Fin_8_
+|                                            |  |        +--| (89)
+|                                            |  |        |  +---------------80cm_Gotland
+|                                            |  |  +-----| (90)
+|                                            |  |  |     +--20cm_Fin_2_
+|                                            |  +--| (31)
+|                                            |     +--NR_104690.1_Mycolicibacterium_madagascariense_strain_P2_16S_ribosomal_RNA_partial_sequence
+|                                         +--| (78)
+|                                         |  |                                                                          +--185cm_Gotland_2_
+|                                         |  |                                                                       +--| (92)
+|                                         |  |                                                                       |  |  +---80cm_Fin_2_
+|                                         |  |                                                                       |  +--| (64)
+|                                         |  |                                                                       |     |  +--110cm_Fin_6_
+|                                         |  |                                                                       |     +--| (98)
+|                                         |  |                                                                       |        +--190cm_Fin_5_
+|                                         |  |                                                                    +--| (75)
+|                                         |  |                                                                    |  +-------150cm_Fin_2_
+|                                         |  |                                                                 +--| (74)
+|                                         |  |                                                                 |  +--110cm_Fin_5_
+|                                         |  |                                                              +--| (57)
+|                                         |  |                                                              |  +--80cm_Fin_10_
+|                                         |  |                                                           +--| (58)
+|                                         |  |                                                           |  +--80cm_Fin_3_
+|                                         |  |                                                        +--| (51)
+|                                         |  |                                                        |  +--150cm_Fin_7_
+|                                         |  |                                                     +--| (74)
+|                                         |  |                                                     |  |  +--20cm_Gotland_2_
+|                                         |  |                                                     |  +--| (65)
+|                                         |  |                                                     |     +--80cm_Fin_6_
+|                                         |  |                                                  +--| (95)
+|                                         |  |                                                  |  +--145cm_Gotland_3_
+|                                         |  |                                               +--| (83)
+|                                         |  |                                               |  +-----40cm_Gotland_2_
+|                                         |  |                                          +----| (92)
+|                                         |  |                                          |    |                    +--2cm_Gotland_7_
+|                                         |  |                                          |    |                 +--| (98)
+|                                         |  |                                          |    |                 |  +--20cm_Gotland_3_
+|                                         |  |                                          |    |              +--| (66)
+|                                         |  |                                          |    |              |  |    +------------190cm_Fin
+|                                         |  |                                          |    |              |  +----| (90)
+|                                         |  |                                          |    |              |       +--190cm_Fin_4_
+|                                         |  |                                          |    |           +--| (83)
+|                                         |  |                                          |    |           |  +--220cm_Gotland_6_
+|                                         |  |                                          |    |        +--| (87)
+|                                         |  |                                          |    |        |  +----145cm_Gotland_4_
+|                                         |  |                                          |    |     +--| (83)
+|                                         |  |                                          |    |     |  +--220cm_Gotland_2_
+|                                         |  |                                          |    |  +--| (88)
+|                                         |  |                                          |    |  |  +-------2cm_Gotland_5_
+|                                         |  |                                          |    +--| (85)
+|                                         |  |                                          |       |     +---185cm_Gotland
+|                                         |  |                                          |       |  +--| (97)
+|                                         |  |                                          |       |  |  |  +--80cm_Fin_5_
+|                                         |  |                                          |       |  |  +--| (79)
+|                                         |  |                                          |       |  |     +--190cm_Fin_2_
+|                                         |  |                                          |       +--| (98)
+|                                         |  |                                          |          +---80cm_Fin
+|                                         |  |                                       +--| (43)
+|                                         |  |                                       |  |     +--20cm_Fin_6_
+|                                         |  |                                       |  |  +--| (76)
+|                                         |  |                                       |  |  |  |     +---10cm_Fin_2_
+|                                         |  |                                       |  |  |  |  +--| (77)
+|                                         |  |                                       |  |  |  |  |  +--------10cm_Fin_3_
+|                                         |  |                                       |  |  |  +--| (74)
+|                                         |  |                                       |  |  |     |  +--150cm_Fin_3_
+|                                         |  |                                       |  |  |     +--| (90)
+|                                         |  |                                       |  |  |        +--80cm_Fin_12_
+|                                         |  |                                       |  +--| (71)
+|                                         |  |                                       |     +-----2cm_Gotland_2_
+|                                         |  |                                    +--| (26)
+|                                         |  |                                    |  |  +-------220cm_Gotland_3_
+|                                         |  |                                    |  +--| (74)
+|                                         |  |                                    |     +-------2cm_Gotland_3_
+|                                         |  |                                 +--| (43)
+|                                         |  |                                 |  |           +--220cm_Gotland_4_
+|                                         |  |                                 |  |        +--| (89)
+|                                         |  |                                 |  |        |  +----2cm_Fin_5_
+|                                         |  |                                 |  |     +--| (89)
+|                                         |  |                                 |  |     |  +---2cm_Fin_3_
+|                                         |  |                                 |  |  +--| (83)
+|                                         |  |                                 |  |  |  +-----110cm_Fin_3_
+|                                         |  |                                 |  +--| (69)
+|                                         |  |                                 |     |  +--20cm_Fin_3_
+|                                         |  |                                 |     +--| (86)
+|                                         |  |                                 |        +--40cm_Gotland
+|                                         |  |                              +--| (30)
+|                                         |  |                              |  |     +----20cm_Fin_4_
+|                                         |  |                              |  |  +--| (84)
+|                                         |  |                              |  |  |  +---10cm_Fin
+|                                         |  |                              |  +--| (75)
+|                                         |  |                              |     +--2cm_Fin_15_
+|                                         |  |                           +--| (75)
+|                                         |  |                           |  |           +--150cm_Fin_5_
+|                                         |  |                           |  |        +--| (95)
+|                                         |  |                           |  |        |  +--2cm_Gotland_12_
+|                                         |  |                           |  |     +--| (65)
+|                                         |  |                           |  |     |  |            +-----------80cm_Fin_7_
+|                                         |  |                           |  |     |  |        +---| (78)
+|                                         |  |                           |  |     |  |        |   +---2cm_Fin
+|                                         |  |                           |  |     |  |     +--| (48)
+|                                         |  |                           |  |     |  |     |  +------2cm_Fin_7_
+|                                         |  |                           |  |     |  |  +--| (75)
+|                                         |  |                           |  |     |  |  |  +--120cm_Gotland_2_
+|                                         |  |                           |  |     |  +--| (75)
+|                                         |  |                           |  |     |     +--2cm_Fin_9_
+|                                         |  |                           |  |  +--| (68)
+|                                         |  |                           |  |  |  |           +--2cm_Gotland_6_
+|                                         |  |                           |  |  |  |        +--| (100)
+|                                         |  |                           |  |  |  |        |  +--2cm_Fin_10_
+|                                         |  |                           |  |  |  |     +--| (93)
+|                                         |  |                           |  |  |  |     |  +----220cm_Gotland_5_
+|                                         |  |                           |  |  |  |  +--| (74)
+|                                         |  |                           |  |  |  |  |  +--2cm_Fin_8_
+|                                         |  |                           |  |  |  +--| (63)
+|                                         |  |                           |  |  |     +--190cm_Fin_9_
+|                                         |  |                           |  +--| (76)
+|                                         |  |                           |     |       +--190cm_Fin_6_
+|                                         |  |                           |     |  +----| (100)
+|                                         |  |                           |     |  |    +--150cm_Fin_6_
+|                                         |  |                           |     +--| (61)
+|                                         |  |                           |        +--2cm_Gotland_8_
+|                                         |  |                        +--| (41)
+|                                         |  |                        |  |        +--20cm_Fin
+|                                         |  |                        |  |     +--| (80)
+|                                         |  |                        |  |     |  |  +--120cm_Gotland_3_
+|                                         |  |                        |  |     |  +--| (97)
+|                                         |  |                        |  |     |     |  +--270cm_Gotland_2_
+|                                         |  |                        |  |     |     +--| (97)
+|                                         |  |                        |  |     |        +--190cm_Fin_3_
+|                                         |  |                        |  |  +--| (95)
+|                                         |  |                        |  |  |  +--150cm_Fin_8_
+|                                         |  |                        |  +--| (61)
+|                                         |  |                        |     |     +---------------------------------80cm_Fin_9_
+|                                         |  |                        |     |  +--| (97)
+|                                         |  |                        |     |  |  +--220cm_Gotland
+|                                         |  |                        |     +--| (89)
+|                                         |  |                        |        +--2cm_Fin_13_
+|                                         |  |                     +--| (51)
+|                                         |  |                     |  |  +--20cm_Fin_5_
+|                                         |  |                     |  +--| (97)
+|                                         |  |                     |     |           +--2cm_Fin_14_
+|                                         |  |                     |     |        +--| (86)
+|                                         |  |                     |     |        |  +--150cm_Fin_4_
+|                                         |  |                     |     |     +--| (99)
+|                                         |  |                     |     |     |  |  +--110cm_Fin_2_
+|                                         |  |                     |     |     |  +--| (100)
+|                                         |  |                     |     |     |     +--20cm_Gotland
+|                                         |  |                     |     |  +--| (77)
+|                                         |  |                     |     |  |  |         +--270cm_Gotland
+|                                         |  |                     |     |  |  |     +---| (100)
+|                                         |  |                     |     |  |  |     |   +--80cm_Fin_4_
+|                                         |  |                     |     |  |  |  +--| (97)
+|                                         |  |                     |     |  |  |  |  |     +--80cm_Fin_13_
+|                                         |  |                     |     |  |  |  |  |  +--| (97)
+|                                         |  |                     |     |  |  |  |  |  |  +--150cm_Fin
+|                                         |  |                     |     |  |  |  |  +--| (65)
+|                                         |  |                     |     |  |  |  |     +--2cm_Fin_2_
+|                                         |  |                     |     |  |  +--| (95)
+|                                         |  |                     |     |  |     +--40cm_Gotland_3_
+|                                         |  |                     |     +--| (78)
+|                                         |  |                     |        |  +--145cm_Gotland_2_
+|                                         |  |                     |        +--| (78)
+|                                         |  |                     |           +--185cm_Gotland_4_
+|                                         |  |                  +--| (79)
+|                                         |  |                  |  |  +--2cm_Gotland
+|                                         |  |                  |  +--| (75)
+|                                         |  |                  |     |    +--2cm_Fin_4_
+|                                         |  |                  |     +----| (99)
+|                                         |  |                  |          +--------2cm_Fin_11_
+|                                         |  |               +--| (32)
+|                                         |  |               |  |  +--2cm_Gotland_14_
+|                                         |  |               |  +--| (84)
+|                                         |  |               |     +--2cm_Gotland_13_
+|                                         |  |           +---| (55)
+|                                         |  |           |   |        +----------------------2cm_Gotland_9_
+|                                         |  |           |   |     +--| (80)
+|                                         |  |           |   |     |  +--2cm_Gotland_4_
+|                                         |  |           |   |  +--| (62)
+|                                         |  |           |   |  |  +---------185cm_Gotland_3_
+|                                         |  |           |   +--| (53)
+|                                         |  |           |      +---2cm_Gotland_11_
+|                                         |  |        +--| (83)
+|                                         |  |        |  +--2cm_Fin_12_
+|                                         |  |     +--| (55)
+|                                         |  |     |  +---------190cm_Fin_7_
+|                                         |  |  +--| (50)
+|                                         |  |  |  |           +--20cm_Fin_7_
+|                                         |  |  |  |        +--| (69)
+|                                         |  |  |  |        |  +-----------110cm_Fin
+|                                         |  |  |  |     +--| (96)
+|                                         |  |  |  |     |  +--190cm_Fin_10_
+|                                         |  |  |  |  +--| (77)
+|                                         |  |  |  |  |  |        +--2cm_Gotland_10_
+|                                         |  |  |  |  |  |     +--| (97)
+|                                         |  |  |  |  |  |     |  +--20cm_Gotland_4_
+|                                         |  |  |  |  |  |  +--| (100)
+|                                         |  |  |  |  |  |  |  +--40cm_Fin
+|                                         |  |  |  |  |  +--| (92)
+|                                         |  |  |  |  |     |  +--2cm_Gotland_15_
+|                                         |  |  |  |  |     +--| (97)
+|                                         |  |  |  |  |        +----------110cm_Fin_4_
+|                                         |  |  |  +--| (63)
+|                                         |  |  |     +----190cm_Fin_8_
+|                                         |  +--| (34)
+|                                         |     |  +--120cm_Gotland
+|                                         |     +--| (99)
+|                                         |        +--NR_041945.1_Mycobacterium_shimoidei_strain_ATCC_27962_16S_ribosomal_RNA_partial_sequence
+|                                      +--| (57)
+|                                      |  |                             +**NR_044449.1_Mycobacterium_riyadhense_strain_NLA000201958_16S_ribosomal_RNA_partial_sequence
+|                                      |  |                          +**|
+|                                      |  |                          |  +**NR_117225.1_Mycobacterium_malmoense_strain_ATCC_29571_16S_ribosomal_RNA_partial_sequence
+|                                      |  |                       +**|
+|                                      |  |                       |  +**NR_041901.1_Mycobacterium_asiaticum_strain_ATCC_25276_16S_ribosomal_RNA_partial_sequence
+|                                      |  |                    +**|
+|                                      |  |                    |  +**NR_104909.1_Mycobacterium_interjectum_strain_4185/92_16S_ribosomal_RNA_partial_sequence
+|                                      |  |                 +**|
+|                                      |  |                 |  +**NR_118584.1_Mycobacterium_szulgai_strain_ATCC_35799_16S_ribosomal_RNA_partial_sequence
+|                                      |  |              +**|
+|                                      |  |              |  +**NR_145908.1_Mycobacterium_angelicum_strain__DSM_45057_16S_ribosomal_RNA_partial_sequence
+|                                      |  |           +**|
+|                                      |  |           |  +**NR_025175.1_Mycobacterium_lacus_strain_NRCM_00-255_16S_ribosomal_RNA_partial_sequence
+|                                      |  |        +**|
+|                                      |  |        |  +**NR_147779.2_Mycobacterium_alsense_strain_TB_1906_16S_ribosomal_RNA_complete_sequence
+|                                      |  |     +--|
+|                                      |  |     |  +**NR_118917.1_Mycobacterium_asiaticum_strain_ATCC_25276_16S_ribosomal_RNA_partial_sequence
+|                                      |  |  +--| (89)
+|                                      |  |  |  +--NR_104888.1_Mycobacterium_haemophilum_DSM_44634_16S_ribosomal_RNA_partial_sequence
+|                                      |  +--| (91)
+|                                      |     +--NR_044814.1_Mycobacterium_malmoense_strain_ATCC_29571_16S_ribosomal_RNA_partial_sequence
+|                                   +--| (96)
+|                                   |  +-----2cm_Fin_6_
+|                                +--| (96)
+|                                |  +--NR_118331.1_Mycobacterium_gordonae_strain_ATCC_14470_16S_ribosomal_RNA_partial_sequence
+|                             +--|
+|                             |  +--NR_044840.1_Mycobacterium_intermedium_strain_1669/91_16S_ribosomal_RNA_partial_sequence
+|                          +**|
+|                          |  +**NR_146658.1_Mycobacterium_paraintracellulare_strain_MOTT64_16S_ribosomal_RNA_partial_sequence
+|                       +**|
+|                       |  +**NR_135729.1_Mycobacterium_bourgelatii_strain_MLB-A84_16S_ribosomal_RNA_partial_sequence
+|                    +**|
+|                    |  +**NR_118111.1_Mycobacterium_intracellulare_ATCC_13950_16S_ribosomal_RNA_partial_sequence
+|                 +**|
+|                 |  +**NR_042423.1_Mycobacterium_colombiense_CECT_3035_strain_10B_16S_ribosomal_RNA_partial_sequence
+|              +**|
+|              |  +**NR_156953.1_Mycobacterium_persicum_strain_AFPC-000227_16S_ribosomal_RNA_partial_sequence
+|           +**|
+|           |  +**NR_102810.2_Mycobacterium_tuberculosis_H37Rv_16S_ribosomal_RNA_complete_sequence
+|        +**|
+|        |  +**NR_118147.1_Mycobacterium_intracellulare_subsp._yongonense_strain_05-1390_16S_ribosomal_RNA_partial_sequence
+|     +**|
+|     |  +**NR_104956.1_Mycobacterium_timonense_strain_5351974_16S_ribosomal_RNA_partial_sequence
+|  +**|
+|  |  +**NR_044826.2_Mycobacterium_tuberculosis_H37Rv_16S_ribosomal_RNA_complete_sequence
++**|
+|  +**NR_042793.1_Mycobacterium_saskatchewanense_strain_NRCM_00-250_16S_ribosomal_RNA_partial_sequence
+|
++**NR_113366.1_Mycobacterium_marinum_strain_ATCC_927_16S_ribosomal_RNA_partial_sequence
+
+
+Consensus tree in newick format: 
+
+(NR_121712.2_Mycobacterium_kansasii_ATCC_12478_16S_ribosomal_RNA_complete_sequence:0.0000000000,((((((((((((((((((((((((((((NR_117885.1_Mycolicibacterium_tusciae_strain_CIP_106367_16S_ribosomal_RNA_partial_sequence:0.0000000000,NR_029219.1_Mycolicibacterium_aichiense_strain_49005_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_115805.1_Mycolicibacterium_gadium_strain_CIP_105388_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_026087.1_Mycolicibacterium_gadium_strain_1066_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000029673,NR_025529.1_Mycolicibacterium_rhodesiae_strain_DSM_44223_16S_ribosomal_RNA_partial_sequence:0.0000029673)87:0.0000029673,NR_024903.1_Mycolicibacterium_tusciae_strain_FI-25796_16S_ribosomal_RNA_partial_sequence:0.0000029673)98:0.0058842097,(NR_152646.1_Mycolicibacterium_sarraceniae_strain_JCM_30395_16S_ribosomal_RNA_partial_sequence:0.0000029673,NR_109733.1_Mycolicibacterium_sediminis_strain_YIM_M13028_16S_ribosomal_RNA_partial_sequence:0.0000029673)96:0.0000029673)29:0.0059314344,((((((((((NR_026284.1_Mycolicibacterium_austroafricanum_strain_ATCC_33464_16S_ribosomal_RNA_partial_sequence:0.0000000000,NR_116555.1_Mycolicibacterium_aurum_strain_ATCC_23366_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_029293.1_Mycolicibacterium_vanbaalenii_PYR-1_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_029217.1_Mycolicibacterium_aurum_strain_358_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000029673,NR_026086.1_Mycolicibacterium_komossense_strain_Ko2_16S_ribosomal_RNA_partial_sequence:0.0000029673)76:0.0000029673,NR_074572.1_Mycolicibacterium_vanbaalenii_PYR-1_16S_ribosomal_RNA_partial_sequence:0.0000029673)90:0.0000029673,((NR_115311.1_Mycolicibacterium_flavescens_strain_ATCC_14474_16S_ribosomal_RNA_partial_sequence:0.0000000000,NR_043761.1_Mycolicibacterium_rutilum_strain_czh-117_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000029673,NR_044815.1_Mycolicibacterium_flavescens_strain_ATCC_14474_16S_ribosomal_RNA_partial_sequence:0.0000029673)98:0.0059558908)74:0.0059275928,(NR_109734.2_Mycolicibacterium_arabiense_strain_YIM_121001_16S_ribosomal_RNA_complete_sequence:0.0000029673,NR_026286.1_Mycobacterium_hodleri_strain_DSM_44183_16S_ribosomal_RNA_partial_sequence:0.0000029673)96:0.0000029673)43:0.0058884599,(145cm_Gotland:0.0000029673,80cm_Fin_11_:0.0000029673)100:0.0180510272)36:0.0000029673,(((NR_151953.1_Mycolicibacterium_lutetiense_strain_071_16S_ribosomal_RNA_partial_sequence:0.0000000000,NR_118612.1_Mycolicibacterium_smegmatis_strain_DSM_43756_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_151955.1_Mycolicibacterium_montmartrense_strain_196_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000029673,NR_151954.1_Mycobacterium_arcueilense_strain_269_16S_ribosomal_RNA_partial_sequence:0.0000029673)90:0.0000029673)36:0.0000029673,(((((((((((((((NR_134094.1_Mycolicibacterium_hippocampi_strain_BFLP-6_16S_ribosomal_RNA_partial_sequence:0.0000000000,NR_114447.1_Mycolicibacterium_peregrinum_strain_ATCC_14467_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_042922.1_Mycolicibacterium_wolinskyi_strain_ATCC_700010_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_116557.1_Mycolicibacterium_bacteremicum_strain_ATCC_25791_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_115232.1_Mycolicibacterium_mageritense_strain_CIP_104973_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_104691.1_Mycolicibacterium_murale_strain_MA112/96_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_025737.1_Mycolicibacterium_canariasense_strain_502329_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_136492.1_Mycolicibacterium_anyangense_strain_QIA-38_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_025236.1_Mycolicibacterium_tokaiense_strain_ATCC_27282_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_025787.1_Mycolicibacterium_cosmeticum_strain_LTA-388_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_119253.1_Mycolicibacterium_wolinskyi_strain_700010_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_158076.1_Mycobacterium_aquiterrae_strain_S-I-6_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_026073.1_Mycolicibacterium_duvalii_strain_ATCC_43910_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_117884.1_Mycolicibacterium_murale_strain_CCUG_39728_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_117909.1_Mycolicibacterium_iranicum_strain_M05_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000029673,NR_042265.1_Mycolicibacterium_mageritense_DSM_44476___CIP_104973_strain_938_16S_ribosomal_RNA_partial_sequence:0.0000029673)96:0.0059089311)20:0.0000029673)41:0.0060609761,((((((NR_042280.1_Mycolicibacterium_llatzerense_strain_MG13_16S_ribosomal_RNA_partial_sequence:0.0000000000,NR_114656.1_Mycolicibacterium_mucogenicum_strain_ATCC_49650_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_042919.1_Mycolicibacterium_mucogenicum_strain_ATCC_49650_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_043237.1_Mycolicibacterium_phocaicum_strain_N4_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_041906.1_Mycolicibacterium_phlei_strain_DSM_43239_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000029673,NR_125525.1_Mycolicibacterium_insubricum_strain_FI-06250_16S_ribosomal_RNA_partial_sequence:0.0000029673)96:0.0000029673,NR_028970.1_Mycobacterium_pyrenivorans_strain_17A317A3_16S_ribosomal_RNA_partial_sequence:0.0059744999)31:0.0000029673)61:0.0059516265,(((NR_117529.1_Mycolicibacter_algericus_DSM_45454_strain_Bejaia_16S_ribosomal_RNA_partial_sequence:0.0000029673,NR_041346.1_Mycolicibacter_kumamotonensis_strain_CST_7274_16S_ribosomal_RNA_partial_sequence:0.0000029673)99:0.0061953926,NR_028945.2_Mycobacterium_holsaticum_strain_1406_16S_ribosomal_RNA_complete_sequence:0.0122917263)70:0.0058673560,(NR_025233.1_Mycolicibacterium_brumae_strain_ATCC_51384_16S_ribosomal_RNA_partial_sequence:0.0000029673,NR_156819.1_Mycolicibacterium_malmesburyense_strain_WCM_7299_16S_ribosomal_RNA_partial_sequence:0.0000029673)95:0.0000029673)60:0.0059802528)14:0.0000029673,NR_043901.1_Mycobacterium_crocinum_strain_czh-42_16S_ribosomal_RNA_partial_sequence:0.0060022813)6:0.0000029673,((((((((((((((((NR_118914.1_Mycolicibacterium_chubuense_strain_ATCC_27278_16S_ribosomal_RNA_partial_sequence:0.0000000000,NR_043283.1_Mycobacterium_rufum_strain_JS14_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_041902.1_Mycolicibacterium_chubuense_strain_ATCC_27278_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_025296.1_Mycolicibacterium_elephantis_strain_DSM_44368_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_025528.1_Mycolicibacterium_pulveris_strain_DSM_44222_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_104774.1_Mycolicibacterium_sphagni_strain_Sph_38_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_025526.1_Mycolicibacterium_moriokaense_strain_DSM_44221_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_043760.1_Mycobacterium_pallens_strain_czh-8_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_158005.1_Mycobacterium_aquaticum_strain_RW6_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_029037.1_Mycolicibacterium_brisbanense_strain_W6743_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_115331.1_Mycolicibacterium_moriokaense_strain_CIP_105393_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_169341.1_Mycobacterium_palauense_strain_CECT_8779_16S_ribosomal_RNA_complete_sequence:0.0000000000):0.0000000000,NR_025235.1_Mycolicibacterium_poriferae_strain_ATCC_35087_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_115330.1_Mycobacterium_barrassiae_strain_CIP_108545_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_119093.2_Mycolicibacterium_chlorophenolicum_strain_PCP-I_16S_ribosomal_RNA_complete_sequence:0.0000000000):0.0000000000,NR_159107.1_Mycobacterium_grossiae_strain_PB739_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000029673,NR_028998.1_Mycolicibacterium_psychrotolerans_strain_WA101_16S_ribosomal_RNA_partial_sequence:0.0000029673)61:0.0000029673)4:0.0000029673,(((NR_118288.1_Mycolicibacter_longobardus_strain_DSM_45394_16S_ribosomal_RNA_partial_sequence:0.0000000000,NR_157985.1_Mycobacterium_eburneum_strain_DSM_44358_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000029673,NR_157699.1_Mycobacterium_talmoniae_strain_NE-TNMC-100812_16S_ribosomal_RNA_complete_sequence:0.0000029673)99:0.0059763620,NR_026173.1_Mycolicibacterium_chlorophenolicum_strain_DSM_43826_16S_ribosomal_RNA_partial_sequence:0.0060240372)21:0.0000029673)15:0.0000029673,((((40cm_Fin_2_:0.0000029673,80cm_Fin_8_:0.0000029673)95:0.0000029673,80cm_Gotland:0.1123872063)89:0.0060681040,20cm_Fin_2_:0.0122759791)90:0.0457642120,NR_104690.1_Mycolicibacterium_madagascariense_strain_P2_16S_ribosomal_RNA_partial_sequence:0.0059886102)31:0.0000029673)56:0.0059955221,((((((((((((((((((((((((185cm_Gotland_2_:0.0000029673,(80cm_Fin_2_:0.0293512128,(110cm_Fin_6_:0.0000029673,190cm_Fin_5_:0.0228945683)98:0.0171369234)64:0.0000029673)92:0.0058277225,150cm_Fin_2_:0.0565421781)75:0.0058812493,110cm_Fin_5_:0.0054718297)74:0.0057732261,80cm_Fin_10_:0.0254038156)57:0.0059795644,80cm_Fin_3_:0.0057565636)58:0.0000029673,150cm_Fin_7_:0.0175852340)51:0.0057227102,(20cm_Gotland_2_:0.0058174350,80cm_Fin_6_:0.0176227558)65:0.0057418076)74:0.0000029673,145cm_Gotland_3_:0.0000029673)95:0.0077652654,40cm_Gotland_2_:0.0419488519)83:0.0041184332,(((((((2cm_Gotland_7_:0.0177181982,20cm_Gotland_3_:0.0060466993)98:0.0066578858,(190cm_Fin:0.0887645394,190cm_Fin_4_:0.0000029673)90:0.0370599187)66:0.0000029673,220cm_Gotland_6_:0.0234162704)83:0.0228011979,145cm_Gotland_4_:0.0400006168)87:0.0204381843,220cm_Gotland_2_:0.0000022887)83:0.0060562994,2cm_Gotland_5_:0.0565032182)88:0.0124622186,((185cm_Gotland:0.0289369849,(80cm_Fin_5_:0.0000029673,190cm_Fin_2_:0.0168729828)79:0.0000029904)97:0.0223683616,80cm_Fin:0.0332966927)98:0.0249340212)85:0.0075684439)92:0.0362194352,((20cm_Fin_6_:0.0258980274,((10cm_Fin_2_:0.0335308502,10cm_Fin_3_:0.0652125870)77:0.0247097880,(150cm_Fin_3_:0.0000029673,80cm_Fin_12_:0.0000029673)90:0.0000029673)74:0.0252184114)76:0.0052120967,2cm_Gotland_2_:0.0427272286)71:0.0118975211)43:0.0163318028,(220cm_Gotland_3_:0.0602726397,2cm_Gotland_3_:0.0554969548)74:0.0262300391)26:0.0034705147,((((220cm_Gotland_4_:0.0234910165,2cm_Fin_5_:0.0343755462)89:0.0128414168,2cm_Fin_3_:0.0313236116)89:0.0056210865,110cm_Fin_3_:0.0462720713)83:0.0144138350,(20cm_Fin_3_:0.0182118789,40cm_Gotland:0.0182830180)86:0.0074374955)69:0.0127606670)43:0.0159903120,((20cm_Fin_4_:0.0380983320,10cm_Fin:0.0308066599)84:0.0087130309,2cm_Fin_15_:0.0244842788)75:0.0102421316)30:0.0124601447,((((150cm_Fin_5_:0.0055872140,2cm_Gotland_12_:0.0000029673)95:0.0052006385,((((80cm_Fin_7_:0.0819656095,2cm_Fin:0.0312637170)78:0.0336330787,2cm_Fin_7_:0.0487620417)48:0.0000029904,120cm_Gotland_2_:0.0053476763)75:0.0239673355,2cm_Fin_9_:0.0000025132)75:0.0247466702)65:0.0120867969,((((2cm_Gotland_6_:0.0060925552,2cm_Fin_10_:0.0053353126)100:0.0197346838,220cm_Gotland_5_:0.0365877152)93:0.0240996102,2cm_Fin_8_:0.0000029673)74:0.0057148456,190cm_Fin_9_:0.0000029673)63:0.0000029673)68:0.0120756766,((190cm_Fin_6_:0.0103397362,150cm_Fin_6_:0.0254486897)100:0.0394794301,2cm_Gotland_8_:0.0247085253)61:0.0000021454)76:0.0207120510)75:0.0110629445,(((20cm_Fin:0.0179983723,(120cm_Gotland_3_:0.0178011117,(270cm_Gotland_2_:0.0000029673,190cm_Fin_3_:0.0000029673)97:0.0000026404)97:0.0121017539)80:0.0000029673,150cm_Fin_8_:0.0055673226)95:0.0083180633,((80cm_Fin_9_:0.2369906151,220cm_Gotland:0.0000029673)97:0.0052418202,2cm_Fin_13_:0.0250577393)89:0.0189330887)61:0.0099795422)41:0.0124265080,(20cm_Fin_5_:0.0117535592,((((2cm_Fin_14_:0.0000029673,150cm_Fin_4_:0.0000029673)86:0.0000029673,(110cm_Fin_2_:0.0000029673,20cm_Gotland:0.0000029673)100:0.0056984950)99:0.0120313241,(((270cm_Gotland:0.0000029673,80cm_Fin_4_:0.0056832611)100:0.0297111189,((80cm_Fin_13_:0.0115032816,150cm_Fin:0.0058289881)97:0.0175586062,2cm_Fin_2_:0.0240669023)65:0.0000029673)97:0.0246039421,40cm_Gotland_3_:0.0000029673)95:0.0057236926)77:0.0060142924,(145cm_Gotland_2_:0.0118887425,185cm_Gotland_4_:0.0117920942)78:0.0060623073)78:0.0000029673)97:0.0130375399)51:0.0101882673,(2cm_Gotland:0.0000020188,(2cm_Fin_4_:0.0105554912,2cm_Fin_11_:0.0633269197)99:0.0387224099)75:0.0145346457)79:0.0251806499,(2cm_Gotland_14_:0.0000029673,2cm_Gotland_13_:0.0000029673)84:0.0000025104)32:0.0000021632,(((2cm_Gotland_9_:0.1610860610,2cm_Gotland_4_:0.0000020188)80:0.0156470697,185cm_Gotland_3_:0.0732367238)62:0.0152769583,2cm_Gotland_11_:0.0301410188)53:0.0052359180)55:0.0325292567,2cm_Fin_12_:0.0267836993)83:0.0113292517,190cm_Fin_7_:0.0712971086)55:0.0000029673,((((20cm_Fin_7_:0.0117744850,110cm_Fin:0.0829613595)69:0.0000029673,190cm_Fin_10_:0.0059103368)96:0.0180904500,(((2cm_Gotland_10_:0.0000029673,20cm_Gotland_4_:0.0000029673)97:0.0000029673,40cm_Fin:0.0119561658)100:0.0245542304,(2cm_Gotland_15_:0.0057162076,110cm_Fin_4_:0.0769857154)97:0.0188056117)92:0.0062864680)77:0.0062196537,190cm_Fin_8_:0.0388235639)63:0.0000029673)50:0.0059967322,(120cm_Gotland:0.0183757204,NR_041945.1_Mycobacterium_shimoidei_strain_ATCC_27962_16S_ribosomal_RNA_partial_sequence:0.0060088303)99:0.0121429148)34:0.0000029673)78:0.0120801210,((((((((((NR_044449.1_Mycobacterium_riyadhense_strain_NLA000201958_16S_ribosomal_RNA_partial_sequence:0.0000000000,NR_117225.1_Mycobacterium_malmoense_strain_ATCC_29571_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_041901.1_Mycobacterium_asiaticum_strain_ATCC_25276_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_104909.1_Mycobacterium_interjectum_strain_4185/92_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_118584.1_Mycobacterium_szulgai_strain_ATCC_35799_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_145908.1_Mycobacterium_angelicum_strain__DSM_45057_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_025175.1_Mycobacterium_lacus_strain_NRCM_00-255_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_147779.2_Mycobacterium_alsense_strain_TB_1906_16S_ribosomal_RNA_complete_sequence:0.0000000000):0.0000000000,NR_118917.1_Mycobacterium_asiaticum_strain_ATCC_25276_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000029673,NR_104888.1_Mycobacterium_haemophilum_DSM_44634_16S_ribosomal_RNA_partial_sequence:0.0000029673)89:0.0000029673,NR_044814.1_Mycobacterium_malmoense_strain_ATCC_29571_16S_ribosomal_RNA_partial_sequence:0.0000029673)91:0.0000029673)57:0.0000029673,2cm_Fin_6_:0.0460805842)96:0.0059489595,NR_118331.1_Mycobacterium_gordonae_strain_ATCC_14470_16S_ribosomal_RNA_partial_sequence:0.0059730749)96:0.0000028450,NR_044840.1_Mycobacterium_intermedium_strain_1669/91_16S_ribosomal_RNA_partial_sequence:0.0000029673):0.0000029673,NR_146658.1_Mycobacterium_paraintracellulare_strain_MOTT64_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_135729.1_Mycobacterium_bourgelatii_strain_MLB-A84_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_118111.1_Mycobacterium_intracellulare_ATCC_13950_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_042423.1_Mycobacterium_colombiense_CECT_3035_strain_10B_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_156953.1_Mycobacterium_persicum_strain_AFPC-000227_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_102810.2_Mycobacterium_tuberculosis_H37Rv_16S_ribosomal_RNA_complete_sequence:0.0000000000):0.0000000000,NR_118147.1_Mycobacterium_intracellulare_subsp._yongonense_strain_05-1390_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_104956.1_Mycobacterium_timonense_strain_5351974_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_044826.2_Mycobacterium_tuberculosis_H37Rv_16S_ribosomal_RNA_complete_sequence:0.0000000000):0.0000000000,NR_042793.1_Mycobacterium_saskatchewanense_strain_NRCM_00-250_16S_ribosomal_RNA_partial_sequence:0.0000000000):0.0000000000,NR_113366.1_Mycobacterium_marinum_strain_ATCC_927_16S_ribosomal_RNA_partial_sequence:0.0000000000);
+
+TIME STAMP
+----------
+
+Date and time: Wed Sep 14 13:30:46 2022
+Total CPU time used: 1233.580934 seconds (0h:20m:33s)
+Total wall-clock time used: 366.4258771 seconds (0h:6m:6s)
+
