@@ -1,0 +1,171 @@
+IQ-TREE multicore version 2.1.3 COVID-edition for Linux 64-bit built Apr 21 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    mitoclub-System-Product-Name (AVX2, FMA3, 62 GB RAM)
+Command: iqtree2 -s ../aln_otu.fasta -m GTR+G -nt 12 -B 1000 --prefix eugene
+Seed:    924266 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Apr  6 16:00:33 2023
+Kernel:  AVX+FMA - 12 threads (24 CPU cores detected)
+
+Reading alignment file ../aln_otu.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 51 sequences with 254 columns, 169 distinct patterns
+138 parsimony-informative, 26 singleton sites, 90 constant sites
+        Gap/Ambiguity  Composition  p-value
+   1  OTU_1     1.18%    passed     45.42%
+   2  OTU_2     1.18%    passed     91.20%
+   3  OTU_3     1.18%    passed     70.43%
+   4  OTU_4     1.18%    passed     75.24%
+   5  OTU_5     1.18%    passed     71.58%
+   6  OTU_6     1.18%    passed     63.64%
+   7  OTU_7     1.18%    passed     57.76%
+   8  OTU_8     0.79%    passed     45.43%
+   9  OTU_9     0.79%    passed     74.64%
+  10  OTU_10    1.18%    passed     79.85%
+  11  OTU_11    1.18%    passed     95.41%
+  12  OTU_12    1.18%    passed     70.37%
+  13  OTU_13    1.18%    passed     30.51%
+  14  OTU_14    1.18%    passed     95.23%
+  15  OTU_15    1.18%    passed     64.55%
+  16  OTU_16    1.18%    passed     80.50%
+  17  OTU_17    1.18%    passed     41.30%
+  18  OTU_18    1.18%    passed     95.06%
+  19  OTU_19    1.18%    passed     74.08%
+  20  OTU_20    1.18%    passed     85.66%
+  21  OTU_21    1.18%    passed     72.03%
+  22  OTU_22    1.18%    passed     40.12%
+  23  OTU_23    1.18%    passed     64.90%
+  24  OTU_24    1.18%    passed     89.70%
+  25  OTU_25    1.18%    passed     85.53%
+  26  OTU_26    0.79%    failed      1.46%
+  27  OTU_27    1.18%    passed     86.10%
+  28  OTU_28    1.18%    passed     80.80%
+  29  OTU_29    0.79%    passed     94.23%
+  30  OTU_30    1.18%    passed     99.09%
+  31  OTU_31    0.79%    passed     97.72%
+  32  OTU_32    1.18%    passed     99.49%
+  33  OTU_33    1.18%    passed     92.52%
+  34  OTU_34    1.18%    passed     86.56%
+  35  OTU_35    1.18%    passed     91.31%
+  36  OTU_36    1.18%    passed     88.23%
+  37  OTU_37    1.18%    passed     93.97%
+  38  OTU_38    1.18%    passed     91.66%
+  39  OTU_39    1.18%    passed     51.12%
+  40  OTU_40    1.57%    passed     94.77%
+  41  OTU_41    1.18%    passed     86.88%
+  42  OTU_42    1.18%    passed     98.55%
+  43  OTU_43    1.18%    passed     99.62%
+  44  OTU_44    1.18%    passed     91.15%
+  45  OTU_45    1.18%    passed     64.28%
+  46  OTU_46    1.18%    passed     98.25%
+  47  OTU_47    1.18%    passed     96.21%
+  48  OTU_48    1.18%    passed     27.94%
+  49  OTU_49    1.18%    passed     87.68%
+  50  OTU_50    1.18%    passed     57.05%
+  51  OTU_51    1.18%    passed     94.67%
+****  TOTAL     1.15%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.004 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 924266)...
+
+NOTE: 1 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -5441.926
+2. Current log-likelihood: -5203.774
+3. Current log-likelihood: -5193.992
+4. Current log-likelihood: -5193.887
+Optimal log-likelihood: -5193.855
+Rate parameters:  A-C: 0.75663  A-G: 1.61848  A-T: 0.84774  C-G: 0.38126  C-T: 3.01385  G-T: 1.00000
+Base frequencies:  A: 0.256  C: 0.195  G: 0.357  T: 0.193
+Gamma shape alpha: 0.403
+Parameters optimization took 4 rounds (0.062 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.004437 sec (of wall-clock time) 0.053061 sec(of CPU time)
+Computing RapidNJ tree took 0.002876 sec (of wall-clock time) 0.037730 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -5214.597
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.242 second
+Computing log-likelihood of 98 initial trees ... 0.324 seconds
+Current best score: -5169.914
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -5158.435
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -5154.868
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 9: -5151.896
+Iteration 10 / LogL: -5159.604 / Time: 0h:0m:1s
+Iteration 20 / LogL: -5161.365 / Time: 0h:0m:2s
+Finish initializing candidate tree set (20)
+Current best tree score: -5151.896 / CPU time: 2.289
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 24: -5151.726
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 25: -5151.235
+UPDATE BEST LOG-LIKELIHOOD: -5151.235
+Iteration 30 / LogL: -5152.517 / Time: 0h:0m:3s (0h:0m:11s left)
+Iteration 40 / LogL: -5151.665 / Time: 0h:0m:4s (0h:0m:9s left)
+Iteration 50 / LogL: -5154.308 / Time: 0h:0m:5s (0h:0m:8s left)
+Log-likelihood cutoff on original alignment: -5186.713
+Iteration 60 / LogL: -5155.420 / Time: 0h:0m:6s (0h:0m:7s left)
+UPDATE BEST LOG-LIKELIHOOD: -5151.235
+Iteration 70 / LogL: -5152.330 / Time: 0h:0m:7s (0h:0m:6s left)
+Iteration 80 / LogL: -5151.662 / Time: 0h:0m:8s (0h:0m:4s left)
+UPDATE BEST LOG-LIKELIHOOD: -5151.235
+Iteration 90 / LogL: -5151.235 / Time: 0h:0m:9s (0h:0m:3s left)
+Iteration 100 / LogL: -5156.119 / Time: 0h:0m:10s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -5186.982
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+Iteration 110 / LogL: -5151.663 / Time: 0h:0m:12s (0h:0m:9s left)
+Iteration 120 / LogL: -5151.663 / Time: 0h:0m:13s (0h:0m:8s left)
+TREE SEARCH COMPLETED AFTER 126 ITERATIONS / Time: 0h:0m:13s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5151.235
+Optimal log-likelihood: -5151.235
+Rate parameters:  A-C: 0.73043  A-G: 1.67897  A-T: 0.81408  C-G: 0.34337  C-T: 3.12995  G-T: 1.00000
+Base frequencies:  A: 0.256  C: 0.195  G: 0.357  T: 0.193
+Gamma shape alpha: 0.406
+Parameters optimization took 1 rounds (0.007 sec)
+BEST SCORE FOUND : -5151.235
+Creating bootstrap support values...
+Split supports printed to NEXUS file eugene.splits.nex
+Total tree length: 8.087
+
+Total number of iterations: 126
+CPU time used for tree search: 162.144 sec (0h:2m:42s)
+Wall-clock time used for tree search: 13.636 sec (0h:0m:13s)
+Total CPU time used: 164.291 sec (0h:2m:44s)
+Total wall-clock time used: 13.819 sec (0h:0m:13s)
+
+Computing bootstrap consensus tree...
+Reading input file eugene.splits.nex...
+51 taxa and 513 splits.
+Consensus tree written to eugene.contree
+Reading input trees file eugene.contree
+Log-likelihood of consensus tree: -5152.063
+
+Analysis results written to: 
+  IQ-TREE report:                eugene.iqtree
+  Maximum-likelihood tree:       eugene.treefile
+  Likelihood distances:          eugene.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          eugene.splits.nex
+  Consensus tree:                eugene.contree
+  Screen log file:               eugene.log
+
+Date and Time: Thu Apr  6 16:00:47 2023
